@@ -1,0 +1,24 @@
+{
+  "teamName": "Team Koders",
+  "members": [
+    {
+      "name": "Alan Norton",
+      "twitter": "nonrational",
+      "koding": "nonrational",
+      "location": "New York, NY, USA",
+      "lead": true
+    },
+    {
+      "name": "John Mileham",
+      "location": "New York, NY, USA",
+    },
+    {
+      "name": "Sam Moore",
+      "location": "New York, NY, USA",
+    },
+    {
+      "name": "Sarah Whinnem",
+      "location": "New York, NY, USA",
+    }
+  ]
+}
