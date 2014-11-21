@@ -1,29 +1,12 @@
 {
-  "teamName": "Team Koders",
+  "teamName": "The Warrior Poet",
   "members": [
     {
-      "name": "Emre Durmus",
-      "twitter": "emre",
-      "koding": "emre",
-      "location": "Istanbul, TR"
-    },
-    {
-      "name": "Sinan Yasar",
-      "twitter": "sinanyasar",
-      "koding": "sinan",
+      "name": "Andrew Jones",
+      "twitter": "AndrewCVPD",
+      "koding": "thewarriorpoet",
+      "location": "Wollongong, NSW, Australia",
       "lead": true
-    },
-    {
-      "name": "Devrim Yasar",
-      "twitter": "devrimyasar",
-      "koding": "devrim",
-      "location": "SF, US"
-    },
-    {
-      "name": "Stefan Cosma",
-      "twitter": "stefanbc",
-      "koding": "stefanbc",
-      "location": "Romania"
     }
   ]
 }
