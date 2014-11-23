@@ -1,0 +1,30 @@
+{
+"teamName": "Geaky",
+"members": [
+ {
+"name": "Full Name",
+"twitter": "twitter acct no @",
+"koding": "koding username",
+"location": "city, 2 digit country code"
+},
+{
+"name": "Geaky",
+"twitter": "geaky",
+"koding": "geaky",
+"location": "Nairobi, KE"
+},
+{
+"name": "Joel Okomoli",
+"twitter": "jokomoli",
+"koding": "jokomoli",
+"location": "Nairobi, KE",
+"lead": true
+},
+{
+"name": "Felista Moraa",
+"twitter": "moraafely",
+"koding": "geekygurl254",
+"location": "Nairobi, KE"
+}
+]
+}
