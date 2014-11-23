@@ -14,6 +14,7 @@ Raymond Evans
   * Knowledgable in Python, Java, and Microsoft Windows Script Host 
   * Security+ certified
   * Professional network security specialist 
+  * Personal website www.cydefe.com
 
 Jason Davis
   * Knowledgable in Microsoft Windows Script Host
