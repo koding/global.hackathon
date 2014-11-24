@@ -1,0 +1,42 @@
+{
+  "teamName": "Bachman Boys",
+  "members": [
+    {
+      "name": "Full Name",
+      "twitter": "twitter acct no @",
+      "koding": "koding username",
+      "location": "city, 2 digit country code"
+    },
+    {
+      "name": "Sriram Vellanki",
+      "twitter": "srizzler",
+      "koding": "srizzler",
+      "location": "Hyderabad, IN",
+      "lead": true
+    },
+    {
+      "name": "Ravi Pabolu",
+      "twitter": "",
+      "koding": "",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Satish Addanki",
+      "twitter": "",
+      "koding": "",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Seshu Peddinti",
+      "twitter": "seshacharyulu",
+      "koding": "",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Dinakar Ganti",
+      "twitter": "Dinakar530",
+      "koding": "",
+      "location": "Hyderabad, IN"
+    }
+  ]
+}
