@@ -1,0 +1,17 @@
+{
+  "teamName": "Team Awesome",
+  "members": [
+    {
+      "name": "Josh Murray",
+      "twitter": "kdjosh",
+      "koding": "joshmurray",
+      "location": "Seattle, WA"
+    },
+    {
+      "name": "Jake Murray",
+      "twitter": "kdjake",
+      "koding": "jakemurray",
+      "location": "Seattle, WA"
+    }
+  ]
+}
