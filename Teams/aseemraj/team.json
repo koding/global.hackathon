@@ -1,0 +1,36 @@
+{
+  "teamName": "Team Koders",
+  "members": [
+    {
+      "name": "Full Name",
+      "twitter": "twitter acct no @",
+      "koding": "koding username",
+      "location": "city, 2 digit country code"
+    },
+    {
+      "name": "Senthil A",
+      "twitter": "sent0hil",
+      "koding": "sent-hil",
+      "location": "Chennai, IN"
+    },
+    {
+      "name": "Sinan Yasar",
+      "twitter": "sinanyasar",
+      "koding": "sinan",
+      "location": "San Francsico, US",
+      "lead": true
+    },
+    {
+      "name": "Devrim Yasar",
+      "twitter": "devrimyasar",
+      "koding": "devrim",
+      "location": "San Francsico, US"
+    },
+    {
+      "name": "Nitin Gupta",
+      "twitter": "gniting",
+      "koding": "nitin",
+      "location": "Turin, IT"
+    }
+  ]
+}
