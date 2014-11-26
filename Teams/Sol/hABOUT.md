@@ -1,4 +1,4 @@
-Team ECO
+Team Sol
 =========
 I am a single team at the moment.I am from Massachusetts, United States!
 
