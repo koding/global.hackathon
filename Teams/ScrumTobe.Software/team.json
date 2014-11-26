@@ -1,0 +1,37 @@
+{
+  "teamName": "ScrumTobe Software",
+  "members": [
+    {
+      "name": "Hai Bui",
+      "twitter": "haibt@",
+      "github": "haibt",
+      "location": "Hanoi, VN",
+      "lead": true
+    },
+    {
+      "name": "Hung Kieu",
+      "github": "hungkv",
+      "location": "Hanoi, VN"
+    },
+    {
+      "name": "Tuan Ho",
+      "github": "tuanha",
+      "location": "Hanoi, VN"
+    },
+    {
+      "name": "Long Bui",
+      "github": "builong",
+      "location": "Hanoi, VN"
+    },
+    {
+      "name": "Giang Phan",
+      "github": "giangphanthanh",
+      "location": "Hanoi, VN"
+    },
+    {
+      "name": "Thai Nguyen",
+      "github": "thainqit",
+      "location": "Hanoi, VN"
+    }
+  ]
+}
