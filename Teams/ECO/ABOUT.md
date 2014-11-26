@@ -1,10 +1,10 @@
 Team ECO
 =========
-We are a team from Massachusetts, United States!
+I am a single team at the moment.I am from Massachusetts, United States!
 
 The Team
 =========
-I am a single team at the moment. /n
+
 Ethan Chiu 
 <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/081/3f0/26f1744.jpg'/>
 
