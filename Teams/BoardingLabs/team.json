@@ -1,0 +1,36 @@
+{
+  "teamName": "Boarding Labs",
+  "members": [
+    {
+      "name": "Rizky Gustinaldi Azhary",
+      "twitter": "ajghrizky",
+      "koding": "boardinglabs",
+      "location": "Bandung, ID"
+      "lead": true
+    },
+    {
+      "name": "Nurwin Hermansyah",
+      "twitter": "nurwiiin",
+      "koding": "nurwin",
+      "location": "Bandung, ID"
+    },
+    {
+      "name": "Asep Maulana Ismail",
+      "twitter": "maulionaire",
+      "koding": "asepmaulanaismail",
+      "location": "Bandung, ID",
+    },
+    {
+      "name": "Bintang Ramadan",
+      "twitter": "Ramadan_bintang",
+      "koding": "bintangramadan",
+      "location": "Bandung, ID"
+    },
+    {
+      "name": "Rully Primangesta",
+      "twitter": "primangesta",
+      "koding": "rullyprimangesta",
+      "location": "Bandung, ID"
+    }
+  ]
+}
