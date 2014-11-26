@@ -1,4 +1,4 @@
-ECO
+Team ECO
 =========
 We are a team from Massachusetts, United States!
 
