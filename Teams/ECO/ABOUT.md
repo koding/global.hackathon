@@ -5,7 +5,7 @@ We are a team from Massachusetts, United States!
 The Team
 =========
 Ethan Chiu 
-<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg'/>
+<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/081/3f0/26f1744.jpg'/>
 
 Skills and Project
 =========
