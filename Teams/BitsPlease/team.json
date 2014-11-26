@@ -1,0 +1,30 @@
+{
+  "teamName": "Team Name",
+  "members": [
+    {
+      "name": "Puyuan Deng",
+      "twitter": "paulliwali",
+      "koding": "paulliwali",
+      "location": "Vancouver, BC"
+    },
+    {
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": "",
+      "lead": true
+    },
+    {
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": ""
+    },
+    {
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": ""
+    }
+  ]
+}
