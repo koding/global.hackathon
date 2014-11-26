@@ -1,0 +1,24 @@
+{
+  "teamName": "SotonKoders",
+  "members": [
+    {
+      "name": "Devasena Inupakutika",
+      "twitter": "devasenaivs",
+      "koding": "devasenainupakutika",
+      "location": "Southampton, UK"
+    },
+    {
+      "name": "Jonathan Scott",
+      "twitter": "jscott1989",
+      "koding": "",
+      "location": "Southampton, UK",
+      "lead": true
+    },
+    {
+      "name": "Priyanka Singh",
+      "twitter": "",
+      "koding": "",
+      "location": "Southampton, UK"
+    }
+  ]
+}
