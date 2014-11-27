@@ -1,0 +1,66 @@
+{
+
+  "teamName": "DigitiCO",
+
+  "members": [
+
+    {
+
+      "name": “Mr GB”,
+
+
+
+      "koding": “mrgb”,
+
+      "location": "Binghamton, NY ,USA"
+
+    },
+
+	{
+
+      "name": “Zorig”,
+
+      "koding": “zorig”,
+
+      "location": "Ulaanbaatar, Mongolia"
+
+    },
+
+	{
+
+      "name": “Jake Drew”,
+
+      "twitter": “jakemichaeldrew”,
+
+      "koding": “jakedrew”,
+
+      "location": “Oxford, UK,
+
+      "lead": true
+
+    },
+
+	{
+
+      "name": "Andrew Brawn,
+                 "koding": “drewski1992",
+
+      "location": "Dayton, Ohio, USA“
+
+    },
+
+	{
+
+      "name": “Niraj”,
+
+
+
+      "koding": "nirajftw",
+
+      "location": “Mumbai, India”
+
+    }
+
+  ]
+
+}`
