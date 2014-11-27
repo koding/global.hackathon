@@ -1,0 +1,19 @@
+{
+  "teamName" : "DigitiCO",
+  "members"  : 
+  [
+	    {
+	      "name"	 : "Jake Drew",
+	      "twitter"	 : "jakemichaeldrew",
+	      "koding"	 : "jakedrew",
+	      "location" : "Oxford UK",
+	      lead : true,
+	    },
+	    {
+	      "name"	 : "",
+	      "twitter"	 : "",
+	      "koding"	 : "",
+	      "location" : ""
+	    }
+	]
+}
