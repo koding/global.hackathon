@@ -1,0 +1,24 @@
+{
+  "teamName": "Asiph",
+  "members": [
+    {
+      "name": "Matt McGee",
+      "twitter": "awm4j",
+      "koding": "awm4j",
+      "location": "York, PA",
+      "lead": true
+    },
+    {
+      "name": "Christian Dehli",
+      "twitter": "cpdehli",
+      "koding": "sippy",
+      "location": "Pittsburgh, PA"
+    },
+    {
+      "name": "Nate Hagan",
+      "twitter": "",
+      "koding": "",
+      "location": "Seattle, WA"
+    }
+  ]
+}
