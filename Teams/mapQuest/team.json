@@ -1,0 +1,17 @@
+{
+    "teamName": "mapQuest",
+    "members": [
+        {
+            "name": "Milica Kadić",
+            "twitter": "sfworm",
+            "koding": "kamilica",
+            "location": "Belgrade, RS"
+        },
+        {
+            "name": "Damnjan Jovanović",
+            "twitter": "damnjan",
+            "koding": "damnjan",
+            "location": "Belgrade, RS"
+        }
+    ]
+}

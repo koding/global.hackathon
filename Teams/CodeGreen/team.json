@@ -1,0 +1,30 @@
+{
+  "teamName": "CodeGreen",
+  "members": [
+    {
+      "name": "Meni Vaitsi",
+      "twitter": "menouliv",
+      "koding": "menivaitsi",
+      "location": "Santa Barbara, US"
+    },
+    {
+      "name": "Dimuthu Upeksha",
+      "twitter": "DimuthuUpe",
+      "koding": "dimuthuupe",
+      "location": "Moratuwa, LK"
+    },
+    {
+      "name": "Maurizio T",
+      "twitter": "madytyoo",
+      "koding": "madytyoo",
+      "location": "Milazzo, IT",
+      "lead": true      
+    },
+    {
+      "name": "Max Jacobson",
+      "twitter": "maxthegringo",
+      "koding": "maxmjacobson",
+      "location": "Sao Paulo,BR"
+    }
+  ]
+}

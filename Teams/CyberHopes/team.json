@@ -1,0 +1,18 @@
+{
+  "teamName": "CyberHopes",
+  "members": [
+    {
+      "name": "Kriste Murumae",
+      "twitter": "anchela",
+      "koding": "anchela",
+      "location": "Rakvere, EE"
+    },
+    {
+      "name": "Cahit Onur Ozkaynak",
+      "twitter": "cyberhopes",
+      "koding": "cahitonur",
+      "location": "Goa, IN",
+      "lead": true
+    }
+  ]
+}

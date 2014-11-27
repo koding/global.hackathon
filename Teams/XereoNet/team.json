@@ -1,0 +1,37 @@
+
+{
+    "teamname": "XereoNet",
+    "members":[
+		{
+		    "name": "Luca Rager",
+		    "twitter": "XereoAntariano",
+		    "koding": "antariano",
+		    "location": "Ancona, IT",
+		    "lead": true
+		},
+		{
+		    "name": "Connor Peet",
+		    "twitter": "ConnorPeet",
+		    "koding": "connor4312",
+		    "location": "Toronto, CA"
+		},
+		{
+		    "name": "Moritz Schmale",
+		    "twitter": "narrowtux",
+		    "koding": "narrowtux",
+		    "location": "Kassel, DE"
+		},
+		{
+		    "name": "Gábor Guzsik",
+		    "twitter": "lordfren",
+		    "koding": "fren",
+		    "location": "Kiskunfélegyháza, HU"
+		},
+		{
+		    "name": "Tobias Laundal",
+		    "twitter": "totokaka_",
+		    "koding": "totokaka",
+		    "location": "Oslo, NO"
+		}
+    ]
+}

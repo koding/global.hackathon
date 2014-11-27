@@ -1,0 +1,18 @@
+{
+  "teamName": "Moyrilia",
+  "members": [
+    {
+      "name": "Nikolas Moya",
+      "twitter": "nikolasmoya",
+      "koding": "nmoya",
+      "location": "Campinas, BR",
+      "lead": true
+    },
+    {
+      "name": "Marilia Ferreira",
+      "twitter": "m_ntns",
+      "koding": "mariliaferreira",
+      "location": "Curitiba, BR"
+    }
+  ]
+}

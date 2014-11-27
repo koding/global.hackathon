@@ -1,0 +1,36 @@
+{
+  "teamName": "Birmingham.IO",
+  "members": [
+    {
+      "name": "Daniel Hollands",
+      "twitter": "limeblast",
+      "koding": "limeblast",
+      "location": "Birmingham, UK",
+      "lead": true
+    },
+    {
+      "name": "Omar Qureshi",
+      "twitter": "omarqureshi",
+      "koding": "omarquresh1",
+      "location": "Birmingham, UK"
+    },
+    {
+      "name": "Tajinder Singh",
+      "twitter": "TajinderSD",
+      "koding": "tajindersd",
+      "location": "Birmingham, UK"
+    },
+    {
+      "name": "Will Parker",
+      "twitter": "wprk14",
+      "koding": "wprk",
+      "location": "Redditch, UK"
+    },
+    {
+      "name": "Ping-Yuan Chang",
+      "twitter": "Jaja_Magic",
+      "koding": "a9261",
+      "location": "Taichung City, TW"
+    }
+  ]
+}

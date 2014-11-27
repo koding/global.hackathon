@@ -1,0 +1,16 @@
+{
+  "teamName": "imbecilez",
+  "members": [
+    {
+      "name": "Alexei Mochalov",
+      "koding": "nameless0",
+      "location": "Chelyabinsk, RU",
+      "lead": true
+    },
+    {
+      "name": "Sergey Fedoseev",
+      "koding": "sir-sigurd",
+      "location": "Chelyabinsk, RU"
+    }
+  ]
+}

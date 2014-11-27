@@ -1,0 +1,24 @@
+{
+"teamName": "Hackateers",
+"members": [
+{
+"name": "Ossama Obeid",
+"twitter": "owobeid",
+"koding": "owobeid",
+"location": "Doha, QA",
+"lead": true
+},
+{
+"name": "Afnan Fahim",
+"twitter": "afnanfahim",
+"koding": "afahim",
+"location": "Chicago, US"
+},
+{
+"name": "Mahmoud Alismail",
+"twitter": "mahmoudalismail",
+"koding": "malismail",
+"location": "Doha, QA"
+}
+]
+}

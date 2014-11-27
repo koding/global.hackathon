@@ -1,0 +1,24 @@
+{
+  "teamName": "Copihue",
+  "members": [
+    {
+      "name": "Marcelo Jara Almeyda",
+      "twitter": "gtrshelo",
+      "koding": "shelo",
+      "location": "Quilpué, CL"
+    },
+    {
+      "name": "Francisco Casas Barrientos",
+      "twitter": "NO ACCOUNT",
+      "koding": "autopawn",
+      "location": "Viña del Mar, CL"
+    },
+    {
+      "name": "Rodolfo Castillo Mateluna",
+      "twitter": "tilder95",
+      "koding": "rcastill",
+      "location": "Valparaíso, CL",
+      "lead":true
+    }
+  ]
+}

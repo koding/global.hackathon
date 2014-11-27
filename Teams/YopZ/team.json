@@ -1,0 +1,19 @@
+{
+  "teamName": "Team Koders",
+  "members": [
+    {
+      "name": "Zineb OU",
+      "twitter": "",
+      "koding": "zineb",
+      "location": "Rabat, MA",
+      "lead": true
+    },
+   
+    {
+      "name": "Ayoub EL",
+      "twitter": "",
+      "koding": "BigYopy",
+      "location": "Rabat, MA"
+    }
+  ]
+}

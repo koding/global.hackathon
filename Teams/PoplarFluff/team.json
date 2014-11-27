@@ -1,0 +1,30 @@
+{
+  "teamName": "PoplarFluff",
+  "members": [
+    {
+      "name": "Maxim Kuptsov",
+      "twitter": "pugovok",
+      "koding": "pugovok",
+      "location": "Smolensk, RU",
+      "lead": true
+    },
+    {
+      "name": "Artem Radchenkov",
+      "twitter": "",
+      "koding": "armit",
+      "location": "Smolensk, RU"
+    },
+    {
+      "name": "Ilya Kolesnikov",
+      "twitter": "ilya3d",
+      "koding": "ilya3d",
+      "location": "Smolensk, RU"
+    },
+    {
+      "name": "Dmitriy Savushkin",
+      "twitter": "",
+      "koding": "dimasavushkin",
+      "location": "Smolensk, RU"
+    }
+  ]
+}

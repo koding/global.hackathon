@@ -1,0 +1,18 @@
+{
+  "teamName": "Hit & Bash Studios",
+  "members": [
+    {
+      "name": "Ryan Voyles",
+      "twitter": "hitbash",
+      "koding": "higyigma",
+      "location": "Sioux Falls, SD",
+      "lead": true
+    },
+    {
+      "name": "Adam Decker",
+      "twitter": "deflect57",
+      "koding": "deflect57",
+      "location": "Sioux Falls, SD"
+    }
+  ]
+}

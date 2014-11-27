@@ -1,0 +1,24 @@
+{
+  "teamName": "Bismedia",
+  "members": [
+    {
+      "name": "Evgeni Vinokurov",
+      "twitter": "vigeniy",
+      "koding": "vigeniy",
+      "location": "Arkhangelsk, RU"
+    },
+    {
+      "name": "Andrei Denisov",
+      "twitter": "carpogoryanin",
+      "koding": "carpogoryanin",
+      "location": "Arkhangelsk, RU"
+    },
+    {
+      "name": "Dmitri Tabanin",
+      "twitter": "ermouth",
+      "koding": "ermouth",
+      "location": "Arkhangelsk, RU",
+      "lead": true
+    }
+  ]
+}

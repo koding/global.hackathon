@@ -1,0 +1,35 @@
+{
+  "teamName": "AAVAA",
+  "members": [
+    {
+      "name": "Alexandra Anikina",
+      "twitter": "saneshka25",
+      "koding": "saneshka",
+      "location": "Kyiv, UA"
+    },
+	{
+      "name": "Anastasia Smakovska",
+      "koding": "anasmak",
+      "location": "Kyiv, UA"
+    },
+	{
+      "name": "Vlasyslav Stepanov",
+      "twitter": "picazz0",
+      "koding": "vstepanov",
+      "location": "Kyiv, UA",
+      "lead": true
+    },
+	{
+      "name": "Andrew Tesluk",
+      "twitter": "vdjtab",
+      "koding": "vdjtab",
+      "location": "Kyiv, UA"
+    },
+	{
+      "name": "Andrii Usov",
+      "twitter": "andreusov13",
+      "koding": "n-drei2",
+      "location": "Kyiv, UA"
+    }
+  ]
+}

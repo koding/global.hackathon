@@ -1,0 +1,34 @@
+{
+  "teamName": "TPro",
+  "members": [
+    {
+      "name": "Vitalijs Litvinovs",
+      "twitter": "groovetool",
+      "koding": "ulow",
+      "location": "Riga, LV",
+      "lead": true
+    },
+    {
+      "name": "Dmitry Morozov",
+      "koding": "dm1tpro1lv",
+      "location": "Riga, LV"
+    },
+    {
+      "name": "Sergey Kibish",
+      "twitter": "s_kibish",
+      "koding": "skibish",
+      "location": "Riga, LV"
+    },
+    {
+      "name": "Dmitry Bogachkin",
+      "koding": "dmitrybog",
+      "location": "Riga, LV"
+    },
+    {
+      "name": "Raitis Ozols",
+      "twitter": "Raitix",
+      "koding": "raioz",
+      "location": "Riga, LV"
+    }
+  ]
+}

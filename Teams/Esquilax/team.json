@@ -1,0 +1,36 @@
+{
+  "teamName": "Esquilax",
+  "members": [
+    {
+      "name": "Joaquin Hernan Lavera",
+      "twitter": "@jhlavera",
+      "koding": "jlavera",
+      "location": "Buenos Aires, AR",
+      "lead": true
+    },
+    {
+      "name": "Juan Martin Desimoni",
+      "twitter": "@JuanDesi",
+      "koding": "JuanDesi",
+      "location": "Buenos Aires, AR"
+    },
+    {
+      "name": "Tomas Duhourq",
+      "twitter": "@tomduhourq",
+      "koding": "",
+      "location": "Buenos Aires, AR"
+    },
+    {
+      "name": "Martin Cousido",
+      "twitter": "@martucousido",
+      "koding": "martincousido",
+      "location": "Buenos Aires, AR"
+    },
+    {
+      "name": "Manuel Gambino",
+      "twitter": "@manugb93",
+      "koding": "manugb",
+      "location": "Buenos Aires, AR"
+    }
+  ]
+}

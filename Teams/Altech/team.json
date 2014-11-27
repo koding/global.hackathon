@@ -1,0 +1,17 @@
+{
+  "teamName": "Altech",
+  "members": [
+    {
+      "name": "Alexander Allen",
+      "twitter": "altechminecraft",
+      "koding": "robodude",
+      "location": "Raleigh, US"
+    },
+    {
+      "name": "Graham Cleven",
+      "twitter": "altechminecraft",
+      "koding": "coolfish",
+      "location": "Raleigh, US"
+    }
+  ]
+}

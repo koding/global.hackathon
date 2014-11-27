@@ -1,0 +1,18 @@
+{
+  "teamName": "G51",
+  "members": [
+    {
+      "name": "Henrique Cardoso de Faria",
+      "twitter": "HCardosoDeFaria",
+      "koding": "henriquecf",
+      "location": "Goiania, BR",
+      "lead": true
+    },
+    {
+      "name": "Ivan Oliveira Morais",
+      "twitter": "IvanOM90",
+      "koding": "ivanom",
+      "location": "Goiania, BR"
+    }
+  ]
+}

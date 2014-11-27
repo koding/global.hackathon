@@ -1,0 +1,27 @@
+{
+  "teamName": "Monitor Backlinks",
+  "members": [
+    {
+      "name": "Razvan Girmacea",
+      "twitter": "girmacea",
+      "koding": "razvangirmacea",
+      "location": "Iasi, RO",
+      "lead": true
+    },
+    {
+      "name": "Eugen Cusmaunsa",
+      "koding": "armab",
+      "location": "Stauceni, MD"
+    },
+    {
+      "name": "Darwin Medillo",
+      "koding": "darkunz",
+      "location": "Davao, PH"
+    },
+    {
+      "name": "Alan Willms",
+      "koding": "dyulax",
+      "location": "Chapecó, BR"
+    }
+  ]
+}

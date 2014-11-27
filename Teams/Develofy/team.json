@@ -1,0 +1,32 @@
+{
+  "teamName": "Develofy",
+  "members": [
+    {
+      "name": "Federico Zivolo",
+      "twitter": "FezVr4sta",
+      "koding": "fezvrasta",
+      "location": "Milan, IT",
+      "lead": true
+    },
+    {
+      "name": "Semyon Vyskubov",
+      "koding": "uoziod",
+      "location": "Moscow, RU"
+    },
+    {
+      "name": "Moritz Gehlhaar",
+      "koding": "geoextra",
+      "location": "Dortmund, DE"
+    },
+    {
+      "name": "Jan Zaydowicz",
+      "koding": "janz93",
+      "location": "Bremen, DE"
+    },
+    {
+      "name": "Matthew Torres",
+      "koding": "mateeyow",
+      "location": "Cebu, Philippines"
+    }
+  ]
+}

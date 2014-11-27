@@ -1,0 +1,18 @@
+{
+    "teamname": "grayMatter",
+    "members":[
+	{
+	    "name":"Marcos Godoy",
+	    "twitter":"mUcHG0Di",
+	    "koding":"mUcHG0Di",
+	    "location":"Asunción, PY",
+	    "lead":true
+	},
+	{
+	    "name":"Renato Estigarribia",
+	    "twitter":"dkalest",
+	    "koding":"dkalest",
+	    "location":"Asunción, PY"
+	}
+    ]
+}

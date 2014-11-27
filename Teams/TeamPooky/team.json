@@ -1,0 +1,23 @@
+{
+"teamName": "Team Pooky",
+"members": [
+{
+"name": "Dunja Rosina",
+"twitter": "nietka",
+"koding": "nietka",
+"location": "Ljubljana, SI",
+"lead": true
+},
+{
+"name": "Petra Prusnik",
+"koding": "loki164",
+"location": "Kamnik, SI"
+},
+{
+"name": "Martin Hribar",
+"twitter": "maqmigh",
+"koding": "maqmigh",
+"location": "Ljubljana, SI"
+}
+]
+}

@@ -1,0 +1,24 @@
+{
+  "teamName": "Plummy",
+  "members": [
+    {
+      "name": "Bagus Trihatmaja",
+      "twitter": "@bagustrihatmaja",
+      "koding": "btrihatmaja",
+      "location": "Denpasar, ID",
+      "lead": true
+    },
+    {
+      "name": "Rizky Noor Ichwan",
+      "twitter": "",
+      "koding": "spondbob",
+      "location": "Melbourne, AU"
+    },
+    {
+      "name": "Bayu Ditaprawira",
+      "twitter": "",
+      "koding": "bayultimate",
+      "location": "Denpasar, ID"
+    }
+  ]
+}

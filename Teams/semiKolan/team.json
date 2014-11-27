@@ -1,0 +1,35 @@
+{
+  "teamName": "semiKolan",
+  "members": [
+    {
+      "name": "Rukshan Viduranga Perera",
+      "twitter": "KRVPerera",
+      "koding": "drexonraid",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Maryam Ziyad",
+      "koding": "12maryam",
+      "twitter": "em7_ee",
+      "location": "Kurunegala, LK"
+    },
+    {
+      "name": "Yasiru Kassapa",
+      "twitter": "yasiruk",
+      "koding": "wik2kassa",
+      "location": "Colombo, LK",
+      "lead": true
+    },
+    {
+      "name": "Pubudu Fernando",
+      "koding": "pubudu91",
+      "location": "Panadura, LK"
+    },
+    {
+      "name": "Damith Wijewardana",
+      "koding": "adw91",
+      "twitter": "damith_91",
+      "location": "Colombo, LK"
+    }
+  ]
+}
