@@ -1,12 +1,16 @@
-DigitiCO
-================
-About Us
-===========================
+#DigitiCO™
+
+##About Us
+
 
 We are located all around the world, From Mongolia to USA, UK, India
 
-Skills 
+###Skills
 
-=======
 
 We are full of a range of skills, from python backend to javascript frontend.
+
+###Frameworks
+
+-Django
+-Flask
