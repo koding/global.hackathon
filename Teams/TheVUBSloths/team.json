@@ -1,0 +1,24 @@
+{
+  "teamName": "The VUB Sloths",
+  "members": [
+    {
+      "name": "Evgeni Ivakhnov",
+      "twitter": null,
+      "koding": "evgeni",
+      "location": "Brussels, BE",
+      "lead": true
+    },
+    {
+      "name": "Tom Maes",
+      "twitter": null,
+      "koding": "tommaes",
+      "location": "Lennik, BE"
+    },
+    {
+      "name": "Jasper Tack",
+      "twitter": null,
+      "koding": "consec",
+      "location": "Brussel, BE"
+    }
+  ]
+}
