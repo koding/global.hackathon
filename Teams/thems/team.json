@@ -1,0 +1,20 @@
+{
+  "teamName": "thems",
+  "members": [
+   
+    {
+      "name": "Juan Chacon",
+      "twitter": "ChaconKei",
+      "koding": "keichacon",
+      "location": "Santa Catarina, MX",
+      "lead": true
+    },
+    {
+      "name": "Hisa Martinez",
+      "twitter": "hisanimi",
+      "koding": "  ",
+      "location": "Santa Catarina, MX"
+    }
+
+  ]
+}
