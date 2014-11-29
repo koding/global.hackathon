@@ -1,0 +1,30 @@
+{
+"teamName": "Ace Team",
+"members": [
+{
+"name": "Indra Winata",
+"twitter": "indr4_winata",
+"koding": "indr4winata",
+"location": "Jakarta, ID",
+"lead": true
+},
+{
+"name": "Martono",
+"twitter": "",
+"koding": "",
+"location": "Jakarta, ID"
+},
+{
+"name": "Jeffrey",
+"twitter": "",
+"koding": "",
+"location": "Jakarta, ID"
+},
+{
+"name": "Thomas Rico",
+"twitter": "",
+"koding": "",
+"location": "Bekasi, ID"
+}
+]
+}
