@@ -7,8 +7,7 @@ The Team
 ========
 | jahlomp | jeffgodwyll 
 |--- |---
-| ![Precious Jahlom Agboado](https://avatars2.githubusercontent.com/u/4746511?v=3&s=460) | 
-![Jeffrey Godwyll](https://avatars1.githubusercontent.com/u/3064893?v=3&s=460) |
+| ![Precious Jahlom Agboado](https://avatars2.githubusercontent.com/u/4746511?v=3&s=300) | ![Jeffrey Godwyll](https://avatars1.githubusercontent.com/u/3064893?v=3&s=300)
 
 Skills and Project
 ==================
