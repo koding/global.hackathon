@@ -1,0 +1,42 @@
+{
+  "teamName": "The Wave",
+  "members": [
+    {
+      "name": "Tomás Gonzalez Dowling",
+      "twitter": "therealComtom",
+      "koding": "Comtom",
+      "location": "Mar del Plata, Buenos Aires, AR",
+      "lead": true
+    },
+    {
+      "name": "Nicolás Manso",
+      "twitter": "",
+      "koding": "",
+      "location": "La Plata, Buenos Aires, AR",
+      "lead": false
+    },
+    {
+      "name": "Maxi Ward",
+      "twitter": "mac_ward",
+      "koding": "",
+      "location": "Mar del Plata, Buenos Aires, AR",
+      "lead": false
+    },
+    {
+      "name": "Pablo Brown",
+      "twitter": "",
+      "koding": "",
+      "location": "Mar del Plata, Buenos Aires, AR",
+      "lead": false
+    },
+    {
+      "name": "Juan Cruz Gonzalez Soler",
+      "twitter": "",
+      "koding": "",
+      "location": "Mar del Plata, Buenos Aires, AR",
+      "lead": false
+    }
+  ]
+}
+~                                                                                                                                                                                                 
+~                            
