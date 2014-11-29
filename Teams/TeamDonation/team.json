@@ -1,0 +1,17 @@
+{
+  "teamName": "TeamDonation",
+  "members": [
+    {
+      "name": "Full Name",
+      "twitter": "twitter acct no @",
+      "koding": "koding username",
+      "location": "city, 2 digit country code"
+    },
+    {
+      "name": "Yogesh Ojha",
+      "twitter": "ojhayogesh11",
+      "koding": "yogeshojha",
+      "location": "Kathmandu, NP"
+    }
+  ]
+}
