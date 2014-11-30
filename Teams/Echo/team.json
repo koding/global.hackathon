@@ -1,0 +1,37 @@
+{
+"teamName": "Team Koders",
+"members": [
+{
+"name": "Edward Bennigsen",
+"twitter": "@UsAndRufus",
+"koding": "koding username",
+"location": "Manchester, UK"
+},
+{
+"name": "Daniel M",
+"twitter": "@danyul55",
+"koding": "magiccoupons",
+"location": "Manchester, UK"
+},
+{
+"name": "Will Brown",
+"twitter": "sinanyasar",
+"koding": "sinan",
+"location": "Manchester, UK",
+
+},
+{
+"name": "Andrei",
+"twitter": "devrimyasar",
+"koding": "devrim",
+"location": "Manchester, UK"
+},
+{
+"name": "no-one yet",
+"twitter": "gniting",
+"koding": "nitin",
+"location": "Turin, IT"
+"lead": true
+}
+]
+}
