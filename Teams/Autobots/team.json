@@ -7,6 +7,13 @@
       "koding": "harshjv",
       "location": "Gujarat, IN",
       "lead": true
+    },
+    {
+      "name": "Pradeep Chauhan",
+      "twitter": "ne0phy73",
+      "koding": "ne09",
+      "location": "Mumbai, IN",
+      "lead": false
     }
   ]
 }
