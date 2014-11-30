@@ -1,0 +1,17 @@
+{
+  "teamName": "2",
+  "members": [
+    {
+      "name": "Santhosh Kumar",
+      "twitter": "sk851831",
+      "koding": "sk851831",
+      "location": "Chennai, India",
+      "lead": true
+    },
+    {
+      "name": "SriBalaji",
+      "koding": "srihacker",
+      "location": "Chennai, India"
+    }
+  ]
+}
