@@ -1,0 +1,26 @@
+{
+  "teamName": "PalPHP",
+  "members": [
+    {
+      "name": "Hamdan Taima",
+      "twitter": "php_proff",
+      "koding": "phpproff",
+      "location": "Gaza , Palestine",
+      "lead": true
+    },
+    {
+      "name": "Feras Saqqa",
+      "twitter": "FerasSaqqa",
+      "location": "Gaza , Palestine"
+    },
+    {
+      "name": "Eyad Farra",
+      "twitter": "EyadFarra",
+      "location": "Gaza , Palestine"
+    },
+    {
+      "name": "Ohood Musabih",
+      "location": "Gaza , Palestine",
+    }
+  ]
+}
