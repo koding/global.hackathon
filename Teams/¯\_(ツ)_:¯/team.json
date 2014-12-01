@@ -1,0 +1,31 @@
+{
+  "teamName": "¯\_(ツ)_/¯",
+  "members": [
+    {
+      "name": "Samantha Christoff",
+      "twitter": "FinalPhoenix",
+      "koding": "FinalPhoenix",
+      "location": "Phoenix, US"
+      "lead": true
+      },
+    {
+      "name": "Billy Janssen",
+      "twitter": "janspants11",
+      "location": "Phoenix, US"
+    },
+    {
+      "name": "Sloane Smith",
+      "twitter": "S10Dimensional",
+      "location": "Phoenix, US",
+    },
+    {
+      "name": "Michael Scott",
+      "location": "Phoenix, US"
+    },
+    {
+      "name": "Lauren Jordan",
+      "twitter": "gniting",
+      "location": "Phoenix, US"
+    }
+  ]
+}
