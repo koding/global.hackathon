@@ -17,7 +17,8 @@ The amazing team of developers:
 
 2. Andrew is an expert Java programmer and functional test author. He will make sure nothing gets past QA without being debugged. [Github](https://github.com/abreksa4)
 
+![Shawon](https://koding.com/-/image/cache?endpoint=crop&grow=true&width=300&height=300&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fitsmeshawon%2Favatar-1416113965511)
 
-3. Shawon is the UX and Graphic Designer. The user interfaces of our project would never look as stunning and jaw-dropping without his expertise. 
+3. Shawon is the UX and Graphic Designer. The user interfaces of our project would never look as stunning and jaw-dropping without his expertise. [Github](https://github.com/newscredshawon)
 
 
