@@ -1,0 +1,24 @@
+{
+    "teamName": "#cos(2π)",
+    "members": [
+        {
+            "name": "Full Name",
+            "twitter": "twitter acct no @",
+            "koding": "koding username",
+            "location": "city, 2 digit country code"
+        },
+        {
+            "name": "Alexander Hoffmann",
+            "twitter": " ",
+            "koding": "alex1807",
+            "location": "Idstein, DE",
+            "lead": true
+        },
+        {
+            "name": "Christian Schwarz",
+            "twitter": " ",
+            "koding": "ixilol",
+            "location": "Idstein, DE"
+        }
+    ]
+}
