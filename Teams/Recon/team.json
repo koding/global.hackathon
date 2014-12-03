@@ -14,11 +14,16 @@
       "location": "Delhi, IN",
        "lead": true
     },
-    {
+    { 
+      "name": "Gaurav Gupta",
+      "twitter": "1989gaurav",
+      "koding": "1989gaurav",
+      "location": "Jaipur, IN"
+    },
       "name": "Sourabh Chandak",
       "twitter": "sourabh0612",
       "koding": "sourabh0612",
-      "location": "Hyderabad, IN"
+      "location" : "Hyderabad, IN"
     }
   ]
 }
