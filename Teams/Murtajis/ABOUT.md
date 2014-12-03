@@ -5,9 +5,6 @@ I am a Software Engineer living in Karachi,Pakistan, had started his career as a
 
 
 ===========================
-| 
-|--- 
-| ![Zia Haider](http://sziahaider.weebly.com/uploads/4/0/6/1/40612137/header_images/1413961547.jpg)|
 
 I have come up with an idea of boosting up social media things so I decided to implement a new platform and put that in this hackathon to get real user reviews on that.
 
