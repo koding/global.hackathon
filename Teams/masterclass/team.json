@@ -1,0 +1,30 @@
+{
+"teamName": "masterclass",
+"members": [
+{
+"name": "Ambrose Kimaiyo",
+"twitter": "ambrosekim",
+"koding": "ambrosek",
+"location": "Nairobi, KE",
+"lead": true
+},
+{
+"name": "Derrick Joel",
+"twitter": "derrickJMK",
+"koding": "",
+"location": "Nairobi, KE"
+},
+{
+"name": "Daniel Muli",
+"twitter": "danielMuli1",
+"koding": "",
+"location": "Nairobi, KE"
+},
+{
+"name": "Harun Thuo",
+"twitter": "harunthuo",
+"koding": "",
+"location": "Nairobi, KE"
+}
+]
+}
