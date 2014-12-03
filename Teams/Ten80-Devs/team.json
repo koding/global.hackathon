@@ -1,0 +1,23 @@
+
+{
+  "teamName": "Ten80 Developers",
+  "members": [
+    {
+      "name": "Maneesh Tewani",
+      "twitter": "maneesht18",
+      "koding": "edytheviper",
+      "location": "St. Louis, MO",
+      "lead": true
+    },
+    {
+      "name": "Brandon Brown",
+      "location": "St. Louis, MO"
+    },
+    {
+      "name": "Andrew Pizzulo",
+      "twitter": "",
+      "koding": "",
+      "location": "St. Louis, MO"
+    }
+  ]
+}
