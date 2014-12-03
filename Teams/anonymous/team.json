@@ -1,0 +1,30 @@
+{
+	"teamName": "Anonymous",
+	"members": [
+		{
+			"name": "Krrish Mittal",
+			"twitter": "rriskhh",
+			"koding": "rriskhh",
+			"location": "Delhi(NCR),IN",
+			"lead": true
+		},
+		{
+			"name": "Rishabh Srivastava",
+			"twitter": "mcrishabh",
+			"koding": "rishabhsri18",
+			"location": "Delhi(NCR), IN"
+		},
+		{
+			"name": "Amit Srivastava",
+			"twitter": "amit_jiit",
+			"koding": "amitsrivastav",
+			"location": "Delhi(NCR), IN"
+		},
+		{
+			"name": "Shivam Khandelwal",
+			"twitter": "skbly7",
+			"koding": "skbly7",
+			"location": "Hyderabad, IN"
+		}
+	]
+}
