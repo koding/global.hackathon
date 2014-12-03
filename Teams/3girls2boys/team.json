@@ -1,0 +1,28 @@
+{
+  "teamName": "3girls2boys",
+  "members": [
+    {
+      "name": "Midori Kocak",
+      "twitter": "@mtkocak",
+      "koding": "mtkocak",
+      "location": "Prague, CZ",
+      "lead": true
+    },
+    {
+      "name": "Nesrin Kalender",
+      "location": "Istanbul, TR"
+    },
+    {
+      "name": "Yaprak Ayazoğlu",
+      "location": "Amsterdam, NL"
+    },
+    {
+      "name": "Yağız Nizipli",
+      "location": "Istanbul, TR"
+    },
+    {
+      "name": "Mert Tacir",
+      "location": "Istanbul, TR"
+    }
+  ]
+}
