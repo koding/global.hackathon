@@ -1,0 +1,30 @@
+{
+  "teamName": "Team Koders",
+  "members": [
+    {
+      "name": "Full Name",
+      "twitter": "twitter acct no @",
+      "koding": "koding username",
+      "location": "city, 2 digit country code"
+    },
+    {
+      "name": "Jorge S. Cruz-Lambert",
+      "twitter": "jsclambert",
+      "koding": "jscruz",
+      "location": "Poole, UK"
+    },
+    {
+      "name": "Maria Lorenzo-Dus",
+      "twitter": "mery_lo",
+      "koding": "merylo",
+      "location": "Poole, UK",
+      "lead": true
+    },
+    {
+      "name": "Dan Potepa",
+      "twitter": "danp",
+      "koding": "danp",
+      "location": "Yeovil, UK"
+    }
+  ]
+}
