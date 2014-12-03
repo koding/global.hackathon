@@ -2,8 +2,8 @@ About Sandbanks team
 ===========================
 
 | jscruz | danp | merylo 
-|--- |---
-| ![jscruz](https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2013-12-17/2156399415_192.jpg) || ![merylo](https://lh4.googleusercontent.com/T6iV-Mk2-_eF4BkXQnVJHZ5Mkk5zJPZn3n7Hl4kskHQjC5mqUIjlxQ0Y1eobKyv_Zo9L_77EmVE=w768-h616)
+|--- |--- |---
+| ![jscruz](https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2013-12-17/2156399415_192.jpg) || ![merylo](https://en.gravatar.com/userimage/76472963/b63ed21fc0a25a582d33065256fdd1f8.jpg?size=192)
 
 We like to code and design. We like to find solutions to a daily problems. And we have the opportunity to deal with the current problems regarding TOC adn fine print in this Hackathon.
 
