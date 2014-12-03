@@ -1,0 +1,36 @@
+{
+  "teamName": "Zoonies",
+  "members": [
+    {
+      "name": "Pam Kinnaird",
+      "twitter": "pkinnaird",
+      "koding": "pocketilmatto",
+      "location": "San Francisco, CA",
+      "lead": true
+    }, 
+    {
+      "name": "Patrick Auld",
+      "twitter": "",
+      "koding": "",
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Thomas Boyles",
+      "twitter": "",
+      "koding": "",
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Raymond Piccolotti",
+      "twitter": "",
+      "koding": "",
+      "location": "Salt Lake City, UT"
+    },
+    {
+      "name": "Breanna Bibeau",
+      "twitter": "",
+      "koding": "",
+      "location": "San Francisco, CA"
+    }
+  ]
+}
