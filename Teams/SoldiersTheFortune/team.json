@@ -1,0 +1,20 @@
+{
+  "teamName": "SoldiersTheFortune",
+  "members": [
+    
+    {
+      "name": "Niamat Zawad",
+      "twitter": "n/a",
+      "koding": "zawad1879",
+      "location": "Dhaka, BD"
+      "lead": true
+    },
+    {
+      "name": "Shoumik Sharar Chowdhury",
+      "twitter": "shoumikcfc",
+      "koding": "shoumikchow",
+      "location": "Dhaka, BD",
+    },
+    
+  ]
+}
