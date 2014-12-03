@@ -1,0 +1,10 @@
+{
+ "teamName": "Flyingsoft Games",
+ "members": [{
+  "name"     : "Michael Romanovsky",
+  "twitter"  : "agamemnus_dev",
+  "koding"   : "agamemnus",
+  "location" : "Boston, US",
+  "lead"     : true
+ }]
+}
