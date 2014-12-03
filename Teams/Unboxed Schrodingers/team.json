@@ -1,0 +1,26 @@
+{
+  "teamName": "Unboxed Schrodingers",
+  "members": [
+    {
+      "name": "Wilhelm Kirschbaum",
+      "twitter": "wkirschbaum",
+      "koding": "wkirschbaum",
+      "location": "Cape Town, ZA",
+      "lead": true
+    },
+    {
+      "name": "Andrew White",
+      "twitter": "pixeltrix",
+      "koding": "pixeltrix",
+      "location": "London, UK",
+      "lead": false
+    },
+    {
+      "name": "Pawel Janiak",
+      "twitter": "cynicalgrinch",
+      "koding": "pawel2105",
+      "location": "Johannesburg, ZA",
+      "lead": false
+    }
+  ]
+}
