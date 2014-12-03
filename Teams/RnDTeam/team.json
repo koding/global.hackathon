@@ -1,0 +1,23 @@
+{
+  "teamName": "RnDTeam",
+  "members": [
+    {
+      "name": "Mykola Derzhylo",
+      "koding": "koding username (required)",
+      "location": "Lviv, UA"
+      "lead": true
+    },
+    
+    {
+      "name": "Volodymyr Medvid",
+      "koding": "mvolodya",
+      "location": "Lviv, UA"
+    },
+    
+    {
+      "name": "Viktor Sorochak",
+      "koding": "mvitya",
+      "location": "Lviv, UA"
+    },
+  ]
+}
