@@ -7,8 +7,12 @@ We are third year students from University of Toronto. Since I just created this
 -Sanjana: Well I've been looking forward to an online hackathon since forever. Currently I am on my 16 months internship at 
 Environment Canada. 
 
+-Richa: Doing my 16 month Co-op at a startup called Cirba, that deals in Cloud Infrastrucuture control. Excited about the forthcoming hackathon.Keep Calm and Coding on ! 
+
 ##Languages
 -Java
--C++
--C
+-C/ C++
+-JavaScript
+-Dojo
+-HTML, CSS
 etc.
