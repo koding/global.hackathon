@@ -1,11 +1,11 @@
 {
-  "teamName": "ayb",
+  "teamName": "redpatchtech",
   "members": [
     {
-      "name": "François-Xavier Kuntz",
-      "twitter": "@fxkuntz",
-      "koding": "felx",
-      "location": "Paris, FR"
+      "name": "Chris Brulak",
+      "twitter": "@chrisbrulak",
+      "koding": "cbrulak",
+      "location": "Toronto, CA"
     }
   ]
 }
