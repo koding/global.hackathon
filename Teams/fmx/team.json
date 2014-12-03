@@ -1,0 +1,18 @@
+{
+  "teamName": "fmx",
+  "members": [
+    {
+      "name": "Gustavo Beauregard",
+      "twitter": "gustavobnoriega",
+      "koding": "gustavobn",
+      "location": "Mexico City, MX",
+      "lead": true
+    },
+    {
+      "name": "Joel Cano",
+      "twitter": "Joel Cano",
+      "location": "Mexico City, MX",
+      "lead": false
+    }
+  ]
+}
