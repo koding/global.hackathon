@@ -57,4 +57,4 @@ web technologies, .NET, C#, C, C++, HTML... I love to code. And I love cats and 
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262888/2821e78e-7a2b-11e4-9b94-ad6581f472b3.jpg)
 
-(we shall tell you more about this crew member when he is ready)
+""I'm just a young soul being fascinated over and over again by the way that simple combinations of ones and zeros can produce the most amazing designs and functionalities. Java, C, PHP, HTML.. Makes no difference to me. It is all good. I can take over the helm and take my team wherever we want. Because I am the Helsman.""
