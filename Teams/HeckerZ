@@ -1,0 +1,22 @@
+{
+  "teamName": "HeckerZ",
+  "members": [
+    {
+      "name": "Atharva Kawade",
+      "twitter": "",
+      "koding": "athean",
+      "location": "Pune, IN",
+      "lead": true
+    },
+    {
+      "name": "Chirag Jain",
+      "koding": "chirgjin",
+      "location": "Sonipat, IN"
+    }
+     {
+      "name": "Divesh Bakshani",
+      "koding": "diveshade",
+      "location": "Pune, IN"
+    }
+  ]
+}
