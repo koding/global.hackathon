@@ -1,0 +1,36 @@
+{
+"teamName": "Team Var Foos",
+"members": [
+{
+"name": "Full Name",
+"twitter": "twitter acct no @",
+"koding": "koding username",
+"location": "city, 2 digit country code"
+},
+{
+"name": " Kauress",
+"twitter": "kauress",
+"koding": "kauress",
+"location": "Planet"
+},
+{
+"name": "B",
+"twitter": "b",
+"koding": "b",
+"location": "San Francsico, US",
+"lead": true
+},
+{
+"name": "c",
+"twitter": "c",
+"koding": "c",
+"location": "San Francsico, US"
+},
+{
+"name": "D",
+"twitter": "d",
+"koding": "d",
+"location": "Turin, IT"
+}
+]
+}
