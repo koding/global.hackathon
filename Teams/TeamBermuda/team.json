@@ -1,0 +1,35 @@
+{
+  "teamName": "Team Bermuda",
+  "members": [
+    {
+      "name": "Nicholas A Hoskins",
+      "twitter": "nahoskins, codetuna",
+      "koding": "nahoskins",
+      "location": "Sandy's, Bermuda"
+    },
+    {
+      "name": "Veronica Windus",
+      "twitter": "veronicawindus",
+      "koding": "ronniedyer",
+      "location": "Hamilton, BM"
+    },
+    {
+      "name": "John Gill",
+      "twitter": "swfiua",
+      "koding": "swfiua",
+      "location": "Southampton, BM"
+    },
+    {
+      "name": "Beckett Simmons",
+      "twitter": "",
+      "koding": "b.simmons
+      "location": "Hamilton, BM"
+    },
+    {
+      "name": "Gregory Jensen",
+      "twitter": "",
+      "koding": "shinooni",
+      "location": "Hamilton, BM"
+    },
+  ,]
+}
