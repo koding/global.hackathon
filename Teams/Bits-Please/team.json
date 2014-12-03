@@ -13,7 +13,12 @@
       "twitter" : "MRMehrab",
       "koding" : "mehrabrym",
       "location" : "Toronto, CA"
+    },
+    { 
+      "name": "Richa Rajgolikar",
+      "twitter" : "danielleA7X",
+      "koding" : "rricha19",
+      "location" : "Toronto, CA"
     }
-    
   ]
 }
