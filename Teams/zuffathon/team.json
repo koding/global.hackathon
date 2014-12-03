@@ -1,0 +1,16 @@
+{
+    "teamName": "Zuffathon",
+    "members": [
+      {
+        "name": "Nauman Qazi",
+        "koding": "nami",
+        "location": "Islamabad, PAK",
+        "lead": true
+      },
+      {
+        "name": "Alex S.",
+        "koding": "meowcoder",
+        "location": "Novosibirsk, RU"
+      }
+    ]
+}
