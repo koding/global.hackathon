@@ -1,24 +1,24 @@
 {
-  "teamName": "Small Rock is Fundamental",
-  "members": [
-    {
-      "name": "Chris Bodley",
-      "twitter": "@dudds6699",
-      "koding": "dudds6699",
-      "location": "SSM, CA",
-      "lead": true
-    },
-    {
-      "name": "Mel Bodley",
-      "twitter": "@mellyboredom",
-      "koding": "lovelyboredom",
-      "location": "SSM, CA"
-    },
-	{
-      "name": "Chris McBride",
-      "twitter": "@Cenecia",
-      "koding": "Cenecia",
-      "location": "Sault Ste. Marie, CA"
-    }
-  ]
+    "teamName": "Small Rock is Fundamental",
+    "members": [
+        {
+            "name": "Chris Bodley",
+            "twitter": "@dudds6699",
+            "koding": "dudds6699",
+            "location": "SSM, CA",
+            "lead": true
+        },
+        {
+            "name": "Mel Bodley",
+            "twitter": "@mellyboredom",
+            "koding": "mellybean",
+            "location": "SSM, CA"
+        },
+        {
+            "name": "Chris McBride",
+            "twitter": "@Cenecia",
+            "koding": "cenecia",
+            "location": "Sault Ste. Marie, CA"
+        }
+    ]
 }
