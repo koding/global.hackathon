@@ -1,0 +1,19 @@
+{
+  "teamName": "para",
+  "members": [
+    {
+      "name": "Ravichandra Enaganti",
+      "twitter": "ravichandrae",
+      "koding": "ravichandrae",
+      "location": "Bangalore, IN",
+      "lead": true
+    }
+	{
+	  "name": "Pavan Kumar",
+      "twitter": "",
+      "koding": "",
+      "location": "Bangalore, IN",
+      "lead": false
+	}
+  ]
+}
