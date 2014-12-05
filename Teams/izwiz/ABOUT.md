@@ -14,12 +14,7 @@ I am a young developer who was inspired by a robotics team in his highschool to 
 
 I want to win this competition because I want to prove to myself that all my hard work of learning programming and development has paid off and that I can compete on a professional level. This field is hard and demanding and even though I may not have had the most technologically enriching environment growing up, my gusto and ingenuity will be my keys to victory.
 
-Plan
-=======
-I am not 100% sure what I want to do yet. I am still working on an idea but a couple of technologies that I have at my disposal include but are not limited to:
+My Project - Babylon
+===========================
 
-* Android Development (Phone, tablet, and Glass)
-* Web Technologies (Php, HTML5, CSS3, Javascript/JQuery)
-* Face ++ (Facial Recognition API)
-* Facebook API
-* Arduino Development
+This project is going to be a step up from the Star Trek Universal Translator. (For Android Phone)
