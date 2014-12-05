@@ -8,7 +8,7 @@ About CleverCrypter
 
 | Jack Atkinson
 |---
-| ![Devrim](https://pbs.twimg.com/profile_images/538533874096021504/0upJlJIl_400x400.jpeg)
+| ![Devrim](http://i.imgur.com/DTbcYdR.jpg)
 
 Hello, my name is Jack Atkinson! I'm an Australian citizen born July, 1996 who moved to America in 2005 which
 is where I currently reside. Since I first gained the ability to turn on my mothers computer I have had an avid
