@@ -1,2 +1,0 @@
-Leo Burnett Germany
-===================

@@ -1,4 +1,0 @@
-Zentral Software
-================
-
-TBD
