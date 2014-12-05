@@ -3,7 +3,7 @@ CleverCrypter
 
 Welcome to the CleverCrypter one man team page.
 
-About 0xdeadbeef
+About CleverCrypter
 ===========================
 
 | Jack Atkinson
