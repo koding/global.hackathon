@@ -1,0 +1,11 @@
+{
+  "teamName": "helloworld",
+  "members": [
+    {
+      "name": "Tan Khai Ping",
+      "twitter": "edisontkp",
+      "koding": "edison88tkp",
+      "location": "KL, MY",
+      "lead": true
+    }
+  ]
