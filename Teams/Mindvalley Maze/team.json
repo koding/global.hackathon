@@ -1,0 +1,17 @@
+{
+  "teamName": "Mindvalley Maze",
+  "members": [
+    {
+      "name": "Tristan Gomez",
+      "twitter": "parasquid",
+      "koding": "parasquid",
+      "location": "Kuala Lumpur, MY",
+      "lead": true
+    },
+    {
+      "name": "Yamen Ali",
+      "koding": "yamenali23",
+      "location": "Kuala Lumpur, MY"
+    }
+  ]
+}
