@@ -1,0 +1,18 @@
+{
+  "teamName": "We have an idea",
+  "members": [
+    {
+      "name": "Desislava Karadzhova",
+      "twitter": "desi_scott",
+      "koding": "sishub",
+      "location": "Sofia, BG"
+    },
+    {
+      "name": "Stoyan Rachev",
+      "twitter": "stoyan_rachev",
+      "koding": "strachev",
+      "location": "Sofia, BG",
+      "lead": true
+    }
+  ]
+}

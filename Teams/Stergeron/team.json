@@ -1,0 +1,30 @@
+{
+  "teamName": "Stergeron",
+  "members": [
+    {
+      "name": "Nick Hluska",
+      "twitter": "uboa17",
+      "koding": "uboa17",
+      "location": "Boston, US",
+      "lead": true
+    },
+    {
+      "name": "Will Tan",
+      "twitter": "Ninja3047",
+      "koding": "Ninja3047",
+      "location": "Boston, US"
+    },
+    {
+      "name": "Dianne Lee",
+      "twitter": "codewritenow",
+      "koding": "leedia",
+      "location": "Boston, US"
+    },
+    {
+      "name": "Max Krieger",
+      "twitter": "a9_io",
+      "koding": "moaex",
+      "location": "Boston, US"
+    }
+  ]
+}

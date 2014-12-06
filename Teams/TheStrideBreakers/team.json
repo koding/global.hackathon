@@ -1,0 +1,24 @@
+{
+  "teamName": "The Stride Breakers",
+  "members": [
+    {
+      "name": "Ben Sutter",
+      "twitter": "dried_canadian",
+      "koding": "moose-eh",
+      "location": "Aurora, US",
+      "lead": true
+    },
+    {
+      "name": "Branden Miller",
+      "twitter": "Bman_TheBoss",
+      "koding": "bmandaboss",
+      "location": "Aurora, US"
+    },
+    {
+      "name": "Nathan Welsh",
+      "twitter": "NaynayWelsh",
+      "koding": "minicooperracer1",
+      "location": "Aurora, US"
+    }
+]
+}

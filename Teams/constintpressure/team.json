@@ -1,0 +1,24 @@
+{
+  "teamName": "constintpressure",
+  "members": [
+    {
+      "name": "Deepak Sandhu",
+      "twitter": "",
+      "koding": "superchicken",
+      "location": "Prince George, CA",
+      "lead": true
+    },
+    {
+      "name": "Ethan Holmes",
+      "twitter": "",
+      "koding": "ethanholmes",
+      "location": "Venice, US"
+    },
+    {
+      "name": "Adam Bryant",
+      "twitter": "",
+      "koding": "adambryant",
+      "location": "Vancouver, CA"
+    }
+  ]
+}

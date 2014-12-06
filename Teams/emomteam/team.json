@@ -1,0 +1,12 @@
+{
+  "teamName": "emom",
+  "members": [
+    {
+      "name": "Ilya Rogov",
+      "twitter": "ilyarsoftware",
+      "koding": "ilyar",
+      "location": "St. Petersburg, RU",
+      "lead": true
+    }
+  ]
+}

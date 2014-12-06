@@ -1,0 +1,13 @@
+{
+  "teamName": "KWAX",
+  "members": [{
+    "name": "Maxim Bogdanov",
+    "koding": "djarlaks",
+    "location": "Moscow, RU",
+    "lead": true
+  }, {
+    "name": "Nataly Limicolae",
+    "koding": "rigivar",
+    "location": "Moscow, RU"
+  }]
+}

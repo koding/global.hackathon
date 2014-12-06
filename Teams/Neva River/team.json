@@ -1,0 +1,36 @@
+{
+  "teamName": "Neva River",
+  "members": [
+    {
+      "name": "Nikita Grudinin",
+      "twitter": "nikitagrudinin",
+      "koding": "ngrudinin",
+      "location": "Saint Petersburg, RU",
+	  "lead" : true
+    },
+    {
+      "name": "Andrei Riik",
+      "twitter": "crocodile8000",
+      "koding": "andrey8000",
+      "location": "Saint Petersburg, RU"
+    },
+    {
+      "name": "Dmitry Malyshev",
+      "twitter": "DimaDee",
+      "koding": "malyshevdmitry",
+      "location": "Saint Petersburg, RU"
+    },
+    {
+      "name": "Yaroslav Ponomarenko",
+      "twitter": "yarryp",
+      "koding": "yarryp",
+      "location": "Saint Petersburg, RU"
+    },
+    {
+      "name": "Ivan Alaxkin",
+      "twitter": "vanatka",
+      "koding": "vanatka",
+      "location": "Moscow, RU"
+    }
+  ]
+}

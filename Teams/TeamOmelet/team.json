@@ -1,0 +1,24 @@
+{
+  "teamName": "Team Omelet",
+  "members": [
+    {
+      "name": "Md. Mofijul Islam",
+      "twitter": "BeingMIAkashs",
+      "koding": "akashs",
+      "location": "Dhaka, BD",
+      "lead": true
+    },
+    {
+      "name": "Anik Islam Abhi",
+      "twitter": "anikislamabhi",
+      "koding": "anikislamabhi",
+      "location": "Dhaka, BD"
+    },
+    {
+      "name": "Sinan Yasar",
+      "twitter": "bt_towhid",
+      "koding": "towhid",
+      "location": "Dhaka, BD"
+    }
+  ]
+}

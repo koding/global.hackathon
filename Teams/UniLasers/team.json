@@ -1,0 +1,13 @@
+{
+	"teamName": "Team UniLasers",
+	"members": [{
+		"name": "Wilson Cheng",
+		"koding": "idontknow",
+		"location": "Markham, CA"
+	},
+	{
+		"name": "Mike Penner",
+		"koding": "fenrisulfir",
+		"location": "Toronto, CA"
+	}]
+}

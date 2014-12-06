@@ -1,0 +1,16 @@
+{
+  "teamName": "Elusive Bits",
+  "members": [
+    {
+      "name": "Tim Sidie",
+      "koding": "tims",
+      "location": "Washington D.C., US",
+      "lead": true
+    },
+    {
+      "name": "Pat Quinn",
+      "koding": "elusivebits",
+      "location": "Philadelphia, US"
+    }
+  ]
+}

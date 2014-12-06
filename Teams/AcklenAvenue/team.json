@@ -1,0 +1,30 @@
+{
+  "teamName": "AcklenAvenue",
+  "members": [
+    {
+      "name": "Camilo Aguilar",
+      "twitter": "kmilo_aguilar",
+      "koding": "kmiloaguilar",
+      "location": "San Pedro Sula, HN",
+      "lead": true
+    },
+    {
+      "name": "Rene Rosa",
+      "twitter": "realpasro",
+      "koding": "realpasro",
+      "location": "San Pedro Sula, HN"
+    },
+    {
+      "name": "Richard Siwady",
+      "twitter": "rsiwady29",
+      "koding": "rsiwady29",
+      "location": "Villanueva, HN"
+    },
+    {
+      "name": "Danilo Caballero",
+      "twitter": "dannyboy_kun",
+      "koding": "dcaballeroc",
+      "location": "Oakland, US"
+    }
+  ]
+}

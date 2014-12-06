@@ -1,0 +1,17 @@
+{
+  "teamName": "Red Alert",
+  "members": [
+    {
+      "name": "Dmitry Serkin",
+      "twitter": "DiSerkin",
+      "koding": "dserkin",
+      "location": "San Jose, US"
+    },
+    {
+      "name": "Alexander Didenko",
+      "twitter": "aa_didenko",
+      "koding": "adidenko",
+      "location": "Nizhny Novgorod, RU"
+    }
+  ]
+}

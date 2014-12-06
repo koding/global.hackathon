@@ -1,0 +1,24 @@
+{
+  "teamName": "Zphalcon",
+  "members":[
+    {
+      "name": "Thien Tran",
+      "twitter": "thientranduy",
+      "koding": "duythien",
+      "location": "Vietnam, ID",
+      "lead": true
+    },
+    {
+      "name": "Nhi Tran Thi Y",
+      "twitter": "",
+      "koding": "stackphysics",
+      "location": "Vietnam, ID"
+    },
+    {
+      "name": "Tu Vu Manh",
+      "twitter": "",
+      "koding": "yehn",
+      "location": "Vietnam, ID"
+    }
+  ]
+}

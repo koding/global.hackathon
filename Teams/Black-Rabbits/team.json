@@ -1,0 +1,24 @@
+{
+"teamName": "Black Rabbits",
+"members": [
+{
+"name": "Raymond Evans",
+"twitter": "packetghoest",
+"koding": "packetghoest",
+"location": "Biloxi, US",
+"lead": true
+},
+{
+"name": "Jason Davis",
+"twitter": "None",
+"koding": "None",
+"location": "Biloxi US"
+},
+{
+"name": "John Harter",
+"twitter": "None",
+"koding": "None",
+"location": "Biloxi, US"
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+"teamName": "Team Carina",
+"members": [
+{
+"name": "Ajad Patel",
+"twitter": "Ajad",
+"koding": "ajad",
+"location": "Indore,IN"
+},
+{
+"name": "Nirmal",
+"twitter": "nirmal",
+"koding": "nirmal",
+"location": "Indore, IN"
+},
+{
+"name": "Mayank Pande",
+"twitter": "Carina Technologies",
+"koding": "Mayank",
+"location": "Indore, IN",
+"lead": true
+},
+{
+"name": "Pragati singh suman",
+"twitter": "Pragati",
+"koding": "Pragati",
+"location": "Indore, IN"
+},
+{
+"name": "Shweta shrimali",
+"twitter": "Shweta",
+"koding": "Shweta",
+"location": "Indore, IN"
+}
+]
+}

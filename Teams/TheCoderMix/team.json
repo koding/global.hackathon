@@ -1,0 +1,25 @@
+{
+  "teamName": "TheCoderMix",
+  "members": [
+    {
+      "name": "Roberto Cabrera",
+      "twitter": "papiro89",
+      "koding": "rob-cabrera",
+      "location": "New York, US",
+      "lead": true
+    },
+    {
+      "name": "Mohammed Zameer",
+      "twitter": "zameermfm",
+      "koding": "zameermfm",
+      "location": "Colombo,IK"
+    },
+    {
+      "name": "Jessica Hart-Hogans",
+      "twitter": "-",
+      "koding": "jessicaehh",
+      "location": "New York, US"
+    }
+    
+  ]
+}

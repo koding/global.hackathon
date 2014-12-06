@@ -1,0 +1,19 @@
+{
+  "teamName": "Code4Fun",
+  "members": [
+    {
+      "name": "Alexander Vabishchevich",
+      "twitter": "alexvab",
+      "koding": "alexvab",
+      "location": "Vologda, RU",
+      "lead": true
+    },
+    {
+      "name": "Andrey Kuznetsov",
+      "twitter": "",
+      "koding": "pmkan",
+      "location": "Sokol, RU"
+    }
+    
+  ]
+}

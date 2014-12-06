@@ -1,0 +1,23 @@
+{
+  "teamName": "JavascriptCebu",
+  "members": [
+    {
+      "name": "Seth Malaki",
+      "twitter": "electricjesus",
+      "koding": "sethmalaki",
+      "location": "Cebu, Philippines"
+    },
+    {
+      "name": "Neil Paul Molina",
+      "twitter": "get_neilmolina",
+      "koding": "getneil",
+      "location": "Cebu, Philippines"
+    },
+    {
+      "name": "Gerard Banasig",
+      "twitter": "tuxrace",
+      "koding": "tuxrace",
+      "location": "Cebu, Philippines"
+    }
+  ]
+}

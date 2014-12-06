@@ -1,0 +1,18 @@
+{
+  "teamName": "AlgoRhythm",
+  "members": [
+    {
+      "name": "Nate Peterson",
+      "twitter": "pseudopsyche",
+      "koding": "ntpeters",
+      "location": "Cleveland, US",
+      "lead": true
+    },
+    {
+      "name": "Eric Rinkus",
+      "twitter": "ahat",
+      "koding": "death_by_hat",
+      "location": "Madison, US"
+    }
+  ]
+}

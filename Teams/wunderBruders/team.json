@@ -1,0 +1,17 @@
+{
+  "teamName": "Team Wunderbruders",
+  "members": [
+    {
+      "name": "Edgar Neto",
+      "twitter": "edgarjcfn",
+      "koding": "edgarjcfn",
+      "location": "Berlin, DE"
+    },
+    {
+      "name": "Osiris Neto",
+      "twitter": "zironeto",
+      "koding": "zironeto",
+      "location": "Munich, DE"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "teamName": "Bam Bam",
+  "members": [
+    {
+      "name": "Barış Saydere",
+      "twitter": "bsaydere",
+      "koding": "saydere",
+      "location": "Vienna, AT",
+      "lead": true
+    }
+  ]
+}

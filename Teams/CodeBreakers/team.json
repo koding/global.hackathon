@@ -1,0 +1,24 @@
+{
+  "teamName": "CodeBreakers",
+  "members": [
+    {
+      "name": "Nestor Mata",
+      "twitter": "nestormata",
+      "koding": "nestormata",
+      "location": "Panama, PA",
+      "lead": true
+    },
+    {
+      "name": "Alvis Wong",
+      "twitter": "pwmvx1289",
+      "koding": "pwmvx1289",
+      "location": "Hong Kong, HK"
+    },
+    {
+      "name": "Dmitry Romanenko",
+      "twitter": "dimon222",
+      "koding": "dimon222",
+      "location": "Toronto, CA"
+    }
+  ]
+}

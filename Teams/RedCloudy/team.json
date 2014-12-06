@@ -1,0 +1,22 @@
+{
+  "teamName": "Team Red Cloudy",
+  "members": [
+    {
+      "name": "Giang N",
+      "twitter": "smartexts",
+      "koding": "giangnguyen",
+      "location": "Ho Chi Minh, VN",
+      "lead": true
+    },
+    {
+      "name": "Hoat D",
+      "location": "Ho Chi Minh, VN",
+      "koding": "redone"
+    },
+    {
+      "name": "Tham V",
+      "location": "Ho Chi Minh, VN",
+      "koding": "meothailand"
+    }
+  ]
+}

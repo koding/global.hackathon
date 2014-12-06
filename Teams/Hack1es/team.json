@@ -1,0 +1,18 @@
+{
+    "teamName": "Hack1es",
+    "members": [
+        {
+            "name": "Herac1es",
+            "twitter": "herac1es",
+            "koding": "herac1es",
+            "location": "Xian, CN"
+        },
+        {
+            "name": "Siegfried",
+            "twitter": "zhiqiang_lei",
+            "koding": "siegfried",
+            "location": "Chongqing, CN",
+            "lead": true
+        }
+    ]
+}

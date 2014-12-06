@@ -1,0 +1,24 @@
+{
+  "teamName": "chubao",
+  "members": [
+    {
+      "name": "David Cheung",
+      "twitter": "david_ckc",
+      "koding": "davidckc",
+      "location": "Hong Kong, HK",
+      "lead": true
+    },
+    {
+      "name": "Keith Chan",
+      "twitter": "kwokeith1989",
+      "koding": "kwokeith1989",
+      "location": "Hong Kong, HK"
+    },
+    {
+      "name": "Tony Lee",
+      "twitter": "hktonylee",
+      "koding": "hktonylee",
+      "location": "Hong Kong, HK"
+    }
+  ]
+}

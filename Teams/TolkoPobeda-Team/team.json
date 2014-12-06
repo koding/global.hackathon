@@ -1,0 +1,24 @@
+{
+"teamName" : "TolkoPobeda Team",
+"members" : [
+   {
+   "name": "Oleg Vilkov",
+   "twitter": "mertvytko",
+   "koding": "theolege",
+   "location": "Cremea, RU"
+   },
+   {
+   "name": "Aleksandr Yakushev",
+   "twitter": "yak80",
+   "koding": "yak15",
+   "location": "Simferopol, RU",
+   "lead": true
+   },
+   {
+   "name": "Sergey",
+   "twitter": "scyborgx",
+   "koding": "scyborg",
+   "location": "Simferopol, RU"
+   }
+]
+}

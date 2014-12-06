@@ -1,0 +1,36 @@
+{
+  "teamName": "CompileError",
+  "members": [
+    {
+      "name": "Abhishek Mishra",
+      "twitter": "MishrAbhi_Mumba",
+      "koding": "mishrabhi2020",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Faizan Sayed",
+      "twitter": "sayedfaizan93",
+      "koding": "faizansayed",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Gaurav Tripathi",
+      "twitter": "madvirus420",
+      "koding": "madvirus420",
+      "location": "Mumbai, IN",
+      "lead": true
+    },
+    {
+      "name": "Rajiv Sharma",
+      "twitter": "_RajivTS_",
+      "koding": "grayskull",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Nikhil Varghese",
+      "twitter": "nv1620",
+      "koding": "nv1620",
+      "location": "Mumbai, IN"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "teamName": "Kommunicate",
+  "members": [
+    {
+      "name": "Alice Liu",
+      "koding": "aliceliu",
+      "location": "Berkeley, CA"
+    },
+    {
+      "name": "Kevin Casey",
+      "twitter": "KevinCasey22",
+      "koding": "Fortisque",
+      "location": "Berkeley, CA"
+    },
+    {
+      "name": "Sherman Leung",
+      "twitter": "sk_leung",
+      "koding": "skleung",
+      "location": "Stanford, CA",
+      "lead": true
+    }
+  ]
+}

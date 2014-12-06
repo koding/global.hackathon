@@ -1,0 +1,36 @@
+{
+  "teamName": "OurBrilliance",
+  "members": [
+    {
+      "name": "Qile Wang",
+      "twitter": "QileWang",
+      "koding": "qilew",
+      "location": "Toronto, CA",
+      "lead": true
+    },
+    {
+      "name": "Akash Patel",
+      "twitter": "senor_patel",
+      "koding": "apt2",
+      "location": "Toronto, CA"
+    },
+    {
+      "name": "Arsalan Andany",
+      "twitter": "_ANDANY_",
+      "koding": "andany",
+      "location": "Toronto, CA"
+    },
+    {
+      "name": "Fiza Mehta",
+      "twitter": "lefeeza",
+      "koding": "lefeeza",
+      "location": "Toronto, CA"
+    },
+    {
+      "name": "Lahiru Atapattu",
+      "twitter": "SALADENTHUSIAST",
+      "koding": "larryhiru",
+      "location": "Toronto, CA"
+    }
+  ]
+}

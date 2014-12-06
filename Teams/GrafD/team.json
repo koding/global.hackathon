@@ -1,0 +1,12 @@
+{
+  "teamName" : "GrafD",
+  "members"  : [
+    {
+      "name"     : "Sergey Dvoynikov",
+      "twitter"  : "yarg_",
+      "koding"   : "svdvoynikov",
+      "location" : "Chelyabinsk, RU",
+      "lead"     : true
+    }
+  ]
+}

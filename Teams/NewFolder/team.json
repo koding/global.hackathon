@@ -1,0 +1,34 @@
+{
+  "teamName": "NewFolder",
+  "members": [
+    {
+      "name": "Sachin Murali G",
+      "koding": "dotg",
+      "twitter":"sachinmuralig",
+      "location": "Sulthan Batheri, IN"
+    },
+    {
+      "name": "Akhil Balakrishnan",
+      "koding": "akhilb91",
+      "location": "Sulthan Batheri, IN"
+    },
+    {
+      "name": "Ijas Ahamed N",
+      "koding": "ijasahamed",
+      "location": "Sulthan Batheri, IN"
+    },
+    {
+      "name": "Sadique Ali P",
+      "koding": "spali",
+      "twitter":"spali90",
+      "location": "Sulthan Batheri, IN",
+      "lead" : true
+    },
+    {
+      "name": "Sibin John",
+      "koding": "sibinjohn",
+      "location": "Sulthan Batheri, IN"
+    }
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "teamName": "DozenHack",
+  "members": [
+    {
+      "name": "Mahfuzul Haque",
+      "twitter": "",
+      "koding": "dozenhack",
+      "location": "Dhaka, BD",
+      "lead": true
+    },
+    {
+      "name": "Farhadur Rahim",
+      "twitter": "webmechanicx",
+      "koding": "frahim",
+      "location": "Rajshahi, BD"
+    }
+  ]
+}

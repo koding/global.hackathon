@@ -1,0 +1,18 @@
+{
+  "teamName": "BlackCat",
+  "members": [
+    {
+      "name": "Igor Ivanov",
+      "twitter": "igor_ivanov",
+      "koding": "radev83",
+      "location": "Kaluga, RU",
+      "lead": true
+    },
+    {
+      "name": "Sergey Fetiskin",
+      "twitter": "fetis26",
+      "koding": "fetis26",
+      "location": "Kaluga, RU"
+    }
+  ]
+}

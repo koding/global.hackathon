@@ -1,0 +1,18 @@
+{
+  "teamName": "OrangeVerse",
+  "members":[
+    {
+      "name": "Vladimir Ignatev",
+      "twitter": "v_ignatyev",
+      "koding": "p0zt3r",
+      "location": "Samara, RU",
+      "lead": true
+    },
+    {
+      "name": "Rodion Martynov",
+      "twitter": "rmartynov",
+      "koding": "martynovr",
+      "location": "Moscow, RU"
+    }
+  ]
+}

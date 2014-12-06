@@ -1,0 +1,29 @@
+{
+  "teamName": "hashtag",
+  "members": [
+    {
+      "name": "Yakov Khalinsky",
+      "twitter": "russianator",
+      "koding": "russianator",
+      "location": "Melbourne, AU",
+      "lead": true
+    },
+    {
+      "name": "Marcelo Garcia Oliveira",
+      "koding": "marcelogo",
+      "location": "Melbourne, AU"
+    },
+    {
+      "name": "Arpit Srivastava",
+      "twitter": "arpit2438735",
+      "koding": "arpit2438735",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Mohit Suman",
+      "twitter": "mohit_langoor",
+      "koding": "mohitjee15",
+      "location": "Bangalore, IN"
+    }
+  ]
+}

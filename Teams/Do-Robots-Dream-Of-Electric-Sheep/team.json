@@ -1,0 +1,18 @@
+{
+  "teamName": "Do Robots Dream Of Electric Sheep",
+  "members": [
+    {
+      "name": "Alex Nishikawa",
+      "twitter": "DoRobotsDream",
+      "koding": "alex-nishikawa",
+      "location": "Seattle, US",
+      "lead": true
+    },
+    {
+      "name": "Alex Unwin",
+      "twitter": "DoRobotsDream",
+      "koding": "aunwin",
+      "location": "Seattle, US"
+    }
+  ]
+}

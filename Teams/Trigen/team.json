@@ -1,0 +1,20 @@
+{
+    "teamName": "Trigen",
+    "members": [{
+        "name": "Dan Onoshko",
+        "twitter": "dangreen58",
+        "koding": "dangreen",
+        "location": "Novosibirsk, RU"
+    }, {
+        "name": "Dima Rodionov",
+        "twitter": "rodionovme",
+        "koding": "rodionovd",
+        "location": "Tomsk, RU"
+    }, {
+        "name": "Leonid Kalneus",
+        "twitter": "lkalneus",
+        "koding": "lkalneus",
+        "location": "Novosibirsk, RU",
+        "lead": true
+    }]
+}

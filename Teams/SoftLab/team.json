@@ -1,0 +1,30 @@
+{
+	"teamName": "SoftLab",
+	"members": [
+		{
+			"name": "Ilija Tesic",
+			"twitter": "itesic",
+			"koding": "itesic",
+			"location": "Bratunac, BA",
+			"lead": true
+		},
+		{
+			"name": "Igor Golub",
+			"twitter": "golubeee",
+			"koding": "igolub",
+			"location": "Pale, BA"
+		},
+		{
+			"name": "Milan Samardzic",
+			"twitter": "StSoky",
+			"koding": "milansamardzic",
+			"location": "Sokolac, BA"
+		},
+		{
+			"name": "Radan Stupar",
+			"twitter": "radan_stupar",
+			"koding": "radan",
+			"location": "Vlasenica, BA"
+		}
+	]
+}

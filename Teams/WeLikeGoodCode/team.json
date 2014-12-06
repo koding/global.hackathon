@@ -1,0 +1,17 @@
+{
+  "teamName": "WeLikeGoodCode",
+  "members": [
+    {
+      "name": "Alexey Neischenko",
+      "twitter": "alexneisc",
+      "koding": "alexneisc",
+      "location": "Kiev, UA"
+    },
+    {
+      "name": "Ivan Arakcheev",
+      "twitter": "wildfiler",
+      "koding": "wildfiler",
+      "location": "Kiev, UA"
+    }
+  ]
+}

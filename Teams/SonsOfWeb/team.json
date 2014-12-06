@@ -1,0 +1,18 @@
+{
+  "teamName": "Sons Of Web",
+  "members": [
+    {
+      "name": "Faraz Ahmed",
+      "twitter": "farazahmed84",
+      "koding": "farazahmed84",
+      "location": "Karachi, PK",
+      "lead": true
+    },
+    {
+      "name": "Fraz Ahmed",
+      "twitter": "frazahmed",
+      "koding": "fraz",
+      "location": "Karachi, PK"
+    }
+  ]
+}

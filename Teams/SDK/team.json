@@ -1,0 +1,23 @@
+{
+  "teamName": "SDK",
+  "members": [
+    {
+      "name": "Devendra Kumar Dora M",
+      "twitter": "dev_dora",
+      "koding": "dora",
+      "location": "Warangal,In"
+    },
+    {
+      "name": "Sudheesh Singanamala",
+      "twitter": "sudheesh001",
+      "koding": "sudheesh001",
+      "location": "Warangal,In"
+    },
+   {
+      "name": "Kranthi Kiran Guduru",
+      "twitter": "Kranthi_Guduru",
+      "koding": "kranthikiran01",
+      "location": "Warangal,In"
+    }
+  ]
+}

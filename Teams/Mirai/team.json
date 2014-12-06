@@ -1,0 +1,18 @@
+{
+  "teamName": "Mirai",
+  "members": [
+    {
+      "name": "Henry Velasquez",
+      "twitter": "WMAADev",
+      "koding": "HenryV10",
+      "location": "Grand Rapids, US"
+    },
+    {
+      "name": "Brandon Azer",
+      "twitter": "AzerBrandon",
+      "koding": "a0z1e0r8",
+      "location": "Grand Rapids, US",
+      "lead": true
+    }
+  ]
+}

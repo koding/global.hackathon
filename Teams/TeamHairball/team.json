@@ -1,0 +1,18 @@
+{
+  "teamName": "Team Hairball",
+  "members": [
+    {
+      "name": "Paul Bailey",
+      "twitter": "pizzapanther",
+      "koding": "pizzapanther",
+      "location": "League City, US",
+      "lead": true
+    },
+    {
+      "name": "Chris Cauley",
+      "twitter": "lablackey",
+      "koding": "Chriscauley",
+      "location": "Houston, US"
+    }
+  ]
+}

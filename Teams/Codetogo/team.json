@@ -1,0 +1,24 @@
+{
+  "teamName": "Codetogo",
+  "members": [
+    {
+      "name": "Anurag Patel",
+      "twitter": "anurag1695",
+      "koding": "anurag95",
+      "location": "Ahmedabad, IN"
+    },
+    {
+      "name": "Chinmay Joshi",
+      "twitter": "chinmaynj",
+      "koding": "chinmayj",
+      "location": "Vadodara, IN",
+      "lead": true
+    },
+    {
+      "name": "Vivek Iyengar",
+      "twitter": "",
+      "koding": "vkiyengar",
+      "location": "Vadodara, IN"
+    }
+  ]
+}

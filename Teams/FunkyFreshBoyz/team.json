@@ -1,0 +1,20 @@
+{
+  "teamName": "Funky Fresh Boyz",
+  "members": [
+    {
+      "name": "Cristian Cortez",
+      "twitter": "cortezcristian",
+      "koding": "cortezcristian",
+      "location": "Rosario, AR",
+      "lead": true
+    }, {
+      "name": "Cristian La Spina",
+      "koding": "piriviejo",
+      "location": "Rosario, AR"
+    }, {
+      "name": "Lucas van Dongen",
+      "koding": "lucasvandongen",
+      "location": "Rosario, AR"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "teamName": "TeamShog",
+  "members": [
+    {
+      "name": "Noah MacDonald",
+      "twitter": "falkirknh",
+      "koding": "falkirks",
+      "location": "Vancouver, CA",
+      "lead": true
+    },
+    {
+      "name": "Leon Chang",
+      "twitter": "99leonchang",
+      "koding": "99leonchang",
+      "location": "Hsinchu, TW"
+    },
+    {
+      "name": "Samuel Levin",
+      "twitter": "MegaSam_",
+      "koding": "megasamninja",
+      "location": "Sydney, AU"
+      
+    },
+    {
+      "name": "Adam Martin",
+      "twitter": "TuffDev",
+      "koding": "tuffdev",
+      "location": "Fishers, US"
+    },
+    {
+      "name": "Chris",
+      "twitter": "PEMapModder",
+      "koding": "pemapmodder",
+      "location": "Hong Kong, CN"
+    }
+  ]
+}

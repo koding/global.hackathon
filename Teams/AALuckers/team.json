@@ -1,0 +1,17 @@
+{
+  "teamName": "AALuckers",
+  "members": [
+    {
+      "name": "Chepurnoy Aleksander",
+      "twitter": "biz_ze",
+      "koding": "bizze",
+      "location": "Vladivostok, RU",
+      "lead": true
+    },
+    {
+      "name": "Feshenko Denis",
+      "koding": "Feshenkod",
+      "location": "Vladivostok, RU"
+    }
+  ]
+}

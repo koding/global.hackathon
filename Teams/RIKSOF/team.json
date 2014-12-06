@@ -1,0 +1,36 @@
+{
+  "teamName": "RIKSOF",
+  "members": [
+    {
+      "name": "Khurram Ali",
+      "twitter": "mkhurramali",
+      "koding": "mkhurramali",
+      "location": "Karachi, PK",
+      "lead": true
+    },
+    {
+      "name": "Muhammad Zeeshan",
+      "twitter": "iamz33shan",
+      "koding": "mzeeshan",
+      "location": "Karachi, PK"
+    },
+    {
+      "name": "Zeeshan Ali Lalani",
+      "twitter": "zzlalani",
+      "koding": "zzlalani",
+      "location": "Karachi, PK"
+    },
+    {
+      "name": "Rehan Ali",
+      "twitter": "iRehanAli",
+      "koding": "riksof-rehan",
+      "location": "Karachi, PK"
+    },
+    {
+      "name": "Sharjeel Khan",
+      "twitter": "",
+      "koding": "sharjeelkhan",
+      "location": "Karachi, PK"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "teamName": "Salap",
+  "members": [
+    {
+      "name": "Dan Michael Molina",
+      "twitter": "danmichaelm",
+      "koding": "danmichaelmolina",
+      "location": "Makati City, 1208 Philippines",
+      "lead": true
+    },
+    {
+      "name": "Jernon Magcalas",
+      "twitter": "manuvers01",
+      "koding": "jernonmagcalas",
+      "location": "Makati City, 1208 Philippines"
+    },
+    {
+      "name": "Clark Galgo",
+      "twitter": "clarkgalgo",
+      "koding": "clark21",
+      "location": "Makati City, 1208 Philippines"
+    }
+  ]
+}

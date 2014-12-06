@@ -1,0 +1,16 @@
+{
+    "teamName": "TheTwoPeas",
+    "members": [
+        {
+            "name": "Kalmar Gabor",
+            "koding": "matchxxx",
+            "location": "Tura, HU"
+        },
+        {
+            "name": "Takacs Pal",
+            "twitter": "tpali",
+            "koding": "takacspal",
+            "location": "Tura, HU"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "teamName": "ACFTW",
+    "members": [
+    {
+      "name": "Pasindu Chathuranga",
+      "twitter": "@pasinducw",
+      "koding": "lordpc",
+      "location": "Colombo, SL"
+    },
+    {
+      "name": "Vihanga Ashinsana",
+      "twitter": "@VAshinsana",
+      "koding": "vihanga",
+      "location": "Maravila, SL"
+    },
+    {
+      "name": "Chavidu Kalpana",
+      "twitter": "@chavidu_kalpana",
+      "koding": "chavidu",
+      "location": "Gampaha, SL"
+    },
+    {
+      "name": "Navoda Bandara",
+      "twitter": "@navodabandara",
+      "koding": "navodabadara",
+      "location": "Colombo, SL",
+      "lead": true
+    }
+  ]
+}

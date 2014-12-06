@@ -1,0 +1,36 @@
+{
+    "teamName": "The Washington Redskins",
+    "members": [
+      {
+        "name": "Ethan Madison",
+        "twitter": "_ethanmad",
+        "koding": "ethanmad",
+        "location": "Los Angeles, US",
+        "lead": true
+      },
+      {
+        "name": "David Woldenberg",
+        "twitter": "goldenwolden",
+        "koding": "wold",
+        "location": "Los Angeles, US"
+      },
+      {
+        "name": "Christian Stewart",
+        "twitter": "paralinq",
+        "koding": "kidovate",
+        "location": "Los Angeles, US"
+      },
+      {
+        "name": "James Lennon",
+        "twitter": "james_lennon",
+        "koding": "jlennon1",
+        "location": "Los Angeles, US"
+      },
+      {
+        "name": "Jake Saferstein",
+        "twitter": "",
+        "koding": "thesafo",
+        "location": "Los Angeles, US"
+      }
+    ]
+}

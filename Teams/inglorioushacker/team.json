@@ -1,0 +1,13 @@
+{
+  "teamName": "IngloriousHacker",
+   "members":
+    [
+      {
+        "name":"Amit Haval",
+        "twitter":"blasteramit",
+        "koding" :"blasteramit",
+        "location" :"Sangli,IN",
+        "lead" : true
+      } 
+   ]
+}

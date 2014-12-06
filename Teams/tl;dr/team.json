@@ -1,0 +1,12 @@
+{
+  "teamName": "tl;dr",
+  "members": [
+    {
+      "name": "Miguel",
+      "twitter": "miguelangelnubl",
+      "koding": "miguelangel",
+      "location": "Madrid, ES",
+      "lead": true
+    }
+  ]
+}

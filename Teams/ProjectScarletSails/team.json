@@ -1,0 +1,15 @@
+{
+  "teamName": "Project Scarlet Sails",
+  "members": [
+    {
+      "name": "Timur Khadimullin",
+      "koding": "pmufa",
+      "location": "Auckland, NZ"
+    },
+	{
+      "name": "Dana Garifullina",
+      "koding": "ferventer",
+      "location": "Auckland, NZ"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+"teamName": "Turtles",
+"members": [
+{
+"name": "Joe Peacock",
+"koding": "peacock",
+"location": "Beloit, US",
+"lead": true
+},
+{
+"name": "Linden Holt",
+"koding": "acedrow",
+"location": "Beloit, US"
+},
+{
+"name": "Ellery Addington-White",
+"koding": "ellery44",
+"location": "Beloit, US"
+},
+{
+"name": "Hunter Elbourn",
+"koding": "elbournhr",
+"location": "Beloit, US"
+}
+]
+}

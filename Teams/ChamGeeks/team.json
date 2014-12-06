@@ -1,0 +1,23 @@
+{
+  "teamName": "ChamGeeks",
+  "members": [
+    {
+      "name": "Patrik Spathon",
+      "twitter": "Spathon",
+      "koding": "spathon",
+      "location": "Chamonix, FR"
+    },
+    {
+      "name": "Neill Pearman",
+      "twitter": "njpearman",
+      "koding": "senortocadisco",
+      "location": "Chamonix, FR"
+    },
+    {
+      "name": "Jacques Belissent",
+      "twitter": "jbelis",
+      "koding": "jbelis",
+      "location": "Chamonix, FR"
+    }
+  ]
+}

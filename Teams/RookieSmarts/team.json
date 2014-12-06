@@ -1,0 +1,13 @@
+{
+    "teamName" : "RookieSmarts",
+    "members":[
+    {
+        "name" : "Gaurav Sehrawat",
+        "twitter": "Root3d",
+        "koding" :"igauravsehrawat",
+        "github" : "igauravsehrawat",
+        "location" : "Chennai,IN",
+        "lead":true
+    }
+    ]
+}

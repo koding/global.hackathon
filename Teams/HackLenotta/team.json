@@ -1,0 +1,24 @@
+{
+  "teamName": "Hack Lenotta",
+  "members": [
+    {
+      "name": "Edoardo Odorico",
+      "twitter": "edoardoo",
+      "koding": "edoardoo",
+      "location": "Florence, IT"
+    },
+    {
+      "name": "Lorenzo Farnararo",
+      "twitter": "baldarn",
+      "koding": "baldarn",
+      "location": "Florence, IT"
+    },
+    {
+      "name": "Sanjeya Cooray",
+      "twitter": "sanjeyac",
+      "koding": "sanjeya",
+      "location": "Florence, IT"
+    }    
+    
+  ]
+}

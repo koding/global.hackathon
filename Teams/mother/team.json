@@ -1,0 +1,23 @@
+{
+  "teamName": "mother",
+  "members": [
+    {
+      "name": "Uri Gorelik",
+      "twitter": "urigorelik",
+      "koding": "uri",
+      "location": "Ottawa, ON"
+    },
+    {
+      "name": "Kurtis Funai",
+      "twitter": "kurtfunai",
+      "koding": "kurtfunai",
+      "location": "Ottawa, ON"
+    },
+    {
+      "name": "Patrick Vice",
+      "twitter": "patgvice",
+      "koding": "patgvice",
+      "location": "Ottawa, ON"
+    }
+  ]
+}

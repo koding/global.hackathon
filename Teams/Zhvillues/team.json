@@ -1,0 +1,32 @@
+{
+  "teamName": "Zhvillues",
+  "members": [
+    {
+      "name": "Sachith Seneviratne",
+      "koding": "sachith500",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Sanka Rasnayaka",
+      "koding": "sankha",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Rajith Vidanaarachchi",
+      "koding": "rajithv",
+      "location": "Luneburg, DE"
+    },
+    {
+      "name": "Sachini Herath",
+      "koding": "sachini",
+      "location": "Colombo, LK",
+      "lead" : true
+    },
+    {
+      "name": "Vipula Dissanayaka",
+      "koding": "vipulad",
+      "location": "Colombo, LK"
+    }
+
+  ]
+}

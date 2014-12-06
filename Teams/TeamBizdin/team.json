@@ -1,0 +1,30 @@
+{
+  "teamName": "Team Bizdin",
+  "members": [
+    {
+      "name": "Mete Kabak",
+      "twitter": "metekabak",
+      "koding": "metekabak",
+      "location": "Istanbul, TR",
+      "lead": true
+    },
+    {
+      "name": "Ahmet Varis",
+      "twitter": "ahmetvrs",
+      "koding": "ahmetvrs",
+      "location": "Istanbul, TR"
+    },
+    {
+      "name": "Chyngyz Arystan Uulu",
+      "twitter": "chyngyz_arystan",
+      "koding": "chyngyz",
+      "location": "Famagusta, CY"
+    },
+    {
+      "name": "Enver Çağrı Yıldırım",
+      "twitter": "ecagriyildirim",
+      "koding": "ecagriyildirim",
+      "location": "Istanbul, TR"
+    }
+  ]
+}

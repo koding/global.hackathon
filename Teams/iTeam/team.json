@@ -1,0 +1,24 @@
+{
+  "teamName": "iTeam",
+  "members": [
+    {
+      "name": "Ivan Skorodumov",
+      "twitter": "leckaxushr",
+      "koding": "ivanpro",
+      "location": "Moscow, RU",
+      "lead": true      
+    },
+    {
+      "name": "Joseph Loyola",
+      "twitter": "",
+      "koding": "tabatsoy",
+      "location": "Taytay, PH"
+    },
+    {
+      "name": "Shin Masaharu",
+      "twitter": "mjv316",
+      "koding": "shinkun",
+      "location": "Davao City, PH"
+    }
+    ]
+}

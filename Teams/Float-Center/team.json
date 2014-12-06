@@ -1,0 +1,30 @@
+{
+  "teamName": "Float-Center",
+  "members": [
+    {
+      "name": "Chris Drake",
+      "twitter": "Chris_R_Drake",
+      "koding": "cdrake",
+      "location": "Wichita, KS",
+      "lead": true
+    },
+    {
+      "name": "Corey Wynn",
+      "twitter": "",
+      "koding": "wynn1c",
+      "location": "Wichita, KS"
+    },
+    {
+      "name": "Caleb Swank",
+      "twitter": "",
+      "koding": "calebswank11",
+      "location": "Wichita, KS"
+    },
+    {
+      "name": "Daniel Brake",
+      "twitter": "",
+      "koding": "danieldb",
+      "location": "Wichita, KS"
+    }
+  ]
+}

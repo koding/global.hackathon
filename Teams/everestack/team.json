@@ -1,0 +1,24 @@
+{
+  "teamName": "everestack",
+  "members": [
+    {
+      "name": "Nootan Ghimire",
+      "twitter": "nootanghimire",
+      "koding": "nootanghimire",
+      "location": "Kathmandu, NP",
+      "lead": true
+    },
+    {
+      "name": "Nishan Bajracharya",
+      "twitter": "Nishan_cd",
+      "koding": "nishan13",
+      "location": "Kathmandu, NP"
+    },
+    {
+      "name": "Rhoit Man Amatya",
+      "twitter": "rhoitman",
+      "koding": "rhoit",
+      "location": "Kathmandu, NP"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "teamName": "Phoenix Rising",
+    "members": [
+        {
+            "name": "Alex Kremer",
+            "twitter": "Evilnames",
+            "koding": "Evilnames",
+            "location": "Phoenix, AZ",
+            "lead": true
+        }
+    ]
+}

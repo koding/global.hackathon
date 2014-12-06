@@ -1,0 +1,10 @@
+{
+ "teamName": "LambdaNinja",
+ "members": [{
+    "name": "El-Hassan Wanas",
+    "twitter": "@foo30303",
+    "koding": "foo303",
+    "location": "Doha, QA",
+    "lead": true
+  }]
+}

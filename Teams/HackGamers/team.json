@@ -1,0 +1,24 @@
+{
+  "teamName": "Hack Gamers",
+  "members": [
+    {
+      "name": "Mitchel Kelonye",
+      "twitter": "kelonye",
+      "koding": "kelonye",
+      "location": "Nairobi, KE",
+      "lead": true
+    },
+    {
+      "name": "Ferdaous CHEBBI",
+      "twitter": "ferdaous",
+      "koding": "ferarkan",
+      "location": "Tunis, TN"
+    },
+    {
+      "name": "Medha Pandey",
+      "twitter": "medhapandas",
+      "koding": "mack8",
+      "location": "Jaipur, IN"
+    }
+  ]
+}

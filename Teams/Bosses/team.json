@@ -1,0 +1,11 @@
+{
+  "teamName": "Bosses",
+  "members": [
+    {
+      "name": "Emil Bergold",
+      "koding": "bergold",
+      "location": "Stockholm, SE",
+      "lead": true
+    }
+  ]
+}

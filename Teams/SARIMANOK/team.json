@@ -1,0 +1,17 @@
+{
+  "teamName": "SARIMANOK",
+  "members": [
+    {
+      "name": "Marc Tan",
+      "twitter": "mharkus",
+      "koding": "mharkus",
+      "location": "Singapore, SG",
+      "lead": true
+    },
+    {
+      "name": "Manikandan Selvaraju",
+      "koding": "smanikandan14",
+      "location": "Minneapolis, US"
+    }	
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "teamName": "Team Egy_hackers",
+    "members": [
+        {
+            "name": "Reem bayoumi",
+            "twitter": "@Reem_Bayoumi",
+            "koding": "kikhbikh",
+            "location": "Tallinn,EE",
+            "lead": true
+        },
+        {
+            "name": "Hatem wasfy",
+            "twitter": "@hatemwasfy",
+            "koding": "hatemwasfy",
+            "location": "Cairo,EG"
+        },
+        {
+            "name": "Muhammed bassem",
+            "twitter": "@Mmbassem",
+            "koding": "null1",
+            "location": "Cairo,EG"
+        }
+    ]
+}

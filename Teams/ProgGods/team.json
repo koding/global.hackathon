@@ -1,0 +1,24 @@
+{
+  "teamName": "ProgGods",
+  "members": [
+    {
+      "name": "Máté Nagy",
+      "twitter": "Dexcrow",
+      "koding": "dexcrow",
+      "location": "Vác, HU"
+    },
+    {
+      "name": "Vilmos Takács",
+      "twitter": "tvili999",
+      "koding": "tvili999",
+      "location": "Püspökhatvan, HU"
+    },
+    {
+      "name": "Barnabás Pataki",
+      "twitter": "BarnabasVac",
+      "koding": "balday",
+      "location": "Vác, HU",
+      "lead": true
+    }
+  ]
+}

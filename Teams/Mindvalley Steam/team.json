@@ -1,0 +1,36 @@
+{
+  "teamName": "Mindvalley Steam",
+  "members": [
+    {
+      "name": "Ramin Vakilian",
+      "twitter": "ramin_v80",
+      "koding": "ramin",
+      "location": "Kuala Lumpur, MY",
+      "lead": true
+    },
+    {
+      "name": "Maryam Bahrami",
+      "twitter": "maryam_bz",
+      "koding": "maryam-b",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Jimmy Ngu",
+      "twitter": "jimmynguyc",
+      "koding": "jimmynguyc",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Lim Victor",
+      "twitter": "viclim",
+      "koding": "viclim",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Chee Seng Lee",
+      "twitter": "CheeSengLim",
+      "koding": "CheeSengLim",
+      "location": "Kuala Lumpur, MY"
+    }
+  ]
+}

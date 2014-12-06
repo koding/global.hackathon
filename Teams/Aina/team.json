@@ -1,0 +1,12 @@
+{
+  "teamName": "Team Aina",
+  "members": [
+    {
+      "name": "Jose Luis Gonzalez",
+      "twitter": "arkangelkruel",
+      "koding": "arkangelkruel",
+      "location": "Santiago, CL",
+      "lead" : true
+    }
+  ]
+}

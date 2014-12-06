@@ -1,0 +1,11 @@
+{
+   "teamName": "Amethyst", 
+   "members": [
+      {
+         "name": "Mohammad Moradi Shahmiri",
+         "koding": "m2moradi", 
+         "location": "Tehran, IR", 
+         "lead": true
+      }
+   ]
+}

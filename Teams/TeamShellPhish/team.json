@@ -1,0 +1,24 @@
+{
+  "teamName": "TeamShellPhish",
+  "members": [
+    {
+      "name": "Arvind Kumar",
+      "twitter": "justArv1nd",
+      "koding": "nullvoid",
+      "location": "Hyderabad, IN",
+      "lead": true
+    },
+    {
+      "name": "Gautham Yerroju",
+      "twitter": "gtm_y",
+      "koding": "thegwiz",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Vasu Nakka",
+      "twitter": "NA",
+      "koding": "vaasu4849",
+      "location": "Hyderabad, IN"
+    }
+  ]
+}

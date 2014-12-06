@@ -1,0 +1,18 @@
+{
+  "teamName": "elinformatico",
+  "members": [
+    {
+      "name": "Jose Noe Hernandez Vivanco",
+      "twitter": "@elinformaticomx",
+      "koding": "elinformatico",
+      "location": "Guadalajara, MX",
+      "lead": true
+    },
+    {
+      "name": "Oscar Terrazas",
+      "twitter": "@terrazas12",
+      "koding": "terrazas",
+      "location": "Guadalajara, MX"
+    }
+  ]
+}

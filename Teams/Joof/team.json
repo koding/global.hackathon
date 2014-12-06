@@ -1,0 +1,24 @@
+{
+  "teamName": "Joof",
+  "members": [
+    {
+      "name": "Aleksandr Tuchkov",
+      "twitter": "tucher_one",
+      "koding": "tucher",
+      "location": "Moscow, RU",
+      "lead": true
+    },
+    {
+      "name": "Artem Pakhomov",
+      "twitter": "a_pahomov",
+      "koding": "gorblnu4",
+      "location": "Moscow, RU"
+    },
+    {
+      "name": "Marat Saytakov",
+      "twitter": "m4rr",
+      "koding": "m4rr",
+      "location": "Moscow, RU"
+    }
+  ]
+}

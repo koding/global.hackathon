@@ -1,0 +1,18 @@
+{
+    "teamName": "MLPIC",
+    "members": [
+        {
+            "name": "Stanislav Chernomorchenko",
+            "twitter": "Aroksetx",
+            "facebook": "id=100002161069760",
+            "koding": "aroksetx",
+            "location": "Dniprodzerzhynsk, UA",
+            "lead": true
+        },
+        {
+            "name": "Vadim Kardashov",
+            "koding": "vados4266",
+            "location": "Dniprodzerzhynsk, UA"
+        }
+    ]
+}

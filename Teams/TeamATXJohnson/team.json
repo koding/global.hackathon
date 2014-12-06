@@ -1,0 +1,13 @@
+{
+  "teamName": ".jar",
+  "members": [
+    {
+      "name": "Ben johnson",
+      "twitter": "bennyboydodge",
+      "koding": "hookemben",
+      "location": "Austin,TX",
+      "lead": true
+    }
+
+  ]
+}

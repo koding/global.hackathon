@@ -1,0 +1,18 @@
+{
+  "teamName": "UpStageCoder",
+  "members": [
+    {
+      "name": "Md Ali Ahsan Rana",
+      "twitter": "ranacseruet",
+      "koding": "ranacseruet",
+      "location": "Montreal, QC, Canada",
+      "lead": true
+    },
+    {
+      "name": "Mahfuja Nilufar",
+      "twitter": "nilacseruet",
+      "koding": "nilacseruet",
+      "location": "Montreal, QC, Canada"
+    }
+  ]
+}

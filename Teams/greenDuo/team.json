@@ -1,0 +1,18 @@
+{
+  "teamName": "greenDuo",
+  "members": [
+    {
+      "name": "Fiaz Husyn",
+      "twitter": "fiazhusyn",
+      "koding": "fiazhusyn",
+      "location": "Lahore, PK",
+      "lead": true
+    },
+    {
+      "name": "Muhammed Naeem",
+      "twitter": "naeem014",
+      "koding": "naeem014",
+      "location": "Lahore, PK"
+    }
+  ]
+}

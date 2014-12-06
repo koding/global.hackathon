@@ -1,0 +1,36 @@
+{
+  "teamName": "Team Require",
+  "members": [
+    {
+      "name": "Cameron White",
+      "twitter": "codeandcam",
+      "koding": "camwhite",
+      "location": "Telluride, US",
+      "lead": true
+    },
+    {
+      "name": "Irwin Litvak",
+      "twitter": "null",
+      "koding": "ilitvak",
+      "location": "New York City, US"
+    },
+    {
+      "name": "Jennifer Nelson",
+      "twitter": "jwncoexists",
+      "koding": "jwncoexists",
+      "location": "San Diego, US"
+    },
+    {
+      "name": "Mike Engel",
+      "twitter": "null",
+      "koding": "primal001",
+      "location": "New York City, US"
+    },
+    {
+      "name": "Projjol Banerji",
+      "twitter": "ProjjolBanerji",
+      "koding": "dorsatum",
+      "location": "Manipal, IN"
+    }
+  ]
+}

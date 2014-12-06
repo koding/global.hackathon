@@ -1,0 +1,12 @@
+{
+    "teamName": "HelloSofts",
+    "members": [
+        {
+            "name": "Md. Zahirul Haque",
+            "twitter": "zahiruldu",
+            "koding": "zahirul",
+            "location": "Dhaka, BD",
+            "lead": true
+        }
+    ]
+}

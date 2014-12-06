@@ -1,0 +1,36 @@
+{
+  "teamName": "Codeepy",
+  "members": [
+    {
+      "name": "Dommy Asfiandy",
+      "twitter": "dumbaztic",
+      "koding": "dumbastic",
+      "location": "Manchester, UK",
+      "lead": true
+    },
+    {
+      "name": "Halim Fadhli",
+      "twitter": "halimfadhli",
+      "koding": "cipherhat",
+      "location": "Manchester, UK"
+    },
+    {
+      "name": "Elchin Ismayilov",
+      "twitter": "elch7n",
+      "koding": "elchin14",
+      "location": "Manchester, UK"
+    },
+    {
+      "name": "Abdulrahman Hussein",
+      "twitter": "",
+      "koding": "abdush",
+      "location": "Manchester, UK"
+    },
+    {
+      "name": "Somdip Dey",
+      "twitter": "somdip007",
+      "koding": "somdip007",
+      "location": "Manchester, UK"
+    }
+  ]
+}

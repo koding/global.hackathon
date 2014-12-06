@@ -1,0 +1,30 @@
+{
+  "teamName": "The Green Elephant",
+  "members": [
+    {
+      "name": "Pavel Ivanov",
+      "twitter": "schfkt",
+      "koding": "schfkt",
+      "location": "Saint Petersburg, RU",
+      "lead": true
+    },
+    {
+      "name": "Sergey Smagin",
+      "twitter": "s_mage",
+      "koding": "s-mage",
+      "location": "Tula, RU"
+    },
+    {
+      "name": "Dmitrii Budylskii",
+      "twitter": "budmitr",
+      "koding": "budmitr",
+      "location": "Bryansk, RU"
+    },
+    {
+      "name": "Nick Saveljev",
+      "twitter": "_nsave",
+      "koding": "nsave",
+      "location": "Ivanovo, RU"
+    }
+  ]
+}

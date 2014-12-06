@@ -1,0 +1,24 @@
+{
+  "teamName": "Team America",
+  "members": [
+    {
+      "name": "Victor Costan",
+      "twitter": "pwnall",
+      "koding": "pwnall",
+      "location": "Boston, US",
+      "lead": true
+    },
+    {
+      "name": "Staphany Park",
+      "twitter": "",
+      "koding": "spark008",
+      "location": "Boston, US"
+    },
+    {
+      "name": "Yafim Landa",
+      "twitter": "yafim",
+      "koding": "yafim",
+      "location": "New York, US"
+    }
+  ]
+}

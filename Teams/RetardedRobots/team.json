@@ -1,0 +1,17 @@
+{
+  "teamName": "Retarded Robots",
+  "members": [
+    {
+      "name": "Ghassen Telmoudi",
+      "twitter": "GhassenTelmoudi",
+      "koding": "pyghassen",
+      "location": "Ariana, TN"
+    },
+    {
+      "name": "Fourat Zouari",
+      "twitter": "fourat",
+      "koding": "fourat",
+      "location": "Tunis, TN"
+    }
+  ]
+}

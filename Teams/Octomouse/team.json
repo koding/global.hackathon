@@ -1,0 +1,24 @@
+{
+"teamName": "Octomouse",
+"members": [
+  {
+    "name": "Germán Bobr",
+    "twitter": "phk_nevermore",
+    "koding": "gbobr",
+    "location": "Villa Luzuriaga, AR",
+    "lead": true
+  },
+  {
+    "name": "Ricardo Bevilacqua",
+    "twitter": "ricardobevi",
+    "koding": "rbevi",
+    "location": "El Palomar, AR"
+  },
+  {
+    "name": "Facundo D'Aranno",
+    "twitter": "",
+    "koding": "facundodaranno",
+    "location": "El Palomar, AR"
+  }
+ ]
+}

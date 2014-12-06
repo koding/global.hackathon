@@ -1,0 +1,19 @@
+{
+  "teamName": "Pixelcreart",
+  "members": [
+    {
+      "name": "Manuel Avelar",
+      "twitter": "mavelar",
+      "koding": "mavelar",
+      "github": "mavelar",
+      "facebook": "manuel.avelar",
+      "location": "San Pedro Sula, HN"
+    },
+    {
+      "name": "Luis Araya",
+      "twitter": "alfadaemon",
+      "koding": "alfadaemon",
+      "location": "San Pedro Sula, HN"
+    }
+  ]
+}

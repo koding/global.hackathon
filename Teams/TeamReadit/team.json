@@ -1,0 +1,23 @@
+{
+  "teamName": "Team Readit",
+  "members": [
+    {
+      "name": "Kedar Kulkarni",
+      "twitter": "@kedar_kulkarni1",
+      "koding": "kedark3",
+      "location": "Pune, IN"
+    },
+    {
+      "name": "Tejas Sathe",
+      "twitter": "@sathetejas",
+      "koding": "agentk1729",
+      "location": "Pune, IN"
+    },
+    {
+      "name": "Karan Sharma",
+      "twitter": "N/A",
+      "koding": "karan1276",
+      "location": "Pune, IN"
+    }
+  ]
+}

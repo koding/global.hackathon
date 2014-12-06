@@ -1,0 +1,12 @@
+{
+    "teamName": "Bat Code",
+    "members": [
+        {
+            "name": "Michael Brooks",
+            "twitter": "checkeredmike",
+            "koding": "mbwebdesigner",
+            "location": "Newton Abbot, UK",
+            "lead": true
+        }
+    ]
+}

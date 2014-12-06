@@ -1,0 +1,11 @@
+{
+  "teamName": "Code Overflow",
+  "members": [
+    {
+      "name": "Vladimir Korukov",
+      "koding": "vovak",
+      "location": "Redmond, US",
+      "lead": true
+    }
+  ]
+}

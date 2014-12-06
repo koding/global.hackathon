@@ -1,0 +1,36 @@
+{
+  "teamName": "CodeBlooded",
+  "members": [
+    {
+      "name": "Jayesh Solanki",
+      "twitter": "jayeshsolanki93",
+      "koding": "jayeshsolanki93",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Ankit Aggrawal",
+      "twitter": "ankit_stone",
+      "koding": "ankitanil",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Vijay Gore",
+      "twitter": "vijaygore25 ",
+      "koding": "vijaygore",
+      "location": "Mumbai, IN",
+      "lead": true
+    },
+    {
+      "name": "Dipraj Acharekar",
+      "twitter": "DiprajAcharekar",
+      "koding": "dipraj",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Smit Bawkar",
+      "twitter": "smit_399",
+      "koding": "smitbawkar",
+      "location": "Mumbai, IN"
+    }
+  ]
+}

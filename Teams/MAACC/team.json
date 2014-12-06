@@ -1,0 +1,36 @@
+{
+  "teamName": "Team MAACC",
+  "members": [
+    {
+      "name": "Cristian Achille",
+      "twitter": "_blackdev1l",
+      "koding": "blackdev1l",
+      "location": "Modena, IT",
+      "lead": true
+    },
+    {
+      "name": "Michael Rickert",
+      "twitter": "ccnppro",
+      "koding": "slacker87",
+      "location": "Princeton, US"
+    },
+    {
+      "name": "alex taylor",
+      "twitter": "null",
+      "koding": "atat",
+      "location": "London, UK"
+    },
+    {
+      "name": "Austin Lazarus",
+      "twitter": "aulavara",
+      "koding": "Aulavara",
+      "location": "Dominica, WI"
+    },
+    {
+      "name": "Cameron Craig",
+      "twitter": "nomnomcameron",
+      "koding": "nomnomcameron",
+      "location": "Phoenix, AZ"
+    }
+  ]
+}

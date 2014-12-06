@@ -1,0 +1,18 @@
+{
+  "teamName": "The Tigers",
+  "members": [
+    {
+      "name": "KULDIP PIPALIYA",
+      "twitter": "KuldipPipaliya",
+      "koding": "kuldipem",
+      "location": "Virpur, IN",
+	  "lead":true
+    },
+	{
+	  "name": "DARSHAN LAKHATARIYA",
+	  "koding": "darshanlak",
+	  "twitter": "",
+      "location": "Rajkot, IN"
+	}    
+  ]
+}

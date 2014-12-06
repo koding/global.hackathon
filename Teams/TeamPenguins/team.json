@@ -1,0 +1,12 @@
+{
+  "teamName": "Team Penguins",
+  "members": [
+    {
+        "name": "N Bhargav",
+        "twitter": "nbhargav3",
+        "koding": "bhargav3",
+        "location": "Bangalore, IN",
+        "lead": true
+    }
+  ]
+}

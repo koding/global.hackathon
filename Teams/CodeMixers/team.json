@@ -1,0 +1,18 @@
+{
+  "teamName": "Team CodeMixers",
+  "members": [
+    {
+      "name": "Restie Gapusan",
+      "twitter": "rlcs888",
+      "koding": "rlcreativesolutions",
+      "location": "Ilocos Norte, PH",
+      "lead": true
+    },
+    {
+      "name": "Shane Edwards",
+      "twitter": "",
+      "koding": "shanee",
+      "location": "Brisbane, AU"
+    }
+  ]
+}

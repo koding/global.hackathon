@@ -1,0 +1,18 @@
+{
+  "teamName": "BiCoders",
+  "members": [
+    {
+      "name": "Bharath Kumaar M",
+      "twitter": "bharath_dean",
+      "koding": "embkay06",
+      "location": "Chennai, IN",
+      "lead": true
+    },
+    {
+      "name": "Irene Clare SI",
+      "twitter": "ireneclaresi",
+      "koding": "ireneclaresi",
+      "location": "Chennai, IN"
+    }
+  ]
+}

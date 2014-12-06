@@ -1,0 +1,20 @@
+{
+    "teamName": "Team SPOT Software",
+    "members": [
+        {
+            "name": "Marco Ceccarelli",
+            "koding": "marcospotsoftware",
+            "location": "Cesena, IT"
+        },
+        {
+            "name": "Andrea Rinaldi",
+            "koding": "andreaspotsoftware",
+            "location": "Cesena, IT"
+        },
+        {
+            "name": "Alessandro Molari",
+            "koding": "alem0lars",
+            "location": "Cesena, IT"
+        }
+    ]
+}

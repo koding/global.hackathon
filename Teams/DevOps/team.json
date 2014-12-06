@@ -1,0 +1,23 @@
+{
+  "teamName": "DevOps",
+  "members": [
+    {
+      "name": "Ruben Paz",
+      "twitter": "IstarEldritch",
+      "koding": "istar",
+      "location": "Dublin, IE",
+      "lead": true
+    },
+    {
+      "name": "Giancarlo Sanchez",
+      "twitter": "gianksp",
+      "koding": "gianksp",
+      "location": "Dublin, IE"
+    },
+    {
+      "name": "Alexis Romero",
+      "koding": "alexkoding",
+      "location": "Dublin, IE"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "teamName": "SERPteam",
+  "members": [
+    {
+      "name": "Alexandr Korolev",
+      "twitter": "aleks_a_korolev",
+      "koding": "alesan",
+      "location": "Astrakhan, RU",
+      "lead": true
+    },
+    {
+      "name": "Amir Tagirov",
+      "twitter": "amblpka",
+      "koding": "girmir",
+      "location": "Astrakhan, RU"
+    }
+  ]
+}

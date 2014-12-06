@@ -1,0 +1,35 @@
+{
+  "teamName": "CheapyWay",
+  "members": [
+    {
+      "name": "Alex Hampu",
+      "twitter": "alexhampu",
+      "koding": "justalex10",
+      "location": "Sibiu, RO"
+    },
+    {
+      "name": "Sabina Văcăroiu",
+      "twitter": "sabinavacaroiu",
+      "koding": "sabinavacaroiu",
+      "location": "Sibiu, RO"
+    },
+    {
+      "name": "Tudor Văcăroiu",
+      "twitter": "-",
+      "koding": "tudorvacaroiu",
+      "location": "Sibiu, RO"
+    },
+    {
+      "name": "Iulian Nistor",
+      "twitter": "-",
+      "koding": "iuliannistor",
+      "location": "Iași, RO"
+    },
+    {
+      "name": "Cosmin Cruceanu",
+      "twitter": "-",
+      "koding": "cosmincruceanu",
+      "location": "Sibiu, RO"
+    }
+  ]
+}

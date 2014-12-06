@@ -1,0 +1,18 @@
+{
+    "teamName": "Hekkie",
+    "members": [
+        {
+            "name": "Djuri Baars",
+            "twitter": "dsbaars",
+            "koding": "dsbaars",
+            "location": "Enschede, NL",
+            "lead": true
+        },
+        {
+            "name": "Leon de Vries",
+            "twitter": "Lrdevries",
+            "koding": "leonnet",
+            "location": "Enschede, NL"
+        }
+    ]
+}

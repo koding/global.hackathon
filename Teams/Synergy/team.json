@@ -1,0 +1,24 @@
+{
+  "teamName": "Synergy",
+  "members": [
+    {
+      "name": "Michael Leng",
+      "twitter": "Michael_Leng",
+      "koding": "xsynergi",
+      "location": "Shanghai, CN",
+      "lead": true
+    },
+    {
+      "name": "Max Campbell",
+      "twitter": "initd_daemon",
+      "koding": "initdaemon",
+      "location": "Manchester, UK"
+    },
+    {
+      "name": "Dennis Planting",
+      "twitter": "tryy3mc",
+      "koding": "tryy3",
+      "location": "Kumla, SE"
+    }
+  ]
+}

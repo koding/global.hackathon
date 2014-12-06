@@ -1,0 +1,24 @@
+{
+  "teamName": "Innovate",
+  "members": [
+    {
+      "name": "Chan Pak Loong",
+      "twitter": "",
+      "koding": "pakloong",
+      "location": "Kuala Lumpur, MY",
+      "lead": true
+    },
+    {
+      "name": "Chan Seng Loong",
+      "twitter": "",
+      "koding": "dragon82",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Manigandan Raju",
+      "twitter": "",
+      "koding": "lordbenevolence",
+      "location": "Kuala Lumpur, MY"
+    }
+  ]
+}

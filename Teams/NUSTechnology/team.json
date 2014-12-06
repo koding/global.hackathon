@@ -1,0 +1,27 @@
+{
+    "teamName": "NUS Technology",
+    "members": [{
+        "name": "Chien Tran-Xuan",
+        "twitter": "thelazylog",
+        "koding": "xuanchien",
+        "location": "Ho Chi Minh, VN",
+        "lead": true
+    },
+    {
+        "name": "Nam Tran-Van",
+        "koding": "nusnamtv",
+        "location": "Ho Chi Minh, VN"
+    },
+    {
+        "name": "Nhan Nguyen-Minh",
+        "twitter": "thelazylog",
+        "koding": "nhannm",
+        "location": "Ho Chi Minh, VN"
+    },
+    {
+        "name": "Duong Doan-Nguyen",
+        "koding": "duongdn",
+        "location": "Ho Chi Minh, VN"
+    }
+    ]
+}

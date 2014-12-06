@@ -1,0 +1,17 @@
+{
+  "teamName": "CE",
+  "members": [
+    {
+      "name": "Pierce Stegman",
+      "twitter": "pwstegman",
+      "koding": "pwstegman",
+      "location": "Falls Church, US"
+    },
+    {
+      "name": "Fox Wilson",
+      "twitter": "FoxWilson42",
+      "koding": "fwilson",
+      "location": "Nokesville, US"
+    }
+  ]
+}

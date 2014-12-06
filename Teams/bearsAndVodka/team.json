@@ -1,0 +1,16 @@
+{
+  "teamName": "bearsAndVodka",
+  "members": [
+    {
+      "name": "Fedor Belov",
+      "twitter": "belov_fa",
+      "koding": "fbelov",
+      "location": "Moscow, RU"
+    },
+    {
+      "name": "Andrey Bloschetsov",
+      "koding": "bura2",
+      "location": "Moscow, RU"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "teamName": "KawaiiDesuDevs",
+    "members": [
+      {
+        "name": "Igor Moura",
+        "twitter": "igu_mp",
+        "github":"igormp",
+        "koding": "igormp",
+        "location": "Aracaju, BR",
+        "lead": true
+      },
+      {
+        "name": "Nivaldo Melo",
+        "github":"masternivas",
+        "koding": "masternivas",
+        "location": "Aracaju, BR"
+      }
+    ]
+}

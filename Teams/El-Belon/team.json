@@ -1,0 +1,36 @@
+{  
+  "teamName":"El-Belon",
+  "members":[  
+    {  
+      "name":"Filipe Miguel dos Santos da Costa Cabaço",
+      "twitter":"filipecabaco",
+      "koding":"filipecabaco",
+      "location":"London,UK",
+      "lead":true
+    },
+    {  
+      "name":"Hugo David Martins Sousa",
+      "twitter":"hugosousapt",
+      "koding":"hugospt",
+      "location":"London,UK"
+    },
+    {  
+      "name":"Fábio Andrade Botelho",
+      "twitter":"fandbot",
+      "koding":"fabiim",
+      "location":"London,UK"
+    },
+    {  
+      "name":"Ivo Gonçalo da Cruz Pereira",
+      "twitter":"Pereira89G",
+      "koding":"ipereira89",
+      "location":"London,UK"
+    },
+    {  
+      "name":"Daniel Luis Landeiroto Parreira",
+      "twitter":"dany9995",
+      "koding":"metabrain",
+      "location":"London,UK"
+    }
+  ]
+}

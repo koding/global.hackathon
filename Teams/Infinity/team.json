@@ -1,0 +1,17 @@
+{
+  "teamName": "Infinity",
+  "members": [
+    {
+      "name": "Mehran Khodabandeh",
+      "koding": "mkhodabandeh",
+      "location": "Vancouver, CA"
+    },
+    {
+      "name": "Kamyar Allahverdi",
+      "twitter": "kamyarworks",
+      "koding": "kamyarinfinity",
+      "location": "Calgary, CA",
+      "lead": true
+    }
+  ]
+}

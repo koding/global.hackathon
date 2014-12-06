@@ -1,0 +1,12 @@
+{
+  "teamName": "Team Qixio",
+  "members": [
+    {
+      "name": "Won Dong",
+      "twitter": "fkiller",
+      "koding": "fkiller",
+      "location": "Boston, US",
+      "lead":  true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "teamName": "Geekventorz",
+  "members": [
+    {
+      "name": "Daniel Xutuc",
+      "twitter": "dahngeek",
+      "koding": "dahngeek",
+      "location": "Guatemala City, GT",
+      "lead": true
+    },
+    {
+      "name": "Edgar Sierra",
+      "twitter": "Colocho3244",
+      "koding": "colochob",
+      "location": "Guatemala City, GT"
+    }
+  ]
+}

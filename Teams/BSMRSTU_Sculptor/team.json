@@ -1,0 +1,28 @@
+{
+  "teamName": "BSMRSTU_Sculptor",
+  "members": [
+ 
+    {
+      "name": "Md. Fahim Sikder",
+      "twitter": "fahimsikder01",
+      "koding": "fahimsikder01",
+      "location": "Gopalganj, BD"
+    },
+    {
+      "name": "Uzzal Podder",
+      "koding": "uzzwalbd",
+      "location": "Gopalganj, BD",
+      "lead": true
+    },
+    {
+      "name": "Barun Mallick",
+      "koding": "barunbd",
+      "location": "Gopalganj, BD"
+    },
+    {
+      "name": "Md. Faizul Islam",
+      "koding": "faizulbd",
+      "location": "Gopalganj, BD"
+    }
+  ]
+}

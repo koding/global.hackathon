@@ -1,0 +1,36 @@
+{
+"teamName": "Silverdale Studios",
+"members": [
+{
+"name": "Adam Hawley",
+"twitter": "@TheGuyOn",
+"koding": "TheGuyOnHisPC",
+"location": "Sheffield, UK"
+"lead": true
+},
+{
+"name": "Alex Dhawan",
+"twitter": " ",
+"koding": "Skifans",
+"location": "Sheffield, UK"
+},
+{
+"name": "Callum Deery",
+"twitter": "",
+"koding": "",
+"location": "Sheffield, UK",
+},
+{
+"name": "Adam Plaskitt",
+"twitter": "",
+"koding": "",
+"location": "Sheffield, UK"
+},
+{
+"name": "Jake Ashton",
+"twitter": "",
+"koding": "",
+"location": "Sheffield, UK"
+}
+]
+}

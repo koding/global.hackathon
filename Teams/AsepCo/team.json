@@ -1,0 +1,16 @@
+{
+  "teamName": "AsepCo",
+  "members": [{
+    "name": "Asep Bagja Priandana",
+    "twitter": "bepitulaz",
+    "koding": "bepitulaz",
+    "location": "Jakarta, ID",
+    "lead": true
+  },
+  {
+    "name": "Retno Ika Safitri",
+    "twitter": "alcatrazia",
+    "koding": "alcatrazia",
+    "location": "Jakarta, ID"
+  }]
+}

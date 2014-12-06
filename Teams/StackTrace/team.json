@@ -1,0 +1,23 @@
+
+{
+  "teamName":"StackTrace",
+  "members":[
+    {
+      "name": "Rohit Jain",
+      "koding": "ro-29",
+      "location": "Delhi,IN",
+      "lead":true
+    },
+    {
+      "name":"Priyank Jain",
+      "koding":"priyank",
+      "location": "Delhi,IN"
+    },
+    {
+      "name":"Rishabh varshney",
+      "koding": "rishabh",
+      "location": "Delhi,IN"
+
+    }
+  ]
+}

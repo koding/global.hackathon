@@ -1,0 +1,24 @@
+{
+  "teamName": "IntelligenceSpreaders",
+  "members": [
+    {
+      "name": "Anik Goel",
+      "twitter": "anikgoel",
+      "koding": "anikgoel",
+      "location": "Chandigarh, IN",
+      "lead": true
+    },
+    {
+      "name": "Karan Singh Sisodia",
+      "twitter": "sisodiakaran",
+      "koding": "sisodiakaran",
+      "location": "Mohali, IN"
+    },
+    {
+      "name": "Atul Tagra",
+      "twitter": "atul_tagra",
+      "koding": "atultagra",
+      "location": "Mohali, IN"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "teamName": "G10aT",
+  "members": [
+    {
+    "name": "Vasuman R",
+    "twitter": "vasuman",
+    "koding": "vasuman",
+    "location": "Bangalore, IN",
+    "lead": true
+    },
+    {
+    "name": "Nirvik Ghosh",
+    "twitter": "",
+    "koding": "nirvik1993",
+    "location": "Mumbai, IN"
+    }
+  ]
+}

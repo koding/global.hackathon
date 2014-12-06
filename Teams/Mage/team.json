@@ -1,0 +1,31 @@
+{
+  "teamName": "Mage",
+  "members": [
+    {
+	"name": "Prakash Thapa",
+	"koding": "pthapa",
+	"location": "Konstanz, DE",
+	"lead": true
+	
+    },
+    {
+	"name": "Michael",
+	"koding":"chhangapt",
+	"location": "Konstanz, DE"
+	
+    },
+     {
+	"name": "Prabin Thapa",
+	"koding": "intldevelopers",
+	"location": "Kathmandu, NP"
+	
+    },
+     {
+	"name": "Rajan",
+	"koding": "mage2",
+	"location": "Kathmandu, NP"
+	
+    }
+    
+  ]
+}

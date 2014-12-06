@@ -1,0 +1,27 @@
+{
+  "teamName":"TeamOSC",
+  "members":[
+    {
+      "name": "Saurav Tomar",
+      "koding": "sauravtom",
+      "location": "New Delhi, IN",
+      "lead":true
+    },
+    {
+      "name":"Arnav Gupta",
+      "koding":"championswimmer",
+      "location": "New Delhi, IN"
+    },
+    {
+      "name":"Umair Khan",
+      "koding": "omerjerk",
+      "location": "New Delhi, IN"
+
+    },
+    {
+      "name":"Robin Malhotra",
+      "koding":"codeofrobin",
+      "location":"New Delhi, IN"
+    }
+  ]
+}

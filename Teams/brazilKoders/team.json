@@ -1,0 +1,24 @@
+{
+  "teamName": "Brazil Koders",
+  "members": [
+    {
+      "name": "André Lucas",
+      "twitter": "andrelug_",
+      "koding": "andrelug",
+      "location": "Belo Horizonte, BR",
+      "lead": true
+    },
+    {
+      "name": "Gabriel Hamdan",
+      "twitter": "dghamdan",
+      "koding": "hamdan85",
+      "location": "Belo Horizonte, BR"
+    },
+    {
+      "name": "Paullo Norato",
+      "twitter": "-",
+      "koding": "paullonorato",
+      "location": "Santos, BR"
+    }
+  ]
+}

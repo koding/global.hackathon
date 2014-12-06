@@ -1,0 +1,18 @@
+{
+  "teamName": "StealthMode",
+  "members": [
+    {
+      "name": "Vaibhav Mule",
+      "twitter": "vaibhavmule",
+      "koding": "vaibhavmule",
+      "location": "Bangalore, IN",
+      "lead": true
+    },
+     {
+      "name": "Ramesh Ravi",
+      "twitter": "ramesh7128",
+      "koding": "ramesh7128",
+      "location": "Bangalore, IN"
+    }
+  ]
+}

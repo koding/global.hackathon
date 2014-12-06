@@ -1,0 +1,10 @@
+{
+    "teamName": "Neo",
+    "members": [{
+        "name": "Luis Arriojas",
+        "twitter": "luisarriojas",
+        "koding": "luisarriojas",
+        "location": "Valencia, VE",
+        "lead": true
+    }]
+}

@@ -1,0 +1,24 @@
+{
+    "teamName": "NoobThunder",
+    "members": [
+        {
+            "name": "Kishore K J",
+            "twitter": "JKishore141",
+            "koding": "kishore141",
+            "location": "Chennai, IN",
+            "lead": true
+        },
+        {
+            "name": "Dinesh Kumar",
+            "twitter": "dineshz",
+            "koding": "tragicode",
+            "location": "Chennai, IN"
+        },
+        {
+            "name": "Bhavani Ravi",
+            "twitter": "",
+            "koding": "Bhava",
+            "location": "Chennai, IN"
+        }
+    ]
+}

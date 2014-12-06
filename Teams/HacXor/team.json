@@ -1,0 +1,30 @@
+{
+  "teamName": "HacXor",
+  "members": [
+    {
+      "name": "Minhaz",
+      "twitter": "minhazav",
+      "koding": "mebjas",
+      "location": "New Delhi, IN",
+      "lead": true
+    },
+    {
+      "name": "Abhinav Dahiya",
+      "twitter": "abhinavdtu2012",
+      "koding": "bane94",
+      "location": "New Delhi,IN"
+    },
+    {
+      "name": "Dhruv Agarwal",
+      "twitter": "DhruvAgarwalDtu",
+      "koding": "dhruvagga",
+      "location": "New Delhi, IN"
+    },
+    {
+      "name": "Archit Verma",
+      "twitter": "architv07",
+      "koding": "architv",
+      "location": "New Delhi, IN"
+    }
+  ]
+}

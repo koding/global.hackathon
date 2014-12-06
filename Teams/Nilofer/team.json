@@ -1,0 +1,35 @@
+{
+  "teamName": "Nilofer",
+  "members": [
+    {
+      "name": "Ajeeth Kumar",
+      "twitter": "OUT_OF_MEM",
+      "koding": "ajeet2511",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Amar Prabhu",
+      "twitter": "oligomath",
+      "koding": "amarprabhu",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Dharmesh BA",
+      "twitter": "dharmeshba",
+      "koding": "dharmeshba",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Pratik Mandrekar",
+      "twitter": "pmandrek",
+      "koding": "pmandrek",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Ritesh Ranjan",
+      "twitter": "riteshr24",
+      "koding": "riteshr.designs",
+      "location": "Bangalore, IN"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "teamName": "TeamBee",
+  "members": 
+  [
+    {
+      "name": "Radu Buculei",
+      "twitter": "",
+      "koding": "radu1709",
+      "location": "Timisoara, RO"
+    },
+    {
+      "name": "Lucian Cerbu",
+      "twitter": "luciancerbu87",
+      "koding": "luciancerbu87",
+      "location": "Timisoara, RO",
+      "lead":true
+    }
+  ]
+}

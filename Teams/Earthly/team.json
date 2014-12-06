@@ -1,0 +1,12 @@
+{
+    "teamName": "Earthly",
+    "members": [
+	{
+	    "name": "George Mickleburgh",
+	    "koding": "gmickleburgh",
+	    "github": "georgemickleburgh",
+	    "location": "Cambridge, UK",
+	    "lead": true
+	}
+    ]
+}

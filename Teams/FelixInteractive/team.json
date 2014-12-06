@@ -1,0 +1,36 @@
+{
+  "teamName": "FelixInteractive",
+  "members": [
+    {
+      "name": "Faris Issa",
+      "twitter": "",
+      "koding": "farisissa8",
+      "location": "Amman, JO"
+    },
+    {
+      "name": "Nareg Aslanian",
+      "twitter": "",
+      "koding": "nareg26",
+      "location": "Amman, JO"
+    },
+    {
+      "name": "Waleed Ammari",
+      "twitter": "ammariwaleed",
+      "koding": "willjo",
+      "location": "Amman, JO"
+    },
+    {
+      "name": "Meran Nasser",
+      "twitter": "",
+      "koding": "merannasser",
+      "location": "Amman, JO"
+    },
+    {
+      "name": "Gavin Ching",
+      "twitter": "gching",
+      "koding": "gching",
+      "location": "Amman, JO"
+    }
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "teamName": "TeamAllport",
+  "members": [
+    {
+      "name": "Pete Allport",
+      "twitter": "peteallport",
+      "koding": "peteallport",
+      "location": "Winter Park, US",
+      "lead": true
+    },
+    {
+      "name": "Andy Wood",
+      "twitter": "a_peeled_pear",
+      "koding": "andywood",
+      "location": "South Point, US"
+    },
+    {
+      "name": "Peter Speak",
+      "twitter": "peterspeak",
+      "koding": "peterspeak",
+      "location": "Suffolk, US"
+    }
+  ]
+}

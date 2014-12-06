@@ -1,0 +1,30 @@
+
+{
+  "teamName": "StartupIstanbul",
+  "members": [
+    {
+      "name": "Özgün Genç",
+      "twitter": "ozgungenc",
+      "koding": "ozgun",
+      "location": "Istanbul, TR"
+    },
+    {
+      "name": "Catay Yaman",
+      "twitter": "breadam",
+      "koding": "breadam",
+      "location": "Istanbul, TR"
+    },
+        {
+      "name": "Emre Babür",
+      "twitter": "emrebabur",
+      "koding": "babur",
+      "location": "Istanbul, TR"
+    },
+    {
+      "name": "Fatih Mehmet Güler",
+      "twitter": "fmguler",
+      "koding": "fmguler",
+      "location": "Istanbul, TR"
+    }
+  ]
+}

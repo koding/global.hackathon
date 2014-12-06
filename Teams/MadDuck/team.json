@@ -1,0 +1,18 @@
+{
+  "teamName": "MadDuck",
+  "members": [
+    {
+      "name": "Rafael Matsuyama",
+      "twitter": "rafaelmatsuyama",
+      "koding": "rafaelmatsuyama",
+      "location": "São Paulo, BR",
+      "lead": true
+    },
+    {
+      "name": "Luckas Farias",
+      "twitter": "judocka",
+      "koding": "luckas",
+      "location": "São Paulo, BR"
+    }
+  ]
+}

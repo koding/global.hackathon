@@ -1,0 +1,17 @@
+{
+  "teamName": "Team Habesha",
+  "members": [
+    {
+      "name": "Biniam Asnake",
+      "twitter": "biniamasnake",
+      "koding": "biny08",
+      "location": "Addis Ababa, ET"
+    },
+    {
+      "name": "Alexander Suraphel",
+      "twitter": "alexsuraphel",
+      "koding": "asuraphel",
+      "location": "Addis Ababa, ET"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+
+{
+    "teamName": "ChennaiNerd",
+
+    "members":[
+	{
+	    "name":"Fizer Khan",
+	    "twitter":"fizerkhan",
+	    "koding":"fizerkhan",
+	    "location":"Chennai, India",
+	    "lead":true
+	},
+
+	{
+	    "name":"Yogeswaran",
+	    "twitter":"yogeswarant",
+	    "koding":"yogeswarant",
+	    "location":"Chennai, India"
+	},
+
+	{
+	    "name":"Dheeraj Joshi",
+	    "twitter":"dheerajhere",
+	    "koding":"djadmin",
+	    "location":"Chennai, India"
+	}
+    ]
+}

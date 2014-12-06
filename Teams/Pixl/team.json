@@ -1,0 +1,21 @@
+{
+  "teamName": "Pixl",
+  "members": [
+    {
+      "name": "Anurag Lingam",
+      "koding": "anurag94",
+      "location": "Bangalore, IN",
+      "lead" : true
+    },
+    {
+      "name": "Anirudh Das",
+      "koding": "anirudhdas",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Zaid Assadi",
+      "koding": "zaidassadi",
+      "location": "Bangalore, IN"
+    }
+  ]
+}

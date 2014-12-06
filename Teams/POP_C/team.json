@@ -1,0 +1,34 @@
+{
+    "teamName": "popzi",
+    "members": [
+        {
+            "name": "Udara Piumal",
+            "twitter": "udarapiumal",
+            "koding": "udara",
+            "location": "Colombo, SL",
+            "lead": true
+        },
+        {
+            "name": "Dulitha Kularathne",
+            "twitter": "dulitha91",
+            "koding": "sarangaranaweera",
+            "location": "Colombo, SL"
+        },
+        {
+            "name": "Madushan Nishantha",
+            "twitter": "madushan1000",
+            "koding": "madushan1000",
+            "location": "Colombo, SL"
+        },
+        {
+            "name": "Mahesh Dananjaya",
+            "koding": "dananjayamahesh",
+            "location": "Colombo, SL"
+        },
+        {
+            "name": "Dushan Aluth Patabendige",
+            "koding": "apdushan",
+            "location": "Colombo, SL"
+        }
+    ]
+}

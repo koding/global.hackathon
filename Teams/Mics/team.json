@@ -1,0 +1,18 @@
+{
+  "teamName": "Mics",
+  "members": [
+    {
+      "name": "Ilja SAtchok",
+      "twitter": "",
+      "koding": "ifours",
+      "location": "Minsk, BY",
+      "lead": true
+    },
+    {
+      "name": "Mikhail Chernysh",
+      "twitter": "",
+      "koding": "chernyshm",
+      "location": "Minsk, BY"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "teamName": "Team 4 Continents",
+  "members": [
+    {
+      "name": "Nicolas Satragno",
+      "twitter": "nsatragno",
+      "koding": "nicolassatragno",
+      "location": "Buenos Aires, AR",
+      "lead": true
+    },
+    {
+      "name": "Mark Klien",
+      "koding": "areke",
+      "location": "Honolulu, US"
+    },
+    {
+      "name": "Przemek Buczkowski",
+      "twitter": "przemub",
+      "koding": "przemub",
+      "location": "Nowy Sacz, PL"
+    },
+    {
+      "name": "Aneesh Dogra",
+      "twitter": "AneeshDogra",
+      "koding": "Lionaneesh",
+      "location": "New Delhi, IN"
+    }
+  ]
+}

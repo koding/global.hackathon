@@ -1,0 +1,11 @@
+{
+  "teamName": "LambdaXpression",
+  "members": [
+    {
+    	"name": "Khoa Le",
+    	"koding": "khoatatle",
+    	"location": "Seattle, US",
+    	"lead": true
+    }
+  ]
+}

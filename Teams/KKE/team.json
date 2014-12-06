@@ -1,0 +1,18 @@
+{
+  "teamName": "KKE",
+  "members": [
+    {
+      "name": "Hyunje Alex Jun",
+      "twitter": "noraesae",
+      "koding": "songbird",
+      "location": "Oxford, UK",
+      "lead": true
+    },
+    {
+      "name": "Yong-uk Jeong",
+      "twitter": "alldne",
+      "koding": "alldne",
+      "location": "Incheon, KR"
+    }
+  ]
+}

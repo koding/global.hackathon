@@ -1,0 +1,24 @@
+{
+  "teamName": "igHumble",
+  "members": [
+    {
+      "name": "Owen Craig",
+      "twitter": "owencraig",
+      "koding": "owencraig",
+      "location": "Chicago, US",
+      "lead": true
+    },
+    {
+      "name": "Tony Truong",
+      "twitter": "tonykqt",
+      "koding": "tonykqt",
+      "location": "Sydney, AU"
+    },
+    {
+      "name": "Nick Macdonald",
+      "twitter": "the_lyrish",
+      "koding": "nickmacd",
+      "location": "Sydney, AU"
+    }
+  ]
+}

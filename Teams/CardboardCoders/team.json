@@ -1,0 +1,24 @@
+{
+  "teamName": "Cardboard Coders",
+  "members": [
+    {
+      "name": "Andrei Neamtu",
+      "twitter": "neamtua",
+      "koding": "neamtua",
+      "location": "Bucharest, RO",
+      "lead": true
+    },
+    {
+      "name": "Khez",
+      "twitter": "thekhez",
+      "koding": "khez",
+      "location": "Bucharest, RO"
+    },
+    {
+      "name": "Vlad Rusanescu",
+      "twitter": "VladRusanescu",
+      "koding": "dazganer",
+      "location": "Bucharest, RO"
+    }
+  ]
+}

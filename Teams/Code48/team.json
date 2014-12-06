@@ -1,0 +1,18 @@
+{
+	"teamName": "Code 48",
+	"members": [
+		{
+			"name": "B Donald",
+			"twitter": "apostleBDHarris",
+			"koding": "bdonaldharris",
+			"location": "Cordova, US",
+			"lead": true
+		},
+		{
+			"name": "Mike F",
+			"twitter": "",
+			"koding": "cyp901",
+			"location": "Lakeland, US"
+		}
+	]
+}

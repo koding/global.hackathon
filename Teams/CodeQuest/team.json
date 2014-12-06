@@ -1,0 +1,30 @@
+{
+  "teamName": "Code Quest",
+  "members": [
+    {
+      "name": "John Kenneth N. Lorca",
+      "twitter": "@jklorca11",
+      "koding": "jklorca11",
+      "location": "Pasig City, PH",
+      "lead": true
+    },
+    {
+      "name": "Mylene N. Bayan",
+      "twitter": "@mnbayan",
+      "koding": "mylenebayan",
+      "location": "Marikina City, PH"
+    },
+    {
+      "name": "Al Bautista",
+      "twitter": "@AV_Bautista",
+      "koding": "alpobre18",
+      "location": "Caloocan City, PH"
+    },
+    {
+      "name": "Redel Estopa",
+      "twitter": "@DelEstopa",
+      "koding": "askjigen",
+      "location": "Pasig City, PH"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "teamName": "revolTOS",
+  "members": [
+    {
+      "name": "Federico Cismondi",
+      "twitter": "@fcismondi",
+      "koding": "fcismondi",
+      "location": "Boston, US"
+    },
+    {
+      "name": "Paulo Melo",
+      "twitter": "",
+      "koding": "pmelo",
+      "location": "Lisbon, PT"
+    },
+    {
+      "name": "Carlos Samuel Boto",
+      "twitter": "",
+      "koding": "csmboto",
+      "location": "Coimbra, PT",
+      "lead": true
+    },
+    {
+      "name": "Eduardo Nunes",
+      "twitter": "",
+      "koding": "enunes",
+      "location": "Lisbon, PT"
+    },
+    {
+      "name": "Rita Oliveira",
+      "twitter": "",
+      "koding": "roliveira",
+      "location": "Lisbon, PT"
+    }
+  ]
+}

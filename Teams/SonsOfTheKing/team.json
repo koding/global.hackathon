@@ -1,0 +1,17 @@
+{
+  "teamName": "Sons Of The King",
+  "members": [
+    {
+      "name": "Micaiah Wallace",
+      "twitter": "micaiahwallace",
+      "koding": "snoapps",
+      "location": "Denver, US",
+      "lead": true
+    },
+    {
+      "name": "Joshua Krueger",
+      "koding": "infinight",
+      "location": "Denver, US"
+    }
+  ]
+}

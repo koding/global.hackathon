@@ -1,0 +1,36 @@
+{
+  "teamName": "eSpacians",
+  "members": [
+    {
+      "name": "Mahmoud Said",
+      "twitter": "modsaid",
+      "koding": "modsaid",
+      "location": "Alexandria, EG"
+    },
+    {
+      "name": "Mohammed Header",
+      "twitter": "mohheader",
+      "koding": "mohheader",
+      "location": "Alexandria, EG"
+    },
+    {
+      "name": "Yasmine Gaber",
+      "twitter": "yasmine_mohamed",
+      "koding": "yasminegaber",
+      "location": "Alexandria, EG",
+      "lead": true
+    },
+    {
+      "name": "Mohammed Aboelnour",
+      "twitter": "maboelnour",
+      "koding": "maboelnour",
+      "location": "Alexandria, EG"
+    },
+    {
+      "name": "Ahmed Shehata",
+      "twitter": "ashe7ta",
+      "koding": "she7ta",
+      "location": "Alexandria, EG"
+   }
+  ]
+}

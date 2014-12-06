@@ -1,0 +1,24 @@
+{
+  "teamName": "Shamas",
+  "members": [
+    {
+      "name": "Andrés Torres",
+      "twitter": "elfotografo007",
+      "koding": "elfotografo007",
+      "location": "Pereira, CO",
+      "lead": true
+    },
+    {
+      "name": "Harold Sánchez",
+      "twitter": "sancospi",
+      "koding": "sancospi",
+      "location": "Pereira, CO"
+    },
+    {
+      "name": "Mariano Aguirre",
+      "twitter": "nano_mag",
+      "koding": "nanomag",
+      "location": "Medellin, CO"
+    }
+  ]
+}

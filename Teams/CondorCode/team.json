@@ -1,0 +1,24 @@
+{
+  "teamName": "CondorCode",
+  "members": [
+    {
+      "name": "Eduardo Messuti",
+      "twitter": "messutiEdd",
+      "koding": "messutiedd",
+      "location": "Santa Cruz de la Sierra, BO",
+      "lead": true
+    },
+    {
+      "name": "Andrei Regiani",
+      "twitter": "andreiregiani",
+      "koding": "andreiregiani",
+      "location": "Minsk, BY"
+    },
+    {
+      "name": "Arturo Zambrana",
+      "twitter": "ArturoZambrana",
+      "koding": "arturozambrana",
+      "location": "Santa Cruz de la Sierra, BO"
+    }
+  ]
+}

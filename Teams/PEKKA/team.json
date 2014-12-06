@@ -1,0 +1,18 @@
+{
+  "teamName": "PEKKA",
+  "members": [
+    {
+      "name": "Tariq Ahmed Khan",
+      "twitter": "partho222",
+      "koding": "partho222",
+      "location": "Dhaka, BD",
+      "lead": true
+    },
+    {
+      "name": "Md Showkat Hossain Chy",
+      "twitter": "neerleepto",
+      "koding": "showkat2203",
+      "location": "Dhaka, BD"
+    }
+  ]
+}

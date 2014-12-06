@@ -1,0 +1,36 @@
+{
+  "teamName": "GudegUnited",
+  "members": [
+    {
+      "name": "Arman Adhitama",
+      "twitter": "blackbiron",
+      "koding": "blackbiron",
+      "location": "Tangerang, ID",
+      "lead": true
+    },
+    {
+      "name": "Isman Firmansyah",
+      "twitter": "iromli",
+      "koding": "iromli",
+      "location": "Majalengka, ID"
+    },
+    {
+      "name": "Rifqi Fachriza",
+      "twitter": "fachriza",
+      "koding": "fachriza",
+      "location": "Jakarta, ID"
+    },
+    {
+      "name": "Riza Arsyi",
+      "twitter": "_rizarc",
+      "koding": "rizarc",
+      "location": "Tangerang, ID"
+    },
+    {
+      "name": "Rolies Debi",
+      "twitter": "rolies106",
+      "koding": "rolies106",
+      "location": "Jakarta, ID"
+    }
+  ]
+}

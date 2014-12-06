@@ -1,0 +1,12 @@
+{
+  "teamName" : "Gerasim",
+  "members"  : [
+    {
+      "name"     : "Gerasimenko Aleksandr",
+      "twitter"  : "GerasimenkoAlex",
+      "koding"   : "gerasim",
+      "location" : "Kharkiv, UA",
+      "lead"     : true
+    }
+  ]
+}

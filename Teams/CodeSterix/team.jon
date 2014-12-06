@@ -1,0 +1,23 @@
+{
+  "teamName": "CodeSterix",
+    "members": [
+    {
+      "name": "swarup Sengupta",
+      "koding": "swarupsengupta",
+      "location": "Amsterdam, NL"
+    },
+    {
+      "name": "Abhinav Gupta",
+      "koding": "iabhinav",
+      "twitter": "@iabhinavgupta",
+      "location": "Amsterdam, NL"
+    },
+    {
+      "name": "Kabir Sohel",
+      "twitter": "@kabirsohel",
+      "koding": "kabirsohel",
+      "location": "Amsterdam, NL",
+      "lead": true
+    }
+  ]
+}

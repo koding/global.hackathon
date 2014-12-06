@@ -1,0 +1,23 @@
+{
+  "teamName": "G Force",
+  "members": [
+    {
+      "name": "Marcelo Rodríguez Claros",
+      "twitter": "marcelorodcla",
+      "koding": "marcelorodcla",
+      "location": "Cochabamba, Bo"
+    },
+    {
+      "name": "Juan José Olivera Rodríguez",
+      "twitter": "jotajotaolivera",
+      "koding": "jotajota",
+      "lead": true
+    },
+    {
+      "name": "Tatiana Andrea Moruno Rodriguez",
+      "twitter": "andreamoruno",
+      "koding": "tatianamoruno",
+      "location": "Cochabamba, BO"
+    }
+  ]
+}

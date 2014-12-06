@@ -1,0 +1,18 @@
+{
+  "teamName": "MasterMinds",
+  "members": [
+    {
+      "name": "Eric Kim",
+      "twitter": "bosung90",
+      "koding": "bosung90",
+      "location": "Vancouver, CA",
+      "lead": true
+    },
+    {
+      "name": "Gerry Cao",
+      "twitter": "",
+      "koding": "gerrycao",
+      "location": "Calgary, CA"
+    }
+  ]
+}

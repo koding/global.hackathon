@@ -1,0 +1,19 @@
+{
+    "teamName": "RostovTeam",
+    "members": [{
+        "name": "Vladimir Daron",
+        "twitter": "DaronVladimir",
+        "koding": "vdaron",
+        "location": "Rostov-on-Don, RU",
+        "lead": true
+    }, {
+        "name": "Komov Roman",
+        "koding": "komovr",
+        "location": "Rostov-on-Don, RU"
+    }, {
+        "name": "Sergey Kuvakin",
+        "koding": "lafin",
+        "location": "Rostov-on-Don, RU"
+        
+    }]
+}

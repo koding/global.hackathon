@@ -1,0 +1,23 @@
+{
+  "teamName": "Atique-IT",
+  "members": [
+    {
+      "name": "Atique Ullah",
+      "twitter": "limpuaust",
+      "koding": "limpu",
+      "location": "Dhaka, BD",
+      "lead":true
+    },
+    {
+      "name": "Tanvir Ahmad",
+      "twitter": "tanvirengg",
+      "koding": "limpu",
+      "location": "Dhaka, BD"
+    },
+    {
+      "name": "Masud",
+      "koding": "limpu",
+      "location": "Dhaka, BD"
+    }
+  ]
+}

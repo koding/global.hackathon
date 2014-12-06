@@ -1,0 +1,23 @@
+{
+  "teamName": "The Abstracted Spiders",
+  "members": [
+    {
+      "name": "Dipen Patel",
+      "twitter": "@27dipen",
+      "koding": "dipen27",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Parth Mehta",
+      "twitter": "@parthrmehta",
+      "koding": "parth1234",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Anuj Mehta",
+      "twitter": "@anuj.nm",
+      "koding": "anujnm",
+      "location": "Mumbai, IN"
+    }
+   ]
+  }

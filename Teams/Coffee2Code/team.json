@@ -1,0 +1,28 @@
+{
+    "teamName": "Coffee2Code",
+    "members": [
+        {
+            "name": "Danilo Gasques",
+            "twitter": "danilogasques",
+            "koding": "d4n1l0d",
+            "location": "Campinas, BR",
+            "lead": true
+        },
+        {
+            "name": "Bruno Calza",
+            "koding": "brunoac",
+            "location": "Sao Carlos, BR"
+        },
+        {
+            "name": "Guilherme Gonçalves",
+            "twitter": "guilhermea",
+            "koding": "guilhermeasg",
+            "location": "Sao Carlos, BR"
+        },
+        {
+            "name": "Vitor Morelatti",
+            "koding": "morelatti",
+            "location": "Campinas, BR"
+        }
+    ]
+}

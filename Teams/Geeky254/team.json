@@ -1,0 +1,24 @@
+{
+  "teamName": "Geeky254",
+  "members": [
+  {
+    "name": "Geeky254ky",
+    "twitter": "#jokomoli",
+    "koding": "jokomoli",
+    "location": "Nairobi, KE"
+    },
+    {
+    "name": "Joel Okomoli",
+    "twitter": "jokomoli",
+    "koding": "jokomoli",
+    "location": "Nairobi, KE",
+    "lead": true
+    },
+    {
+    "name": "Felista Moraa",
+    "twitter": "moraafely",
+    "koding": "geekygurl254",
+    "location": "Nairobi, KE"
+    }
+  ]
+}

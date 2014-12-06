@@ -1,0 +1,30 @@
+{
+  "teamName": "Cian",
+  "members": [
+    {
+      "name": "Dennis Xiloj",
+      "twitter": "denjohx",
+      "koding": "denjohx",
+      "location": "Quetzaltenango, GT",
+      "lead": true
+    },
+    {
+      "name": "Mario Cheves",
+      "twitter": "cheves05",
+      "koding": "mch505",
+      "location": "Quetzaltenango, GT"
+    },
+    {
+      "name": "Cindy Hernandez",
+      "twitter": "CindyJho",
+      "koding": "jho8",
+      "location": "Quetzaltenango, GT"
+    },
+    {
+      "name": "David Orozco",
+      "twitter": "davgon35",
+      "koding": "davgon35",
+      "location": "Quetzaltenango, GT"
+    }
+  ]
+}

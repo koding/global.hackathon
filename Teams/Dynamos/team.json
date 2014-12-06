@@ -1,0 +1,18 @@
+{
+  "teamName": "Team Dynamos",
+  "members": [
+    {
+      "name": "Sharvil Katariya",
+      "koding": "dynamos",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Saurabh Jain",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Kushal Singh",
+      "location": "Hyderabad, IN"
+    }
+  ]
+}

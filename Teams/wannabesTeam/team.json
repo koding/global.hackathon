@@ -1,0 +1,30 @@
+{
+  "teamName": "wannabesTeam",
+  "members": [
+    {
+      "name": "Dusko Vorkapic",
+      "twitter": "Duskox",
+      "koding": "dusko",
+      "location": "Zagreb, HR",
+      "lead": true
+    },
+    {
+      "name": "Zdenko Gradecak",
+      "twitter": "disablable",
+      "koding": "disablable",
+      "location": "Split, HR"
+    },
+    {
+      "name": "Hrvoje Manz",
+      "twitter": "@hrvxxx",
+      "koding": "hrvx",
+      "location": "Zagreb, HR"
+    },
+    {
+      "name": "Davor Perhaj",
+      "twitter": "dperhaj",
+      "koding": "dperhaj",
+      "location": "Zagreb, HR"
+    }
+  ]
+}

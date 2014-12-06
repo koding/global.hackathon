@@ -1,0 +1,17 @@
+{
+  "teamName": "Team Logicode.ca",
+  "members": [
+    {
+      "name": "Tito Lim",
+      "twitter": "titolim",
+      "koding": "titolim",
+      "location": "Montreal, CA"
+    },
+    {
+      "name": "Nou",
+      "twitter": "nou",
+      "koding": "nou",
+      "location": "Montreal, CA"
+    }
+  ]
+}

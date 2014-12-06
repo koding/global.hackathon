@@ -1,0 +1,18 @@
+{
+  "teamName": "Geek-Systems",
+  "members": [
+    {
+      "name": "Harsh Vardhan",
+      "twitter": "royalharsh95",
+      "koding": "royalharsh",
+      "location": "Jamshedpur, IN"
+    },
+    {
+      "name": "Jorge Alberto Gomez Lopez",
+      "twitter": "JorgeGomez44",
+      "koding": "ghostalgorithm",
+      "location": "Santa Tecla, SV",
+      "lead": true
+    }
+  ]
+}

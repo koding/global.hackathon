@@ -1,0 +1,12 @@
+{
+  "teamName": "Rocky",
+  "members": [
+    {
+      "name": "Rakesh Kumar",
+      "twitter": "@rkshkmr800",
+      "koding": "rkshkmr800",
+      "location": "Hyderabad, IN",
+      "lead": true
+    }
+  ]
+}
