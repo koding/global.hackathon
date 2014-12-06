@@ -1,0 +1,16 @@
+{
+  "teamName": "Codethletes",
+  "members": [
+    {
+      "name": "Harsh Dand",
+      "koding": "harshpdand",
+      "location": "Hyderabad, IN",
+      "lead": true
+    },
+     {
+      "name": "Vaishali Dand",
+      "koding": "vaishalidand",
+      "location": "Hyderabad, IN"
+    }
+  ]
+}
