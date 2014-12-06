@@ -1,5 +1,5 @@
 {
-  "teamName": "Team Koders",
+  "teamName": "jakobhans + morgan",
   "members": [
     {
       "name": "Jakob Renpening",
@@ -7,6 +7,12 @@
       "koding": "jakobhans",
       "location": "Guadalajara, MX",
       "lead": true
+    },
+    {
+      "name": "Andrea Sanchez",
+      "twitter": "faith_k_a",
+      "koding": "wmorgan",
+      "location": "Guadalajara, MX",
     }
   ]
 }
