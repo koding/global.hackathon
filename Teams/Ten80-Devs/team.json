@@ -10,19 +10,15 @@
       "lead": true
     },
     {
-      "name": "Brandon Brown",
-      "koding": "brandonb333",
+      "name": "Kyle Shirley",
+      "koding": "zaferon04",
       "location": "St. Louis, US"
     },
     {
       "name": "Andrew Pizzulo",
+      "twitter": "GET_pizzulLO”,
       "koding": "pizzyp",
-      "location": "St. Louis, US"
-    },
-    {
-      "name": "Cody Mcilvaine",
-      "koding": "codeman180",
-      "location": "St. Louis, US"
+      "location": "Columbia, US"
     }
   ]
 }
