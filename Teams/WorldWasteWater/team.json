@@ -1,0 +1,18 @@
+{
+  "teamName": "Team WWW",
+  "members": [
+    {
+      "name": "Joinner Ovalle",
+      "twitter": "negly14",
+      "koding": "negly14",
+      "location": "Medellín, CO",
+      "lead": true
+    },
+    {
+      "name": "Matheus Lucca do Carmo",
+      "twitter": "",
+      "koding": "matheuslc",
+      "location": "Sao Paulo, BR"
+    },
+  ]
+}
