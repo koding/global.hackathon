@@ -9,6 +9,7 @@ Hello, we are a team mostly from Japan (Tokyo). However, our team is actually ve
 <p align="center">
   <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
 </p>
+<p align="center"></p>
 
 Although there is an explosion in the popularity of computer science in the United States and other countries, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan, and being and engineer is not a popular job in Japan. We want to change this mindset and situation. Technology and engineering is making the world a better place, and Japanese engineers should contribute to that. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
 
@@ -31,7 +32,7 @@ About Our Team
 
 Jumpei
 =======
-Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery株式会社, and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
+Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery Inc., and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the UI/UX designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
 
 Takuya
 =======
