@@ -1,0 +1,17 @@
+{
+  "teamName": "Team ModdernTechies",
+  "members": [
+    {
+      "name": "Alec Jones",
+      "twitter": "@koolkoder",
+      "koding": "modderntech",
+      "location": "Canada"
+    },
+    {
+      "name": "Alessandro Marsiglia",
+      "twitter": "",
+      "koding": "Allymar22",
+      "location": "Canada"
+    },
+  ]
+}
