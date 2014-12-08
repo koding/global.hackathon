@@ -1,1 +1,1 @@
-I don't like that Hackaton tries to force me to share my personal data. Fuck you.
+I have no time for ABOUT.md because I'm doing ****** !!SCIENCE!! ****** - my project's page contains something like about, though, with more data
