@@ -1,0 +1,210 @@
+
+body {
+    text-align: center;
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 13px;
+}
+
+#main {
+    display: table;
+    height: 100%;
+    width: 100%;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+#content {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+}
+
+#about {
+    padding-bottom: 20px;
+    font-weight: normal;
+}
+
+#example-type {
+    color: gray;
+    font-size: 14px;
+}
+
+#speech-content-elements {
+    position: relative;
+    margin: auto;
+    width: 60%;
+    height: 60%;
+    max-height: 100px;
+    max-width: 500px;
+    border: solid 1px #ccc;
+}
+
+#speech-page-content {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    border: none;
+    resize: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#speech-page-content:focus {
+    outline: none;
+}
+
+.speech-content-mic {
+    width: 25px;
+    height: 25px;
+    cursor:pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.speech-mic {
+    background: url("mic.gif") no-repeat 50% 50%;
+    background-size: contain;
+}
+
+
+
+.speech-mic-works {
+    background: url("mic-animate.gif") no-repeat 50% 50%;
+    background-size: contain;
+}
+
+.futurico-theme.slider-wrapper {
+    position: relative;
+    width: 490px;
+    height: 270px;
+    margin: 0;
+    padding: 5px;
+ 
+    background: #141517;
+ 
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+ 
+.futurico-theme .nivoSlider {
+    position: relative;
+    width: 490px;
+    height: 270px;
+}
+ 
+.futurico-theme .nivoSlider img {
+    display: none;
+    position: absolute;
+    width: 490px;
+    height: 270px;
+    top: 0;
+    left: 0;
+}
+
+.futurico-theme .nivo-controlNav {
+    position: absolute;
+    bottom: -30px;
+    left: 105px;
+}
+
+.futurico-theme .nivo-controlNav a {
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    text-indent: -9999px;
+ 
+    background: #141517;
+ 
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+ 
+    -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0, .5), 0px 1px 1px rgba(255,255,255, .05);
+    -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0, .5), 0px 1px 1px rgba(255,255,255, .05);
+    box-shadow: inset 0px 1px 1px rgba(0,0,0, .5), 0px 1px 1px rgba(255,255,255, .05);
+}
+
+.futurico-theme .nivo-controlNav a.active,
+.futurico-theme .nivo-caption span {
+    background: #a5cd4e;
+    background: -moz-linear-gradient(top,  #a5cd4e 0%, #6b8f1a 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5cd4e), color-stop(100%,#6b8f1a));
+    background: -webkit-linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%);
+    background: -o-linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%);
+    background: -ms-linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%);
+    background: linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%);
+ 
+    -webkit-box-shadow: inset 0px 1px 1px rgba(255,255,255, .4), 0px 1px 1px rgba(0,0,0, .3);
+    -moz-box-shadow: inset 0px 1px 1px rgba(255,255,255, .4), 0px 1px 1px rgba(0,0,0, .3);
+    box-shadow: inset 0px 1px 1px rgba(255,255,255, .4), 0px 1px 1px rgba(0,0,0, .3);
+}
+
+.futurico-theme .nivo-directionNav a {
+    display: block;
+    top: 60px;
+ 
+    font-family: 'Consolas', sans-serif;
+    font-size: 40px;
+    color: #141517;
+    text-shadow: 0px 1px 1px rgba(255,255,255, .05);
+}
+ 
+.futurico-theme a.nivo-prevNav { left: 40px; }
+ 
+.futurico-theme a.nivo-nextNav { right: 80px; }
+
+.futurico-theme .nivo-caption {
+    padding: 5px 0;
+ 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #e1e1e1;
+ 
+    background: #000000;
+ 
+    -webkit-border-radius: 0 0 3px 3px;
+    -moz-border-radius: 0 0 3px 3px;
+    border-radius: 0 0 3px 3px;
+}
+ 
+.futurico-theme .nivo-caption span {
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    margin: 0 5px 1px 5px;
+ 
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+ 
+.futurico-theme .nivo-caption em {
+    font-family: Georgia, sans-serif;
+    font-size: 11px;
+    color: #727581;
+}
+
+
+#authority {
+    padding-top: 10px;
+}
+
+#speech-page-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+#speech-page-content::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+
+#speech-page-content::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+

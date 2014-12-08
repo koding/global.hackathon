@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 13px;
+}
+
+#main {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+#content {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+}
+
+#about {
+    padding-bottom: 20px;
+    font-weight: normal;
+}
+
+#example-type {
+    color: gray;
+    font-size: 14px;
+}
+
+#speech-content-elements {
+    position: relative;
+    margin: auto;
+    width: 60%;
+    height: 60%;
+    max-height: 100px;
+    max-width: 500px;
+    border: solid 1px #ccc;
+}
+
+#speech-page-content {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    border: none;
+    resize: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#speech-page-content:focus {
+    outline: none;
+}
+
+
+
+
+#authority {
+    padding-top: 10px;
+}
+
+#speech-page-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+#speech-page-content::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+
+#speech-page-content::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
