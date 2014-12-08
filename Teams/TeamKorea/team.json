@@ -1,0 +1,17 @@
+{
+  "teamName": "Team Korea",
+  "members": [
+    {
+      "name": "Paul Kim",
+      "twitter": "@designblooz",
+      "koding": "designblooz",
+      "location": "Edgewater, U.S"
+    },
+    {
+      "name": "Bernard Ahn",
+      "twitter": "@bgamut",
+      "koding": "bgamut",
+      "location": "Seoul, KR"
+    }    
+  ]
+}

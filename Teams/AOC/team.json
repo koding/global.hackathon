@@ -1,0 +1,24 @@
+{
+  "teamName": "AOC",
+  "members": [
+    {
+      "name": "cagdas",
+      "twitter": "dunkucoder",
+      "koding": "drunkcoder",
+      "location": "ankara, tr",
+      "lead": true
+    },
+    {
+      "name": "oguz bilginer",
+      "twitter": "oguzbilgener",
+      "koding": "oguzbilgener",
+      "location": "ankara, tr"
+    },
+    {
+      "name": "ata kilicli",
+      "twitter": "ataalik",
+      "koding": "ataalik",
+      "location": "ankara, tr"
+    }
+  ]
+}

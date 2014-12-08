@@ -1,0 +1,30 @@
+{
+  "teamName": "HackOwls",
+  "members": [
+    {
+      "name": "Gabriel Dumitrescu",
+      "twitter": "",
+      "koding": "gdumitrescu",
+      "location": "Toronto, CA",
+      "lead": true
+    },
+    {
+      "name": "Kleber Virgilio Correia",
+      "twitter": "",
+      "koding": "klebervirgilio",
+      "location": "São Paulo, BR"
+    },
+    {
+      "name": "Rajesh Veeranki",
+      "twitter": "",
+      "koding": "brood",
+      "location": "Gurgaon, IN"
+    },
+    {
+      "name": "Venkateswaran Selvan",
+      "twitter": "",
+      "koding": "mailmevenkat25",
+      "location": "Coimbatore, IN"
+    }
+  ]
+}

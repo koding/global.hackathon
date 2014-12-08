@@ -1,0 +1,24 @@
+{
+  "teamName": "Webmonsters",
+  "members": [
+    {
+      "name": "Razvan Mihai Tache",
+      "twitter": "ra_tache",
+      "koding": "razvan-tache",
+      "location": "Bucharest, RO",
+      "lead": true
+    },
+    {
+      "name": "Andrei Costin Zisu",
+      "twitter": "matzipan",
+      "koding": "matzipan",
+      "location": "York, UK"
+    },
+    {
+      "name": "Raul Mihail Vasile",
+      "twitter": "raul_vasile",
+      "koding": "raulvasile",
+      "location": "Bucharest, Ro"
+    }
+  ]
+}

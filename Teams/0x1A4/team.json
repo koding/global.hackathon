@@ -1,0 +1,22 @@
+{
+  "teamName":"0x1A4",
+  "members":[
+    {
+      "name": "Sashank Thupukari",
+      "koding": "sthupukari",
+      "location": "Herndon, US",
+      "lead":true
+    },
+    {
+      "name":"Rohan Pandit",
+      "koding":"rohanp",
+      "location": "Herndon, US"
+    },
+    {
+      "name":"Rachel Li",
+      "koding": "mustuni1",
+      "location": "Herndon, US"
+
+    }
+  ]
+}

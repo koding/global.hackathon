@@ -1,0 +1,16 @@
+{
+  "teamName": "TP;NS",
+  "members": [
+    {
+      "name": "Liam Costello",
+      "koding": "lolletsoc",
+      "location": "Athens, GR",
+      "lead": true
+    },
+    {
+      "name": "Noah Edelman",
+      "koding": "digitalmockingbird",
+      "location": "California, US"
+    }
+  ]
+}

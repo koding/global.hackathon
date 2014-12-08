@@ -1,0 +1,23 @@
+{
+  "teamName": "Cheers",
+  "members": [
+    {
+      "name": "Carlos Fernandes",
+      "twitter": "",
+      "koding": "carlosjs89",
+      "location": "Lisbon, PT"
+    },
+    {
+      "name": "David Bombaça",
+      "twitter": "",
+      "koding": "dbombaca",
+      "location": "Lisbon, PT"
+    },
+    {
+      "name": "Rui Elói",
+      "twitter": "",
+      "koding": "reloi",
+      "location": "Lisbon, PT"
+    }
+  ]
+}

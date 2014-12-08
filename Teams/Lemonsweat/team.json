@@ -1,0 +1,17 @@
+{
+  "teamName": "Lemonsweat",
+  "members": [
+    {
+      "name": "Adrian Lee",
+      "twitter": "@junirok",
+      "koding": "irok",
+      "location": "Seattle, US"
+    },
+    {
+      "name": "Jeremy Chua",
+      "twitter": "",
+      "koding": "jerechua",
+      "location": "Mountain View, US"
+    }
+  ]
+}

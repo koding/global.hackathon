@@ -1,0 +1,29 @@
+{
+  "teamName": "nullpointer",
+  "members": [
+    {
+      "name": "Sergiu-Paul Falcusan",
+      "twitter": "smotru",
+      "koding": "smotru",
+      "location": "Cluj-Napoca, RO"
+    },
+    {
+      "name": "Robert Gabriel Balas",
+      "twitter": "RedBarron57",
+      "koding": "chinezul57",
+      "location": "Cluj-Napoca, RO"
+    },
+    {
+      "name": "Cristi Ilca",
+      "twitter": "pantazi01",
+      "koding": "pantazi",
+      "location": "Cluj-Napoca, RO"
+    },
+    {
+      "name": "Victor Balan",
+      "twitter": "vbalan93",
+      "koding": "victorbalan",
+      "location": "Cluj-Napoca, RO"
+    }
+  ]
+}

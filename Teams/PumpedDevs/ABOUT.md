@@ -15,6 +15,37 @@ After a while, I asked the other two members to join us in this hackathon, **Ken
 
 The team's **goal** for this competition is to *have fun* in the hackathon, *show what we can do* and *what we can contribute*. We think that this event is a **big help** for us to reach our goal which is to create our own **start up company** which can be beneficial for a lot of people. *Winning* in this competition might be **hard** and **intimidating**, but what isn't? We'll give it a shot and do our **best**!
 
+Team Members
+========
+
+Ron
+=======
+A guy with big dreams. He loves to create different things and knows programming can take him there.
+
+| Ron
+|----|
+| ![Ron](http://pumpeddevs.com/images/koding-ron.jpg)
+
+Kenneth
+======
+Programming master/ninja. He loves js so much that he uses it for a living.
+
+| Kenneth
+|----|
+| ![Kenneth](http://pumpeddevs.com/images/koding-kenneth.jpg)
+
+Joell
+======
+He is a Mozilla Representative. He inspires others (mostly students) by giving talks to different mozilla events in the Philippines.
+
+| Joell
+|----|
+| ![Joell](http://pumpeddevs.com/images/koding-joell.jpg)
+
+Bryan
+======
+He loves programming.
+
 About our skills and plans?
 =======
 All of us use the following technologies:

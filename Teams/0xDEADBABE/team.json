@@ -1,0 +1,18 @@
+{
+  "teamName": "0xDEADBABE",
+  "members": [
+    {
+	"name": "Alice Tsing",
+	"koding": "atsing",
+	"location": "Santa Clara, US",
+	"lead": true
+	
+    },
+    {
+      "name": "Zafar Takhirov",
+      "twitter": "TJzafar",
+      "koding": "zafartahirov",
+      "location": "Santa Clara, US"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "teamName": "USB-KodersInternational",
+  "members": [
+    {
+      "name": "Alejandro Diaz",
+      "twitter": "alejodiazg",
+      "koding": "alejodiazg",
+      "location": "Caracas, VE"
+    },
+    {
+      "name": "Gustavo El Khoury",
+      "twitter": "Gustav0_EK",
+      "koding": "gres147679",
+      "location": "Oshawa, CA",
+      "lead": true
+    },
+    {
+      "name": "Gabriela Limonta",
+      "twitter": "GabrielaLimonta",
+      "koding": "glimonta",
+      "location": "Munich, DE"
+    }
+  ]
+}

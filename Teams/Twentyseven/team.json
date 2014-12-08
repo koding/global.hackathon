@@ -1,0 +1,14 @@
+{
+    "teamName": "Twentyseven",
+    "members": [{
+        "name": "Medvedev Ilya",
+        "twitter": "iam_medvedev",
+        "koding": "iam-medvedev",
+        "location": "Barnaul, RU"
+    }, {
+        "name": "Kovalev Andrey",
+        "twitter": "hi_kovalev",
+        "koding": "kovalev",
+        "location": "Barnaul, RU"
+    }]
+}

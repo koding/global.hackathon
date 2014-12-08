@@ -1,0 +1,17 @@
+{
+    "teamName": "Helwa",
+    "members": [
+        {
+            "name": "Ahmed Ismail",
+            "twitter": "ahmedlogik",
+            "koding": "ahmedlogic",
+            "location": "Atlanta, GA"
+        },
+        {
+            "name": "Sarvagya Vaish",
+            "twitter": "sarvagya7",
+            "koding": "sarvagyavaish",
+            "location": "Miami, FL"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+   "teamName":"IOsalli",
+   "members":[
+      {
+         "name":"Thilina Jayawardana",
+         "twitter":"thilina_j",
+         "koding":"thilina227",
+         "location":"Kandy, LK",
+         "lead":true
+      },
+      {
+         "name":"Praveen Buddhika",
+         "twitter":"praveenB707",
+         "koding":"praveenbuddhika",
+         "location":"Colombo, LK"
+      },
+      {
+         "name":"Nayanajith Pilapitiya",
+         "twitter":"Nayanajith89",
+         "koding":"nayanajith89",
+         "location":"Colombo, LK"
+      },
+      {
+         "name":"Prasad Thilakarathne",
+         "twitter":"prasadct",
+         "koding":"prasadct",
+         "location":"Kandy, LK"
+      },
+      {
+         "name":"Uthpala Bandara",
+         "twitter":"UthpalaBandara",
+         "koding":"hmaubandara",
+         "location":"Badulla, LK"
+      }
+   ]
+}

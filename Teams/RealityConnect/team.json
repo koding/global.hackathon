@@ -1,0 +1,17 @@
+{
+  "teamName": "RealityConnect",
+  "members": [
+    {
+      "name": "João Miguel Ribeiro",
+      "twitter": "JonnyBGodPT",
+      "koding": "jonnybgod",
+      "location": "Lisbon, PT",
+      "lead": true
+    },
+    {
+      "name": "João da Silva Côrtes",
+      "koding": "sequessu",
+      "location": "Lisbon, PT"
+    }
+  ]
+}

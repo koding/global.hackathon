@@ -1,0 +1,18 @@
+{
+  "teamName": "Code Crafters",
+  "members": [
+    {
+      "name": "Eban Bisong",
+      "twitter": "mrhd3f",
+      "koding": "ebisong",
+      "location": "Kennesaw, GA"
+    },
+    {
+      "name": "Sven Cowart",
+      "twitter": "svencowart",
+      "koding": "svencowart",
+      "location": "Kennesaw, GA",
+      "lead": true
+    }
+  ]
+}

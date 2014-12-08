@@ -1,0 +1,36 @@
+{
+  "teamName": "coDeUNIT",
+  "members": [
+    {
+      "name": "Swapnil Karande",
+      "twitter": "swapnil60",
+      "koding": "swapnilkarande",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Darshan Bhogale",
+      "twitter": "darshan_bhogale",
+      "koding": "darshanbhogale",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Jayesh Sawant",
+      "twitter": "jeysawant",
+      "koding": "jeysawant",
+      "location": "Mumbai, IN",
+      "lead": true
+    },
+    {
+      "name": "Ajit Mane",
+      "twitter": "ajitmane5500",
+      "koding": "ajitmane",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Nikhil Paramr",
+      "twitter": "Nikhil9Parmar",
+      "koding": "nikhilparmar",
+      "location": "Mumbai, IN"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "teamName": "Gothic Elephant",
+  "members": [
+    {
+      "name": "Nickolay Kopylov",
+      "twitter": "t15ts",
+      "koding": "nkopylov",
+      "location": "Moscow, RU",
+      "lead": true
+    },
+    {
+      "name": "Olimzhon Iuldashov",
+      "koding": "oiuldashov",
+      "location": "Mytishchi, RU"
+    },
+    {
+      "name": "Danila Alpatov",
+      "koding": "alpatovdanila",
+      "location": "Mytishchi, RU"
+    }
+  ]
+}

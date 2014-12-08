@@ -1,0 +1,28 @@
+{
+  "teamName": "Pusheen",
+  "members": [
+    {
+      "name": "Chen,Ying-Yu",
+      "twitter": "abinchen0914",
+      "koding": "abin0914",
+      "location": "Taipei, TW",
+      "lead": true
+    },
+    {
+      "name": "Chang,Wen-Kung",
+      "twitter": "zzn6110",
+      "koding": "imabitch",
+      "location": "Hsin Chu, TW"
+    },
+    {
+      "name": "Cheng,Ya-Ju",
+      "koding": "shadow9",
+      "location": "Hsin Chu, TW"
+    },
+    {
+      "name": "Chen,Chih-Lin",
+      "koding": "jim800121",
+      "location": "Hsin Chu, TW"
+    }
+  ]
+}

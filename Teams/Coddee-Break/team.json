@@ -1,0 +1,17 @@
+{
+  "teamName": "Coddee Break",
+  "members": [
+    {
+      "name": "Kuzma Kudim",
+      "twitter": "kuzmaka",
+      "koding": "kuzmaka",
+      "location": "Kiev, UA",
+      "lead": true
+    },
+    {
+      "name": "Vadim Sakhno",
+      "koding": "prineside",
+      "location": "Kiev, UA"
+    }
+  ]
+}

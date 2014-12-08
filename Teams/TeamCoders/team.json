@@ -1,0 +1,24 @@
+{
+  "teamName": "TeamCoders",
+    "members": [
+    {
+      "name": "Maharshi Choudhury",
+      "twitter": "@maharsh009",
+      "koding": "maharsh011",
+      "location": "Bangalore,IN"
+    },
+    {
+      "name": "Subhendu Ghosh",
+      "twitter": "@_hell_born",
+      "koding": "subho-bcrec",
+      "location": "West Bengal, IN"
+    },
+    {
+      "name": "Jeremy Wandui",
+      "twitter": "@poetentate",
+      "koding": "poetentate",
+      "location": "Nairobi, KE",
+      "lead": true
+    }
+  ]
+}

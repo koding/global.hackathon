@@ -1,0 +1,13 @@
+{
+	"teamName": "LOL",
+	"members": [{
+		"name": "Arman Amini",
+		"koding": "dowye",
+		"location": "Hong Kong, HK"
+	},
+	{
+		"name": "Jeremy Roche",
+		"koding": "misterpotpot",
+		"location": "Type Lyon, FR"
+	}]
+}

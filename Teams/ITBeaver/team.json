@@ -1,0 +1,30 @@
+{
+  "teamName": "ITBeaver",
+  "members": [
+    {
+      "name": "Aleksandr Bobrov",
+      "twitter": "al_bobrov",
+      "koding": "memoris",
+      "location": "Chaikovsky, RU",
+      "lead": true
+    },
+    {
+      "name": "Nikolay Zykov",
+      "twitter": "NZExact",
+      "koding": "nzykov",
+      "location": "Chaikovsky, RU"
+    },
+    {
+      "name": "Sergey Pyankov",
+      "twitter": "esergion",
+      "koding": "esergion",
+      "location": "Chaikovsky, RU"
+    },
+    {
+      "name": "Artem Russkikh",
+      "twitter": "artem_russkikh",
+      "koding": "artemrusskikh",
+      "location": "Perm, RU"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "teamName": "enkoded",
+  "members": [
+    {
+      "name": "Oleksiy Syvokon",
+      "twitter": "",
+      "koding": "alexsivokon",
+      "location": "Kharkiv, UA",
+      "lead": true
+    },
+    {
+      "name": "Sergey Podgurskiy",
+      "twitter": "",
+      "koding": "wulf",
+      "location": "Kharkiv, UA"
+    },
+    {
+      "name": "Yurk Shapkin",
+      "twitter": "",
+      "koding": "yurk",
+      "location": "Kharkiv, UA"
+    },
+    {
+      "name": "Sergii Rudenko",
+      "twitter": "",
+      "koding": "rudeg",
+      "location": "Kharkiv, UA"
+    }, 
+    {
+      "name": "Marina Chernyavskaya",
+      "twitter": "",
+      "koding": "mchernyavska",
+      "location": "Kharkiv, UA"
+    } 
+  ]
+}

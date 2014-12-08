@@ -1,0 +1,18 @@
+{
+"teamName": "TechnoAlpacas",
+"members": [
+{
+"name": "Johan D",
+"twitter": "Baronen_Damm",
+"koding": "grayoverride",
+"location": "Karlshamn SE",
+"lead": true
+},
+{
+"name": "Otto R",
+"twitter": "OttoRemse",
+"koding": "mollyporph",
+"location": "Malmö SE"
+}
+]
+}

@@ -1,0 +1,30 @@
+{
+    "teamName": "nobacksies",
+    "members": [
+        {
+            "name": "Alan Norton",
+            "twitter": "nonrational",
+            "koding": "nonrational",
+            "location": "New York, US"
+        },
+        {
+            "name": "John Mileham",
+            "twitter": "jmileham",
+            "koding": "jmileham",
+            "location": "New York, US",
+            "lead": true
+        },
+        {
+            "name": "Sam Moore",
+            "twitter": "samandmoore",
+            "koding": "samandmoore",
+            "location": "New York, US"
+        },
+        {
+            "name": "Sarah Whinnem",
+            "twitter": "MadysonDesigns",
+            "koding": "madysondesigns",
+            "location": "New York, US"
+        }
+    ]
+}

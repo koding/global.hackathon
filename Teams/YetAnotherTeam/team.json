@@ -1,0 +1,12 @@
+{
+    "teamName":"Yet Another Team",
+    "members": [
+        {
+            "name":"Angelo Mitrotti",
+            "twitter":"amitrott",
+            "koding":"amitrott",
+            "location":"Heredia, CR",
+            "lead":true
+         }
+     ]
+ }

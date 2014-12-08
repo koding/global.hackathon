@@ -1,0 +1,24 @@
+{
+  "teamName": "Nibbles At Work",
+  "members": [
+    {
+      "name": "Hugo do Carmo",
+      "twitter": "august_hugh",
+      "koding": "spelcaster",
+      "location": "Brasília, BR",
+      "lead": true
+    },
+    {
+      "name": "Luan Santana",
+      "twitter": "LuanComputacao",
+      "koding": "luancomputacao",
+      "location": "Coritiba, BR"
+    },
+    {
+      "name": "José Rios",
+      "twitter": "joseriosneto",
+      "koding": "joseriosneto",
+      "location": "Brasília, DF"
+    }
+  ]
+}

@@ -9,10 +9,17 @@
       "lead": true
     },
     {
-      "name": "Jaime Cajamarca",
+      "name": "Mohammed Zameer",
+      "twitter": "zameermfm",
+      "koding": "zameermfm",
+      "location": "Colombo,IK"
+    },
+    {
+      "name": "Jessica Hart-Hogans",
       "twitter": "-",
-      "koding": "cyberjaime45",
-      "location": "New York, NY"
+      "koding": "jessicaehh",
+      "location": "New York, US"
     }
+    
   ]
 }

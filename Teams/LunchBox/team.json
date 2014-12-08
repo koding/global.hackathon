@@ -1,0 +1,37 @@
+{
+  "teamName" : "LunchBox",
+  "members"  : 
+  [
+	    {
+	      "name"	 : "Aayush Gupta",
+	      "twitter"	 : "aayushgupta2306",
+	      "koding"	 : "aayushgupta2306",
+	      "location" : "Roorkee, IN"
+	    },
+	    {
+	      "name"	 : "Vishal Chand",
+	      "twitter"	 : "poison020492",
+	      "koding"	 : "poison0204",
+	      "location" : "Roorkee, IN"
+	    },
+	    {
+	      "name"	 : "Nitesh Kumar",
+	      "twitter"	 : "niteshk5",
+	      "koding"	 : "niteshk770",
+	      "location" : "Roorkee, IN"
+	    },
+	    {
+	      "name"	 : "Jitesh Khandelwal",
+	      "twitter"	 : "jiteshk23",
+	      "koding"	 : "jiteshk",
+	      "location" : "Roorkee, IN",
+	      "lead"	 : true
+	    },
+	    {
+	      "name"	 : "Samyak Datta",
+	      "twitter"	 : "gedwey_parfait",
+	      "koding"	 : "samyak-268",
+	      "location" : "Roorkee, IN"
+	    }
+	]
+}

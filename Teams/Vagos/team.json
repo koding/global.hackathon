@@ -1,0 +1,24 @@
+{
+  "teamName": "Vagos",
+  "members": [
+    {
+      "name": "Giovanni Aguirre",
+      "twitter": "DiganmeGiovanni",
+      "koding": "diganmegiovanni",
+      "location": "Toluca, Mexico",
+      "lead": true
+    },
+    {
+      "name": "Victor Santillan",
+      "twitter": "viktorsantillan",
+      "koding": "vsantillan",
+      "location": "Toluca, Mexico"
+    },
+    {
+      "name": "Jorge Victor Muñoz",
+      "twitter": "Jovic11war",
+      "koding": "novacheck11",
+      "location": "Toluca, Mexico"
+    }
+  ]
+}

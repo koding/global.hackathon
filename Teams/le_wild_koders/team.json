@@ -1,0 +1,18 @@
+{
+  "teamName": "le_wild_koders",
+  "members": [
+    {
+      "name": "Isuru Kusumal Rajapakse",
+      "twitter": "IsuruKusumal",
+      "koding": "isuru",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Manujith Pallewatte",
+      "twitter": "_manZzup_",
+      "koding": "manzzup",
+      "location": "Colombo, LK",
+      "lead": true
+    }
+  ]
+}

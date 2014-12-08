@@ -1,0 +1,36 @@
+{
+"teamName": "ArcturusX",
+"members": [
+{
+"name": "Nazick Ahamed",
+"twitter": " NazickAhamed1",
+"koding": "nazick",
+"location": "Matale, SL"
+},
+{
+"name": "Aarthika Arunthavanathan",
+"twitter": "aarthika15",
+"koding": "thikanathan",
+"location": "Colombo, SL"
+},
+{
+"name": "Prakhash Sivakumar",
+"twitter": "Prakhashsiva",
+"koding": "prakhash",
+"location": "Colombo, SL",
+"lead": true
+},
+{
+"name": "Murugaiah Brunthavan",
+"twitter": "bruntha10",
+"koding": "bruntha1991",
+"location": "Jaffna, SL"
+},
+{
+"name": "Rrubaa Panchendrarajan",
+"twitter": "PRuba16",
+"koding": "ruba16",
+"location": "Matale, SL"
+}
+]
+}

@@ -1,0 +1,12 @@
+{
+  "teamName": "The HD One",
+  "members": [
+    {
+      "name": "Pavel Machekhin",
+      "twitter": "bashmach",
+      "koding": "bashmach",
+      "location": "Kharkiv, UA",
+      "lead": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"teamName": "Team Kuafu",
+	"members": [
+		{
+			"name": "Ryan Sun",
+			"twitter": "kuafu",
+			"koding": "kuafu",
+			"location": "Florida, US",
+			"lead": true
+		},
+		{
+			"name":"Kerry-Anne Hamilton",
+			"koding":"khreativ",
+			"location":"New York, US"
+		},
+		{
+			"name": "Fatih Coskun",
+			"twitter": "fatih__cskn",
+			"koding": "fatihc",
+			"location": "istanbul, TR"
+		}
+	]
+}

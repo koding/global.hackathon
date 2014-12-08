@@ -1,0 +1,30 @@
+{
+  "teamName": "Soft Pyramid",
+  "members":[
+    {
+      "name": "Fakhar Khan",
+      "twitter": "fakharkhan",
+      "koding": "fakhar-softpyramid",
+      "location": "Lahore, Pakistan",
+      "lead": true
+    },
+    {
+      "name": "Namoos Shah",
+      "twitter": "",
+      "koding": "namoos-softpyramid",
+      "location": "Lahore, Pakistan"
+    },
+    {
+        "name": "Irfan Ali",
+        "twitter": "",
+        "koding": "irfan-softpyramid",
+        "location": "Lahore, Pakistan"
+    },
+      {
+          "name": "Omer Zobair",
+          "twitter": "",
+          "koding": "omer-softpyramid",
+          "location": "Lahore, Pakistan"
+      }
+  ]
+}

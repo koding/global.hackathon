@@ -1,0 +1,12 @@
+{
+  "teamName": "ninja",
+  "members": [
+    {
+      "name": "Devanjith De Silva",
+      "twitter": "",
+      "koding": "devzdesilva",
+      "location": "Colombo,LK",
+      "lead" : true
+    }
+  ]
+}

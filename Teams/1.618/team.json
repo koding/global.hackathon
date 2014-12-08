@@ -1,0 +1,24 @@
+{
+  "teamName": "1.618",
+  "members": [
+    {
+      "name": "Eduard I",
+      "twitter": "EdyTheViper",
+      "koding": "edytheviper",
+      "location": "Targoviste, RO",
+      "lead": true
+    },
+    {
+      "name": "Alexandru B",
+      "twitter": "Cristian_11_95",
+      "koding": "cristiandru",
+      "location": "Targoviste, RO"
+    },
+    {
+      "name": "Nagesh C",
+      "twitter": "",
+      "koding": "nagesh-c",
+      "location": "Bengaluru, IN"
+    }
+  ]
+}

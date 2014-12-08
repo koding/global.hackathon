@@ -1,0 +1,19 @@
+{
+  "teamName": "Blue Shirt Academy",
+  "members": [
+     {
+      "name": "Rachel Stein",
+      "twitter": "steinrach",
+      "koding": "rstein",
+      "location": "Grand Rapids, US"
+    },
+    {
+      "name": "Tawodros Yeberahu",
+      "twitter": "exp_teddy",
+      "koding": "teddy-exp",
+      "location": "Grand Rapids, US",
+      "lead": true
+    }
+
+  ]
+}

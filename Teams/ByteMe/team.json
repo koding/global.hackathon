@@ -1,0 +1,17 @@
+{
+  "teamName": "ByteMe",
+  "members": [
+    {
+      "name": "Josephine Tsay",
+      "twitter": "fromjosephine",
+      "koding": "josephine",
+      "location": "San Francisco, US"
+    },
+    {
+      "name": "Bhavna Mahadevan",
+      "twitter": "BHAVNATOR",
+      "koding": "bhavnator",
+      "location": "Santa Monica, US"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "teamName": "Bits-Please",
+  "members": [
+    {
+      "name": "Sanjana Kambalapally",
+      "twitter": "_s_r_kamb_b_s_",
+      "koding": "srkambbs",
+      "location": "Toronto, CA",
+      "lead": true
+    },
+    { 
+      "name": "Rayun Mehrab",
+      "twitter" : "MRMehrab",
+      "koding" : "mehrabrym",
+      "location" : "Toronto, CA",
+      "lead": false
+    },
+    { 
+      "name": "Richa Rajgolikar JSON",
+      "twitter" : "danielleA7X",
+      "koding" : "rricha19",
+      "location" : "Toronto, CA",
+      "lead": false
+    }
+    
+  ]
+}

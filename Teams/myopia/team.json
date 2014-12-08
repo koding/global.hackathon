@@ -1,0 +1,11 @@
+{
+	"team": "myopia",
+	"members":[
+		{
+			"name":"João Nobre",
+			"koding":"jnobre",
+			"location":"Lisbon",
+			"lead":true
+		}
+	]
+}

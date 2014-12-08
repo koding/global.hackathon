@@ -1,0 +1,24 @@
+{
+  "teamName": "Coder53",
+  "members": [
+    {
+      "name": "Chan Kin Meng",
+      "twitter": "chankinmeng",
+      "koding": "kinmengchan",
+      "location": "Kuala Lumpur, MY",
+      "lead":true
+    },
+    {
+      "name": "Lin Wai Kit",
+      "twitter": "waikitlin",
+      "koding": "waikitlin",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Kong Wai Yen",
+      "twitter": "queenniekong",
+      "koding": "waiyen",
+      "location": "Kuala Lumpur, MY"
+    }
+  ]
+}

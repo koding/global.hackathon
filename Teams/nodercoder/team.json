@@ -1,0 +1,24 @@
+{
+  "teamName": "Noder Coder",
+  "members": [
+    {
+      "name": "Amal Raj",
+      "twitter": "NodejsAmal",
+      "koding": "amalraj",
+      "location": "Chennai, IN",
+       "lead": true
+    },
+    {
+      "name": "Suseela",
+      "twitter": "",
+      "koding": "suseela",
+      "location": "Chennai, IN"
+    },
+    {
+      "name": "Lakshmi",
+      "twitter": "",
+      "koding": "lak-shmi",
+      "location": "Chennai, IN"
+    }
+  ]
+}

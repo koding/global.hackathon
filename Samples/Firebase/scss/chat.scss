@@ -1,0 +1,238 @@
+/*
+* Chat Animations
+*
+*/
+
+@keyframes fadeIn {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+
+/*
+* Demo Background Image
+*
+*/
+
+body {
+  background: url('../images/clouds.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+
+
+/*
+* Chat Demo
+*
+*/
+
+.example-chat {
+  font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  box-shadow: 0px 10px 100px rgba(0, 0, 0, 0.4);
+  background-color: rgba(#FFF, .7);
+  font-size: 18px;
+  line-height: 22px;
+  color: #666;
+  overflow: visible;
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  z-index: 100;
+  padding: 0px;
+  margin-left: -200px;
+  margin-top: -250px;
+  width: 400px;
+  height: 500px;
+  animation: fadeInUp 1s;
+
+
+  /*
+  * Cloud Logo
+  *
+  */
+
+  .example-chat-logo {
+    opacity: .9;
+    width: 140px;
+    height: 140px;
+    position: absolute;
+    top: -160px;
+    left: 50%;
+    z-index: 2;
+    margin-left: -70px;
+  }
+
+
+  /*
+  * Chat Title Bar
+  *
+  */
+
+  .example-chat-toolbar {
+    padding: 10px;
+    color: rgba(#FFF, .8);
+    background: rgba(#2980b9, .9);
+
+    > h2 {
+      margin: 0px;
+      padding: 0px;
+      text-align: center;
+      font-weight: normal;
+      text-transform: uppercase;
+      font-size: 12px;
+      line-height: 20px;
+      letter-spacing: 1px;
+    }
+  }
+
+
+  /*
+  * General Form Styles
+  *
+  */
+
+  input {
+    background: none;
+    border: none;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    height: 30px;
+    font-size: 18px;
+    width: 100%;
+    font-weight: normal;
+    outline: none;
+
+    &::placeholder {
+      color: rgba(#FFF, .5);
+      font-weight: lighter;
+    }
+  }
+
+
+  /*
+  * User Name
+  *
+  */
+
+  .example-chat-username-field {
+    background: rgba(#3498db, .7);
+    padding: 10px;
+    position: relative;
+
+    .example-chat-avatar {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 1;
+      width: 40px;
+      height: 40px;
+      border-radius: 200px;
+      background: #3498db;
+      text-align: center;
+      line-height: 40px;
+      font-size: 20px;
+      color: darken(#3498db, 10%);
+    }
+
+    label {
+      text-transform: uppercase;
+      line-height: 32px;
+      font-size: 14px;
+      color: #FFF;
+      position: absolute;
+      top: 10px;
+      left: 20px;
+      z-index: 1;
+    }
+
+    input {
+      padding-left: 50px;
+      color: #FFF;
+      height: 40px;
+      font-size: 20px;
+    }
+  }
+
+
+  /*
+  * Message List
+  *
+  */
+
+  ul {
+    list-style: none;
+    margin: 0px;
+    padding: 20px;
+    overflow: auto;
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    bottom: 80px;
+    z-index: 1;
+
+    li {
+      margin-bottom: 10px;
+      line-height: 24px;
+      animation: fadeIn 1s;
+
+      &:last-child {
+        margin: 0px;
+      }
+    }
+
+    .example-chat-username {
+      margin-right: 10px;
+    }
+  }
+
+
+  /*
+  * Footer
+  *
+  */
+
+  footer {
+    background-color: rgba(#FFF, .7);
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    display: block;
+    padding: 10px;
+
+    .icon-chat {
+      color: rgba(#34495e, .2);
+      position: absolute;
+      top: 15px;
+      left: 10px;
+      z-index: 1;
+      font-size: 30px;
+    }
+
+    input {
+      background: none;
+      border: none;
+      height: 40px;
+      color: #34495e;
+      padding-left: 40px;
+
+      &::placeholder {
+        color: rgba(#34495e, .4);
+      }
+    }
+  }
+}

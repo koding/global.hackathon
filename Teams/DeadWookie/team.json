@@ -1,0 +1,31 @@
+{
+  "teamName": "DeadWookie",
+  "members": [
+    {
+      "name": "Eugene Ryabchenko",
+      "koding": "comentor",
+      "location": "Odessa, UA"
+    },
+    {
+      "name": "Dmitry Banasko",
+      "koding": "imbad",
+      "location": "Odessa, UA"
+    },
+    {
+      "name": "Sergey Malyuta",
+      "koding": "m-serge",
+      "location": "Odessa, UA"
+    },
+    {
+      "name": "Vadim Marushevsky",
+      "koding": "makanaki",
+      "location": "Odessa, UA"
+    },
+    {
+      "name": "Pavel Zet",
+      "koding": "zetorama",
+      "location": "Odessa, UA",
+      "lead": true
+    }
+  ]
+}

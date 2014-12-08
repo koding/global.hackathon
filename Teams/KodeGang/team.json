@@ -1,0 +1,17 @@
+{
+  "teamName": "Kode Gang",
+  "members": [
+    {
+      "name": "Viswaprasath K S",
+      "twitter": "iamVP7",
+      "koding": "viswaprasath",
+      "location": "Chennai, IN"
+    },
+    {
+      "name": "Barath R",
+      "twitter": "barathsvk",
+      "koding": "barath",
+      "location": "Chennai, IN"
+    }
+  ]
+}

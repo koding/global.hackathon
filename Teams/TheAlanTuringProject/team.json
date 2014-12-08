@@ -1,0 +1,30 @@
+{
+  "teamName": "The Alan Turing Project",
+  "members": [
+    {
+      "name": "Anshul Vishwakarma",
+      "koding": "shootdaj",
+      "location": "Columbus, OH"
+    },
+    {
+      "name": "David West",
+      "koding": "dbwest",
+      "location": "Columbus, OH"
+    },
+    {
+      "name": "Mukul Soundarajan",
+      "koding": "TODO",
+      "location": "Columbus, OH"
+    },
+    {
+      "name": "Matt Weimer",
+      "koding": "TODO",
+      "location": "Columbus, OH"
+    },
+    {
+      "name": "Nick Wright",
+      "koding": "TODO",
+      "location": "Columbus, OH"
+    }
+  ]
+}

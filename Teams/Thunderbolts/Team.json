@@ -1,0 +1,23 @@
+{
+    "teamName": "Thunderbolts",
+    "members": [
+        {
+            "name": "Jonathan P",
+            "twitter": "@_JonathanPaul_",
+            "koding": "masterjonjon",
+            "location": "Evansville, US"
+        },
+        {
+            "name": "Elijah G",
+            "twitter": "@SaxophoneMan00",
+            "koding": "eguess99",
+            "location": "Evansville, US"
+        },
+        {
+            "name": "Maddox W.",
+            "twitter": "@maddoxrwilliams",
+            "koding": "masterhacker",
+            "location": "Evansville, US"
+        }
+    ]
+}

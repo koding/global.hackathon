@@ -1,0 +1,30 @@
+{
+    "teamName": "Bad Aces",
+    "members": [
+        {
+            "name": "Aime Menendez",
+            "twitter": "amprida",
+            "koding": "aimemp",
+            "location": "Fort Lauderdale, US"
+        },
+        {
+            "name": "Cameron Condry",
+            "twitter": "ccondry2",
+            "koding": "ccondry",
+            "location": "Seymour, US",
+            "lead": true
+        },
+        {
+            "name": "Estel Smith",
+            "twitter": "estelsmith",
+            "koding": "estelsmith",
+            "location": "North Vernon, US"
+        },
+        {
+            "name": "Stefan Gimmillaro",
+            "twitter": "sgimmillaro",
+            "koding": "sgimmillaro",
+            "location": "San Francisco, US"
+        }
+    ]
+}

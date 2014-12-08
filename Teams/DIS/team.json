@@ -1,0 +1,30 @@
+{
+  "teamName": "DIS",
+  "members": [
+    {
+      "name": "Anestos Nikolaos-Ektoras",
+      "twitter": "NickAnestos",
+      "koding": "anestos",
+      "location": "Stockholm, SE",
+      "lead": true
+    },
+    {
+      "name": "Antonios Kouzoupis",
+      "twitter": "alafroiskiotos",
+      "koding": "kouzan",
+      "location": "Stockholm, SE"
+    },
+    {
+      "name": "Lorenzo Corneo",
+      "twitter": "",
+      "koding": "lorenzocorneo",
+      "location": "Stockholm, SE"
+    },
+    {
+      "name": "Vasilis Giannokostas",
+      "twitter": "",
+      "koding": "giannoko",
+      "location": "Stockholm, SE"
+    }
+  ]
+}

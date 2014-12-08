@@ -1,0 +1,30 @@
+{
+  "teamName": "The Average Joes",
+  "members": [
+    {
+      "name": "Luke Barwikowski",
+      "twitter": "lukebar96",
+      "koding": "lbarwiko",
+      "location": "Ann Arbor, US",
+      "lead": true
+    },
+    {
+      "name": "Lyle Antieau",
+      "twitter": "lyleantieau",
+      "koding": "Lantieau3",
+      "location": "Ann Arbor, US"
+    },
+    {
+      "name": "Nick Martinelli",
+      "twitter": "nmartinelli96",
+      "koding": "nmart",
+      "location": "Ann Arbor, US"
+    },
+    {
+      "name": "Joseph Lafayette",
+      "twitter": "datCordLife",
+      "koding": "lafayetj",
+      "location": "Ann Arbor, US"
+    }
+  ]
+}

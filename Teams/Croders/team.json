@@ -1,0 +1,30 @@
+{
+  "teamName": "Croders",
+  "members": [
+    {
+      "name": "Miłosz Chmura",
+      "twitter": "chmuraOrg",
+      "koding": "chmura",
+      "location": "Zagreb, HR",
+      "lead": true
+    },
+    {
+      "name": "Tea Pavić",
+      "twitter": "li_cineme",
+      "koding": "licineme",
+      "location": "Zagreb, HR"
+    },
+    {
+      "name": "Anamarija Mišmaš",
+      "twitter": "aeramana",
+      "koding": "eni442",
+      "location": "Zagreb, HR"
+    },
+    {
+      "name": "Martina Petraš",
+      "twitter": "martina5rush",
+      "koding": "martina5rush",
+      "location": "Zagreb, HR"
+    }
+  ]
+}

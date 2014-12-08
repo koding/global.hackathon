@@ -1,0 +1,35 @@
+{
+  "teamName": "GranaHack",
+  "members": [
+    {
+      "name": "JJ Merelo",
+      "twitter": "@jjmerelo",
+      "koding": "jjmerelo",
+      "location": "Granada, ES"
+    },
+    {
+      "name": "Pablo Hinojosa",
+      "twitter": "psicobyte",
+      "koding": "psicobyte",
+      "location": "Granada, ES"
+    },
+    {
+      "name": "Serafín Vélez",
+      "twitter": "seravb",
+      "koding": "seravb",
+      "location": "Granada, ES"
+    },
+    {
+      "name": "Renato Ramírez",
+      "twitter": "renatolrr",
+      "koding": "renatolrr",
+      "location": "Granada, ES"
+    },
+    {
+      "name": "Pablo García",
+      "twitter": "fergunet",
+      "koding": "fergunet",
+      "location": "Granada, ES"
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 Welcome to Hawaii Hackers
 ================
 
-I am a student studying computer science at the University of Hawaii at Hilo.
+I am a student studying computer science at the University of Hawaii at Hilo. Tried to get people to join, but I was the only one crazy enough to try and balance a hackathon, and a Software Engineering project that culminates in a demonstration before a review board next week. Go me!
+
+![maui](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10357807_10153006617253009_6237015540130397559_n.jpg?oh=8294e964499a33fb1c2096e309d475f3&oe=55001B5D&__gda__=1426433032_8b16c41f14b47360b3ae64a72ccea70e)
 
 
 About your team
@@ -9,7 +11,7 @@ About your team
 I'm a Senior in the Computer Science department at UH Hilo. I first came to Hawaii in search of a fresh start back in December of 2007. 
 I didn't really know what I wanted to do for the rest of my life, but I did know I needed a way to make a living. I took a job with a
 large ornamental plant farm. It was hard work, and the pay was just barely enough to get by. Yet, in spite of all of this, riding around
-on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I wanted to go back to school. 
+on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I didn't want to ride around on a tractor all day for the rest of my life. 
 
 I enrolled at Hawaii Community College in its Information Technology program back in the Spring of 2009. Going back to school breathed
 new ambition and new life into my soul, and so I decided to leave the farm and eventually took a job with Upward Bound, a college prep for

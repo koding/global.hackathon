@@ -1,0 +1,17 @@
+{
+  "teamName": "Super Code Bros",
+  "members": [
+    {
+      "name": "Hans Rødtang",
+      "twitter": "hansrodtang",
+      "koding": "hansrodtang",
+      "location": "Oslo, NO"
+    },
+    {
+      "name": "Nicolai Skogheim",
+      "twitter": "nicolaiskogheim",
+      "koding": "nicolaiskogheim",
+      "location": "Oslo, NO"
+    }
+  ]
+}

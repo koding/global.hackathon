@@ -2,15 +2,14 @@ This is our page
 ================
 
 I am KULDIP PIPALIYA. My interests are anything development related, software developing & designing. 
-I have no team mates right now.
 
 
 About your team
 ===========================
 
-| kuldip |
-|---|
-| ![kuldippipaliya](http://kuldippipaliya.com/img/author.png) |
+| kuldip | darshan |
+|---|---|
+|![kuldippipaliya](http://kuldippipaliya.com/img/author.png) | ![darshanlakhatariya](https://lh6.googleusercontent.com/-ZcmnrBNq-8E/AAAAAAAAAAI/AAAAAAAAAEM/RV3cfMasqXs/photo.jpg) |
 
 Tell us who you are, why you did you decide to join?
 ======

@@ -1,0 +1,18 @@
+{
+  "teamName": "epsilonpi",
+  "members": [
+    {
+      "name": "Bhargav Krishna",
+      "twitter": "ybbkrishna",
+      "koding": "ybbkrishna",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "David Oliveros",
+      "twitter": "DavidOliveros",
+      "koding": "doliveros",
+      "location": "San Mateo, US",
+      "lead": true
+    }
+  ]
+}

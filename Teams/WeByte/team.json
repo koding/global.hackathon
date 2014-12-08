@@ -1,0 +1,36 @@
+{
+"teamName": "We Byte",
+"members": [
+{
+"name": "Karim Ahmed",
+"twitter": "K_arimAhmed",
+"koding": "parabelle",
+"location": "Cairo, EG",
+"lead": true
+},
+{
+"name": "Abdulaziz Alaa",
+"twitter": "AbdulazizAlaa",
+"koding": "abdulazizalaa",
+"location": "Cairo, EG"
+},
+{
+"name": "Ali Salem",
+"twitter": "Gripppp",
+"koding": "grip",
+"location": "Cairo, EG"
+},
+{
+"name": "Omar Essam",
+"twitter": "Omarito2412",
+"koding": "omarito",
+"location": "Cairo, EG"
+},
+{
+"name": "Ahmed ALaa",
+"twitter": "ahmedalaamohamd",
+"koding": "ahmedalaa3307023",
+"location": "Cairo, EG"
+}
+]
+}

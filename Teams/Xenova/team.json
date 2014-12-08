@@ -1,0 +1,38 @@
+{
+  "teamName": "Xenova",
+  "members": [
+    {
+      "name": "Nyein Minn Oo",
+      "twitter": "nyein_minn",
+      "koding": "nyeinminoo",
+      "location": "Singapore, SG"
+    },
+    {
+      "name": "Kyaw Zin Win",
+      "twitter": "kyawzinwin747",
+      "koding": "kyawzinwin",
+      "location": "Singapore, SG",
+      "lead": true
+    },
+    {
+      "name": "Kyaw Myint Thein",
+      "twitter": "kyawmyintthein3",
+      "koding": "kyawmyintthein",
+      "location": "Singapore, SG"
+    },
+    {
+      "name": "Ye Min Htut",
+      "twitter": "yeminhtut87",
+      "koding": "yehtut",
+      "location": "Singapore, SG"
+    },
+    {
+      "name": "Win Sandy Myint",
+      "twitter": "winsandymyint",
+      "koding": "winsandymyint",
+      "location": "Singapore, SG"
+    }
+  ]
+}
+
+

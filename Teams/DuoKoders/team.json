@@ -1,0 +1,18 @@
+{
+  "teamName": "DuoKoders",
+  "members": [
+    {
+      "name": "Sraddhanjali Acharya",
+      "twitter": "tilaprimera",
+      "koding": "tilaprimera",	
+      "location": "Lalitpur, NP"
+    },
+    {
+      "name": "Ruraj Joshi",
+      "twitter": "ruraj",
+      "koding": "ruraj",
+      "location": "Lalitpur, NP",
+      "lead" : true
+    }
+  ]
+}

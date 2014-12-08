@@ -1,0 +1,24 @@
+{
+  "teamName": "Team SponzorMe",
+  "members": [
+    {
+      "name": "Carlos Rojas",
+      "twitter": "carlosrojas_o",
+      "koding": "carlosrojaso",
+      "location": "Berkeley, US",
+      "lead":true
+    },
+    {
+      "name": "David Silva",
+      "twitter": "dvidsilva",
+      "koding": "dvidsilva",
+      "location": "Berkeley, US"
+    },
+    {
+      "name": "Sebastian Gomez",
+      "twitter": "sebasagar",
+      "koding": "seagomezar",
+      "location": "Medellin, CO"
+    }
+  ]
+}

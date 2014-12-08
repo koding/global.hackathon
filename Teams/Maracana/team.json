@@ -1,0 +1,12 @@
+{
+  "teamName": "Team Maracanã",
+  "members": [
+    {
+      "name": "Leonardo Alkmim",
+      "twitter": "lpalkmim",
+      "koding": "lalkmim",
+      "location": "Rio de Janeiro, BR",
+      "lead": true
+    }
+  ]
+}

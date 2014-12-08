@@ -1,0 +1,12 @@
+{
+  "teamName": "000000",
+  "members": [
+    {
+      "name": "Joe Colburn",
+      "twitter": "joetech",
+      "koding": "joetech",
+      "location": "Detroit, US",
+      "lead": true
+    }
+  ]
+}

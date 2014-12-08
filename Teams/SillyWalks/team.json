@@ -1,0 +1,24 @@
+{
+    "teamName": "SillyWalks",
+    "members": [
+        {
+            "name": "Matt Lebrun",
+            "twitter": "cr8ivecodesmith",
+            "koding": "cr8ivecodesmith",
+            "location": "Las Pinas, PH",
+            "lead": true
+        },
+        {
+            "name": "Micaela Reyes",
+            "twitter": "codemickeycode",
+            "koding": "codemickeycode",
+            "location": "Makati, PH"
+        },
+        {
+            "name": "Ray Dino",
+            "twitter": "theraydino",
+            "koding": "raydino",
+            "location": "Las Pinas, PH"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "teamName": "AMK",
+    "members": [
+        {
+            "name": "Mohamed Kamal Kamaly",
+            "twitter": "mohamedkomalo",
+            "koding": "mohamedkomalo",
+            "location": "Giza, EG",
+            "lead": true
+        },
+        {
+            "name": "Aya Mohiy El-Deen",
+            "twitter": "ayah_mohiy",
+            "koding": "ayahmohiy",
+            "location": "Giza, EG"
+        }
+    ]
+}

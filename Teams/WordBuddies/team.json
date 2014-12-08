@@ -1,0 +1,21 @@
+{
+    "teamName": "Word Buddies",
+    "members": [
+        {
+            "name": "Begül Tunç",
+            "twitter": "begultunc",
+            "koding": "begultunc",
+            "location": "San Francisco, CA"
+        }, {
+            "name": "Cihan Şahin",
+            "twitter": "icsahin",
+            "koding": "cihans",
+            "location": "Berkley, CA"
+        }, {
+            "name": "Volkan Özçelik",
+            "twitter": "linkibol",
+            "koding": "v0lk4n",
+            "location": "Palo Alto, CA"
+        }
+    ]
+}

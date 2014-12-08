@@ -1,0 +1,13 @@
+{
+  "teamName" : "Hexapus",
+  "members"  : 
+  [
+	    {
+	      "name"	 : "Nikolay Kushin",
+	      "twitter"	 : "zikolach",
+	      "koding"	 : "zikolach",
+	      "location" : "Vienna, AT",
+	      "lead"	 : true
+	    }
+	]
+}

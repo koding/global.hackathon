@@ -1,0 +1,26 @@
+{
+    "teamName": "JHackers",
+    "members": [
+        {
+            "name": "Srinivas Miriyala",
+            "koding": "srinivas2828",
+            "location": "IN"
+        },
+        {
+            "name": "AkshatSingh",
+            "koding": "log2akshat",
+            "location": "IN",
+            "lead": true
+        },
+        {
+            "name": "KumaranSB",
+            "koding": "javagiri",
+            "location": "IN"
+        },
+        {
+            "name": "AditiBhatt",
+            "koding": "aditibhatt18",
+            "location": "IN"
+        }
+    ]
+}

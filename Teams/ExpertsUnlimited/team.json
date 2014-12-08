@@ -1,0 +1,30 @@
+{
+  "teamName": "Experts Unlimited",
+  "members": [
+    {
+      "name": "Ananay Arora",
+      "twitter": "ananayarora_com",
+      "koding": "ananay",
+      "location": "New Delhi, IN",
+      "lead": true
+    },
+    {
+      "name": "Abhishek Anand",
+      "twitter": "abhichamp97",
+      "koding": "abhishek97",
+      "location": "New Delhi, IN"
+    },
+    {
+      "name": "Akshay Gupta",
+      "twitter": "wizardgupta",
+      "koding": "akshaykgupta",
+      "location": "New Delhi, IN"
+    },
+    {
+      "name": "Rohan Dhar",
+      "twitter": "rohanoffi",
+      "koding": "rohanoffi",
+      "location": "New Delhi, IN"
+    }
+  ]
+}

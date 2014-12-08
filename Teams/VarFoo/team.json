@@ -1,0 +1,18 @@
+{
+"teamName": "VarFoo",
+"members": [
+{
+"name": " Kauress",
+"twitter": "kauress",
+"koding": "kauress",
+"location": "Toronto, CA",
+"lead": true
+},
+{
+"name": "Kevin Madhu",
+"twitter": "kevin_madhu",
+"koding": "kevinmadhu",
+"location": "Kerala, IN"
+}
+]
+}

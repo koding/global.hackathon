@@ -1,0 +1,10 @@
+{
+    "teamName": "LaraSasha",
+    "members": [{
+        "name": "Sasha Karpin",
+        "twitter": "sasya8080",
+        "koding": "sasya8080",
+        "location": "Novosibirsk, RU",
+	"lead": true
+    }]
+}

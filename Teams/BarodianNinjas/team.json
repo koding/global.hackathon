@@ -1,0 +1,37 @@
+{
+  "teamName": "BarodianNinjas",
+  "members": [
+    {
+      "name": "Anand Thakkar",
+      "twitter": "anthakkar08",
+      "koding": "anthakkar08",
+      "location": "Baroda, IN",
+      "lead": true
+    },
+    {
+      "name": "Dharmik Solanki",
+      "twitter": "DHARMIKRAJPUT",
+      "koding": "dharmiksolanki",
+      "location": "Baroda, IN"
+    },
+    {
+      "name": "Supriya Sharma",
+      "twitter": "sssharmasupriya",
+      "koding": "supriyasharma",
+      "location": "Baroda, IN"
+      
+    },
+    {
+      "name": "Shilpi Vyas",
+      "twitter": "shilpivyas7",
+      "koding": "shilpivyas",
+      "location": "Baroda, IN"
+    },
+    {
+      "name": "Himal Thakkar",
+      "twitter": "himal_27",
+      "koding": "himal",
+      "location": "Baroda, IN"
+    }
+  ]
+}

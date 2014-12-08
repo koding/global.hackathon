@@ -15,16 +15,22 @@
       "lead": true
     },
     {
-      "name": "Fan Zhang",
-      "twitter": "fanwashere",
-      "koding": "fanwashere",
-      "location": "Ottawa, CA"
+      "name": "Takuya Miyamoto",
+      "twitter": "tmiyamon",
+      "koding": "tmiyamon",
+      "location": "Tokyo, JP"
     },
     {
       "name": "Tommy Jung",
       "twitter": "TommmYeee",
       "koding": "younghj",
       "location": "Toronto, CA"
+    },
+    {
+      "name": "Nam Nguyen",
+      "twitter": "eneim_",
+      "koding": "eneim",
+      "location": "Tokyo, JP"
     }
   ]
 }

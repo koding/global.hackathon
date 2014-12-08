@@ -1,0 +1,38 @@
+{
+  "teamName": "Naigra",
+  "members": [
+    {
+      "name": "Jawadh Salih Rifath",
+      "twitter": "jawadhme",
+      "koding": "jawadhsalihrifath",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Safwan Mohammed",
+      "twitter": "",
+      "koding": "safwanmoha",
+      "location": "Colombo, LK",
+      "lead": true
+
+    },
+    {
+      "name": "Mohamed Mursith",
+      "twitter": "mnifras",
+      "koding": "mnifras",
+      "location": "Colombo, LK"
+      
+    },
+    {
+      "name": "Riyafa Abdul Hameed",
+      "twitter": "riyafa1",
+      "koding": "riyafa0",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Amanda Jayanetti",
+      "twitter": "amandajayanetti",
+      "koding": "amandajayanetti",
+      "location": "Colombo, LK"
+    }
+  ]
+}

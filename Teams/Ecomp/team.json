@@ -1,0 +1,36 @@
+{
+  "teamName": "Ecomp",
+  "members": [
+    {
+      "name": "Alan Peterson Carvalho Silva",
+      "twitter": "DemonKart",
+      "koding": "demonkart",
+      "location": "Curitiba, BR",
+      "lead": true
+    },
+    {
+      "name": "Thiago Henrique Bizzotto",
+      "twitter": "",
+      "koding": "thiago2062",
+      "location": "Curitiba, BR"
+    },
+    {
+      "name": "Luiz Felipe Abrão Reis",
+      "twitter": "Luiz__Reis",
+      "koding": "luizreis",
+      "location": "Curitiba, BR"
+    },
+    {
+      "name": "Maurício Meneghini Fauth",
+      "twitter": "mauriciofauth",
+      "koding": "mauriciofauth",
+      "location": "Curitiba, BR"
+    },
+    {
+      "name": "Dalmon Ian Martins de Oliveira",
+      "twitter": "",
+      "koding": "dalmonian",
+      "location": "Curitiba, BR"
+    }
+  ]
+}

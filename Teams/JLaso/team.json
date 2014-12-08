@@ -1,0 +1,13 @@
+{
+  "teamName" : "JLaso",
+  "members"  : 
+  [
+	    {
+	      "name"	 : "Patrick JL Laso",
+	      "twitter"	 : "jl_laso",
+	      "koding"	 : "jlaso",
+	      "location" : "Valencia, SP",
+	      "lead"	 : true
+	    }
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"teamName": "MRI",
+	"members": [
+		{
+			"name": "Loqman Hakimi",
+			"twitter": "iloqman",
+			"koding": "loqman",
+			"location": "Tehran, IR",
+			"lead": true
+		}
+	]
+}

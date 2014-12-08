@@ -1,0 +1,18 @@
+{
+  "teamName": "Ocelot Dev",
+  "members": [
+    {
+      "name": "William Young",
+      "twitter": "ocelotdev",
+      "koding": "greencat5",
+      "location": "Cleburne, US",
+      "lead": true
+    },
+    {
+      "name": "Peter Lewis",
+      "twitter": "Werl2",
+      "koding": "werl",
+      "location": "Wetaskiwin, CA"
+    }
+  ]
+}

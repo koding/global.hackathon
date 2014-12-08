@@ -1,0 +1,24 @@
+{
+  "teamName": "Piplos Media",
+  "members": [
+    {
+      "name": "Raman Marozau",
+      "twitter": "morozowro",
+      "koding": "morozow",
+      "location": "Minsk, BY"
+    },
+    {
+      "name": "Dmitry Shurco",
+      "twitter": "shnuroc",
+      "koding": "piplosmedia",
+      "location": "Minsk, BY",
+      "lead": true
+    },
+    {
+      "name": "Eugene Danilenko",
+      "twitter": "e_danilenko",
+      "koding": "eugenedan",
+      "location": "Minsk, BY"
+    }
+  ]
+}

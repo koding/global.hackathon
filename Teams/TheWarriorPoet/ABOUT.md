@@ -1,16 +1,15 @@
 About The Warrior Poet
 ===========================
-Tell us who you are, why you did you decide to join?
+My name is Andrew, aged 29 from Wollongong, NSW, Australia.
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+My journey into game development has been a long one, starting in my young teens with a desire to get into Game Programming. Despite this strong desire, several life choices took me on different paths, including buying my own printing business and running that for over seven years. 
 
+Despite that path, my desire to get into game development remained strong. I started attending university to do a Bachelor of IT/Science double degree, with a software development and mathematics focus. This has eventually led to the desire to specialise in game programming.
+
+In the past few months, I have pulled back from my business in order to focus on game programming and development. Enrolling in an Advanced Diploma, this stage of my life is all about game programming and game development.
 
 About your skills and what you are going to do?
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+Seeing the invitation to the Global Hackathon, I made the decision to join for the purpose of testing and expanding my game development skills. Working alone, I'll be setting out to tackle the theme of using a game to teach software development to a beginner.
 
-You can change your mind, that's ok. Just push an update here when you do.
-
+I'll be exploring using the Unity3D Game Engine, with it's Unity Web Player to host it on the Koding VM. 

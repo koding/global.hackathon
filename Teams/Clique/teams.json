@@ -1,0 +1,17 @@
+{
+  "teamName": "Clique",
+  "members": [
+    {
+      "name": "Suresh Babu Sajja",
+      "twitter": "@sureshsajja",
+      "koding": "sureshsajja",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Naga Malleswarrao Ila",
+      "twitter": "@Eshwar_Chinna",
+      "koding": "eshwarchinna",
+      "location": "Hyderabad, IN"
+    }
+  ]
+}

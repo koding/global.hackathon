@@ -1,0 +1,33 @@
+{
+  "teamName": "VanarS",
+  "members": [
+    {
+      "name": "Vikash Kumar",
+      "koding": "vikash009",
+      "location": "Pune, IN"
+    },
+    {
+      "name": "Seetendra Sengar",
+      "koding": "seetsing",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Ravi Magardey",
+      "twitter": "RaviMagardey",
+      "koding": "rmagardey",
+      "location": "Hyderabad, IN",
+      "lead": true
+    },
+    {
+      "name": "Ankit Shah",
+      "koding": "ankit26shah",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Abhilash Sahu",
+      "twitter": "abhilash1912",
+      "koding": "abhilash1912",
+      "location": "Pune, IN"
+    }
+  ]
+}

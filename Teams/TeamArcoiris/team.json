@@ -1,0 +1,18 @@
+{
+  "teamName": "Team Arcoiris",
+  "members": [
+    {
+      "name": "Indraneel Potnis",
+      "twitter": "Indraneelpotnis",
+      "koding": "endrohat",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Amey Kshirsagar",
+      "twitter": "ameyhk",
+      "koding": "ameyhk",
+      "location": "Pune, IN",
+      "lead": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+"teamName": "TeamGideons",
+"members": [
+{
+"name": "Ajith Samuel",
+"twitter": "ajithmettu",
+"koding": "ajithsamuel",
+"location": "Hyderabad, IN",
+"lead": true
+},
+{
+"name": "Bryan Chan",
+"facebook": "shinn.kokhoong",
+"koding": "shinning91",
+"location": "Kaulalampur, MY"
+},
+{
+"name": "Sailendra Mangranti",
+"koding": "sail3ndra",
+"location": "India"
+}
+]
+}

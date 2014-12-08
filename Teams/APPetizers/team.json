@@ -1,0 +1,24 @@
+{
+  "teamName": "APPetizers",
+  "members": [
+    {
+      "name": "Shawn Shaw",
+      "twitter": "TheShawesomes",
+      "koding": "shawful",
+      "location": "Austin, US",
+      "lead": true
+    },
+    {
+      "name": "Revanth Anireddy",
+      "twitter": "revanthreddy",
+      "koding": "revanthreddy",
+      "location": "Austin, US"
+    },
+    {
+      "name": "Milan Raj",
+      "twitter": "rajsite",
+      "koding": "rajsite",
+      "location": "Austin, US"
+    }
+  ]
+}

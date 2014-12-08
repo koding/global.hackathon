@@ -1,0 +1,24 @@
+{
+  "teamName": "Xuaps",
+  "members": [
+    {
+      "name": "David Vílchez",
+      "twitter": "dvilchez",
+      "koding": "dvilchez",
+      "location": "Vilagarcía de Arousa, ES"
+    },
+    {
+      "name": "Alvaro Verdión",
+      "twitter": "averdion",
+      "koding": "averdion",
+      "location": "Málaga, ES"
+    },
+    {
+      "name": "Eduardo J. Álvarez",
+      "twitter": "eanovoa",
+      "koding": "eanovoa",
+      "location": "Vigo, ES",
+      "lead": true
+    }
+  ]
+}

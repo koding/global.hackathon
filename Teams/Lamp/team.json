@@ -1,0 +1,29 @@
+{
+  "teamName": "Lamp",
+  "members": [
+    {
+      "name": "Egor Malykh",
+      "twitter": "dev_fnk",
+      "koding": "devhead",
+      "location": "Saint Petersburg, RU"
+    },
+    {
+      "name": "Ildus Kuchkarov",
+      "twitter": "DrBlockhead",
+      "koding": "kodark",
+      "location": "Saint Petersburg, RU"
+    },
+    {
+      "name": "Danil Kazakov",
+      "twitter": "daka-makaka",
+      "koding": "xaphoon",
+      "location": "Saint Petersburg, RU"
+    },
+    {
+      "name": "Max Tishuk",
+      "twitter": "aubojlut1",
+      "koding": "iboltit",
+      "location": "Saint Petersburg, RU"
+    }
+  ]
+}

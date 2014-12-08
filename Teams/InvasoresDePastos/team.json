@@ -1,0 +1,23 @@
+{
+  "teamName": "Invasores De Pastos",
+  "members": [
+    {
+      "name": "Miguel Perez",
+      "twitter": "eme",
+      "koding": "eme1980",
+      "location": "Cordoba, ES"
+    },
+    {
+      "name": "Jose Manuel Ferrete",
+      "twitter": "jmferrete",
+      "koding": "ferrete1989",
+      "location": "Dos Hermanas, ES"
+    },
+    {
+      "name": "Jose Ant. Aranda",
+      "twitter": "jaarandaz",
+      "koding": "selex",
+      "location": "Quesada, ES",
+      "lead": true
+    }]
+}

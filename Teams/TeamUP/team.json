@@ -1,0 +1,17 @@
+{
+  "teamName": "TeamUP",
+  "members": [
+    {
+      "name": "Vlad Vanca",
+      "twitter": "vladvanca",
+      "koding": "vladucu",
+      "location": "Bucharest, RO"
+    },
+    {
+      "name": "Mihaela Lazar",
+      "twitter": "mihaellalazar",
+      "koding": "mihaelalazar",
+      "location": "Bucharest, RO"
+    }
+  ]
+}

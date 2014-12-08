@@ -1,0 +1,36 @@
+{
+    "teamName": "Razrs",
+    "members": [
+        {
+            "name": "Benjamin Cheng",
+            "twitter": "lolzballs",
+            "koding": "lolzballs",
+            "location": "Richmond Hill, CA"
+        },
+        {
+            "name": "Olawale Onabola",
+            "twitter": "ToBeAdded",
+            "koding": "walexi4great",
+            "location": "Ife, NG"
+        },
+        {
+            "name": "Alessandro Madruga",
+            "twitter": "ToBeAdded",
+            "koding": "amcorreia",
+            "location": "Caxias do Sul, BR"
+        },
+        {
+            "name": "Makanju Perfect",
+            "twitter": "ToBeAdded",
+            "koding": "perfectmak",
+            "location": "Ife, NG"
+        },
+        {
+            "name": "Oyewale Ademola",
+            "twitter": "ToBeAdded",
+            "koding": "saopayne",
+            "location": "Ife, NG"
+        }
+
+    ]
+}

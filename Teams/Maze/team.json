@@ -1,0 +1,18 @@
+{
+  "teamName": "Maze",
+  "members": [
+    {
+      "name": "Emad Al-Shihabi",
+      "twitter": "emadshi",
+      "koding": "3emad",
+      "location": "Toronto, CA",
+      "lead": true
+    },
+    {
+      "name": "Myrddin Emrys",
+      "twitter": "myrddine",
+      "koding": "myrddine",
+      "location": "Winscoson, US"
+    }
+  ]
+}

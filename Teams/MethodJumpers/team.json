@@ -1,0 +1,18 @@
+{
+  "teamName": "Method Jumpers",
+  "members": [
+    {
+      "name": "Precious Jahlom Agbaodo",
+      "twitter": "jahlomp",
+      "koding": "jahlomp",
+      "location": "Accra, GH",
+      "lead": true
+    },
+    {
+      "name": "Jeffrey Godwyll",
+      "twitter": "rey12rey",
+      "koding": "jeffgodwyll",
+      "location": "Ghana, GH"
+    }
+  ]
+}

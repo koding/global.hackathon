@@ -1,0 +1,12 @@
+{
+    "teamName": "B17",
+    "members": [
+	{
+	    "name": "Dmitry Udod",
+	    "twitter": "testTw1tter",
+	    "koding": "reedwalter24",
+	    "location": "Cherkassy, Ukraine",
+	    "lead": true
+	}
+    ]
+}

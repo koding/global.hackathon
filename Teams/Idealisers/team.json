@@ -1,0 +1,37 @@
+{
+  "teamName": "Idealisers",
+  "members": [
+    {
+      "name": "Dick Janssen",
+      "twitter": "aiviator",
+      "koding": "Aiviator",
+      "location": "Eindhoven,NL",
+	  "lead": true
+    },
+    {
+      "name": "Harris Sunyoto",
+      "twitter": "",
+      "koding": "hsun",
+      "location": "Eindhoven,NL"
+    },
+    {
+      "name": "Richard van Erven",
+      "twitter": "",
+      "koding": "lepracon",
+      "location": "Eindhoven,NL"
+      
+    },
+    {
+      "name": "Tania Kozymyrska",
+      "twitter": "",
+      "koding": "taniaster",
+      "location": "Eindhoven,NL"
+    },
+    {
+      "name": "Petya Peneva",
+      "twitter": "",
+      "koding": "p123",
+      "location": "Eindhoven,NL"
+    }
+  ]
+  }

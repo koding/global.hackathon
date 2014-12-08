@@ -2,6 +2,7 @@
 # # Gulpfile
 #
 path    = require 'path'
+glob    = require 'glob'
 gulp    = require 'gulp'
 concat  = require 'gulp-concat'
 tap     = require 'gulp-tap'
@@ -35,7 +36,10 @@ tap_json = (file, t) ->
 
 # Format a member object into a link
 format_member = (member) ->
-  "[#{member?.name}](https://koding.com/#{member?.koding})"
+  if member.koding?
+    "[#{member?.name}](https://koding.com/#{member?.koding})"
+  else
+    member?.name
 
 
 
@@ -43,6 +47,14 @@ format_member = (member) ->
 # appended to the readme
 format_json = (data, filepath) ->
   teamPathName = path.basename path.dirname filepath
+
+  # We're ignoring multiple matches, since we only want to
+  # load the first one
+  aboutName = glob.sync("./Teams/#{teamPathName}/about.md", nocase: true)[0]
+  # If we cannot find an about file, match any md file
+  aboutName = glob.sync("./Teams/#{teamPathName}/*.md")[0] if not aboutName?
+  # Not get just the path from it.
+  aboutName = path.basename aboutName if aboutName?
 
   # Get the lead, ahead of time.
   teamLead = null
@@ -79,9 +91,10 @@ format_json = (data, filepath) ->
   output += " |"
 
   # Third column, TeamPage
-  if data.teamName? then teamName = data.teamName
-  else teamName = teamPathName
-  output += " [#{teamName}](./Teams/#{teamPathName}/ABOUT.md) |"
+  if aboutName?
+    if data.teamName? then teamName = data.teamName
+    else teamName = teamPathName
+    output += " [#{teamName}](./Teams/#{teamPathName}/#{aboutName}) |"
 
   # Add a newline to end this row.
   output += '\n'

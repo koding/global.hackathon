@@ -1,0 +1,24 @@
+{
+    "teamName": "CodeTiburon",
+    "members": [
+        {
+            "name": "Stanislav Termosa",
+            "twitter": "termosa_stas",
+            "koding": "termosa",
+            "location": "Kharkiv, UA"
+        },
+        {
+            "name": "Konstantin Pogrebnoy",
+            "twitter": "koscoder",
+            "koding": "koscoder",
+            "location": "Kharkiv, UA"
+        },
+        {
+            "name": "Vadim Ilyasov",
+            "twitter": "",
+            "koding": "vadimct",
+            "location": "Kharkiv, UA",
+            "lead": true
+        }
+    ]
+}

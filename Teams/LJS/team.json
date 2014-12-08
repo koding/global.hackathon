@@ -1,0 +1,30 @@
+{
+  "teamName": "Team LJS",
+  "members": [
+    {
+      "name": "Nigel Edwards",
+      "twitter": "robotmayo",
+      "koding": "robotmayo",
+      "location": "New York, NY",
+      "lead": true
+    },
+    {
+      "name": "Dane Grant",
+      "twitter": "danecando",
+      "koding": "danecando",
+      "location": "Ft Lauderdale, FL"
+    },
+    {
+      "name": "Olivier Palta",
+      "twitter": "",
+      "koding": "olivierrr",
+      "location": "Portland, OR"
+    },
+    {
+      "name": "Randy Brown",
+      "twitter": "beingbrown2",
+      "koding": "beingbrown",
+      "location": "Texas, US"
+    }
+  ]
+}

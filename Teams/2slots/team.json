@@ -1,0 +1,27 @@
+{
+  "teamName": "2slots",
+  "members": [
+    
+    {
+      "name": "Praveen Tissera",
+      "twitter": "praveenti1",
+      "koding": "praveentissera2013",
+      "location": "Colombo, SL",
+      "lead": true
+    },
+    
+    {
+      "name": "Saranga Ranaweera",
+      "twitter": "sarangaR",
+      "koding": "sarangaranaweera",
+      "location": "Colombo, SL"
+    },
+    {
+      "name": "Surangi Tissera",
+      "twitter": "creationsofsu",
+      "koding": "tsurangi",
+      "location": "Colombo, SL"
+    }
+    
+  ]
+}

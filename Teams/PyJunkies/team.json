@@ -1,0 +1,17 @@
+{
+  "teamName": "PyJunkies",
+  "members": [
+    {
+      "name": "Michal Racek",
+      "twitter": "krablak",
+      "koding": "krablak",
+      "location": "Hradec Kralove, CZ",
+      "lead": true
+    },{
+      "name": "Radek Hofman",
+      "twitter": "PapaBenedikto",
+      "koding": "jezis",
+      "location": "Vienna, AT"
+    }
+  ]
+}

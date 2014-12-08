@@ -1,0 +1,30 @@
+{  
+   "teamName":"Kuali",
+   "members":[  
+      {  
+         "name":"Rodrigo Reyes",
+         "twitter":"scrooge_mc_pato",
+         "koding":"kouryuu",
+         "location":"Mexico City, MX",
+         "lead":true
+      },
+      {  
+         "name":"Shawon",
+         "twitter":"",
+         "koding":"itsmeshawon",
+         "location":"Dhaka, BD"
+      },
+      {  
+         "name":"Andrew Breksa",
+         "twitter":"",
+         "koding":"abreksa4",
+         "location":"California, US"
+      },
+      {  
+         "name":"Rommel Esparcia",
+         "twitter":"wiredots",
+         "koding":"wiredots",
+         "location":"Cebu, PH"
+      }
+   ]
+}

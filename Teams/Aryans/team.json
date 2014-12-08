@@ -1,0 +1,24 @@
+{
+  "teamName": "Aryans",
+  "members": [
+    {
+      "name": "Deep Shah",
+      "twitter": "@shahdeep1989",
+      "koding": "shahdeep1989",
+      "location": "Ahmedabad, IN",
+      "lead": true
+    },
+    {
+      "name": "Pinak Thakkar",
+      "twitter": "@pinak_thakkat",
+      "koding": "pinak0605",
+      "location": "Ahmedabad, IN"
+    },
+    {
+      "name": "Shreya Jhala",
+      "twitter": "@shreya_jhala",
+      "koding": "shreyajhala",
+      "location": "Ahmedabad, IN"
+    }
+  ]
+}

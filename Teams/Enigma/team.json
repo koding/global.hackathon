@@ -1,0 +1,24 @@
+{
+  "teamName": "Enigma",
+  "members": [
+    {
+      "name": "Rahul Bhanushali",
+      "twitter": "157rahul",
+      "koding": "rahulmb",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Jeet Parikh",
+      "twitter": "jeetv2",
+      "koding": "jerryroxx",
+      "location": "Mumbai, IN"
+    },
+    {
+      "name": "Dheeraj Suthar",
+      "twitter": "geekforgrace",
+      "koding": "dheersuthar",
+      "location": "Mumbai, IN",
+      "lead": true
+    }
+  ]
+}

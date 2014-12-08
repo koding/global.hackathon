@@ -1,0 +1,36 @@
+{
+  "teamName": "27AE60",
+  "members": [
+    {
+      "name": "Suyash Katiyar",
+      "twitter": "techyatri",
+      "koding": "skatiyar",
+      "location": "Bangalore, IN",
+      "lead": true
+    },
+    {
+      "name": "Jaison Justus",
+      "twitter": "jaisonjustus",
+      "koding": "jaisonjustus",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Rabi Shah",
+      "twitter": "rabi_shah",
+      "koding": "ghome",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Rakesh Kumar Shah",
+      "twitter": "ktmrakesh",
+      "koding": "ktmrakesh",
+      "location": "Bangalore, IN"
+    },
+    {
+      "name": "Sajan Panchariya",
+      "twitter": "sajanpanchariya",
+      "koding": "sajanpanchariya",
+      "location": "Bangalore, IN"
+    }
+  ]
+}

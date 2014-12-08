@@ -1,0 +1,11 @@
+{
+  "teamName": "Team Morocco",
+  "members": [
+    {
+      "name": "Rida Benhammane",
+      "koding": "rbenhammane",
+      "location": "Casablanca, MA",
+      "lead": true
+    }
+  ]
+}

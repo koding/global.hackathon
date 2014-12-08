@@ -25,7 +25,16 @@ Please support us and share your experiences/money with us on our [team page](ht
 
 `James` is an algorithms expert and is top 50 on the USACO rankings in 2014. James actually [invented the subordinate-sequential search algorithm](https://koding.com/jlennon1) with the help of fellow Koders. James has also created several published games, including [Nebulus](https://itunes.apple.com/app/nebulous-multiplayer-space/id874328065?mt=8) and [Driftlight](https://itunes.apple.com/us/app/driftlight/id908131148?mt=8).
 
-`Jake` is an esteemed hacker who often goes by the name of '4chan'. He's apparently very infamous. You better not go and tell CNN his real name!
+`Jake` is an esteemed hacker who often goes by the name of '4chan'. He's apparently very infamouss, but you better not tell [CNN](https://www.youtube.com/watch?v=kRcdmbC0HHs)!
+
+
+## Hugo, our team leader
+
+`Hugo` is the true team leader; he is the project planner and the whip-cracker. Responsibilities also include checking our browser history and stepping on the slaves's keyboards. 
+![Hugo](https://s3.amazonaws.com/pushbullet-uploads/ujwnPp82dTE-WaqOGVSjMvgUB9HIIG8IOqvFDM3syZCN/IMG_20141206_215947.jpg "Inspecting browser history") 
+
+Please click enjoy the above picture and think about how cute this he is. Think about how he could look into your eyes and convinve you to do anything. Let him convince you. Take his advice. Join #TheWashingtonRedskins.   
+
 
 ## What we're making
 
@@ -33,7 +42,7 @@ It's quite possible that we are inventing the most revolutionary product ever ma
 
 Expect us on Kickstarter [2] soon [3]!
 
-[1]: It's not in _Steve Jobs_ by Walter Isaacson, but it's still possible [4] that he did say it <br>
+[1]: It's not in *Steve Jobs* by Walter Isaacson, but it's still possible [4] that he did say it <br>
 [2]: See "Go Fund Yourself"'s above link <br>
 [3]: See [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time) or [never](http://lmgtfy.com/?q=define+never) or [soon (tm)](http://www.urbandictionary.com/define.php?term=soon%20%28tm%29) <br>
 [4]: Literally and totally impossible

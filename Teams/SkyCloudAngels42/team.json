@@ -1,0 +1,27 @@
+{
+  "teamName": "SkyCloud Angels 42",
+  "members": [
+    {
+      "name": "Bruno Interlandi",
+      "twitter": "@binterlandi88",
+      "koding": "brunointerlandi88",
+      "location": "Caserta, IT",
+      "lead": true
+    },
+    {
+      "name": "Dmytro Plekhotkin",
+      "koding": "plekhotkindmytro",
+      "location": "Lviv, UA"
+    },
+    {
+      "name": "Kujitim Rahmani",
+      "koding": "kujta1",
+      "location": "Munich, DE"
+    },
+    {
+      "name": "Simion Zafiu",
+      "koding": "simi27",
+      "location": "Copenaghen, DK"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "teamName": "Team Black Magic",
+  "members": [
+    {
+      "name": "Jom Jose",
+      "twitter": "jomjoseblog",
+      "koding": "jomjose",
+      "location": "Kochi, IN",
+      "lead": true
+    }
+  ]
+}

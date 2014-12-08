@@ -1,0 +1,30 @@
+{
+  "teamName": "Sudo",
+  "members": [
+    {
+      "name": "Richard Melo",
+      "twitter": "allucardster",
+      "koding": "allucardster",
+      "location": "Cali, CO",
+      "lead": true
+    },
+    {
+      "name": "Victor Gonzales",
+      "twitter": "vichugof",
+      "koding": "vichugof",
+      "location": "Cali, CO"
+    },
+    {
+      "name": "Ricardo Valencia",
+      "twitter": "rcrd_chtrr_pnk ",
+      "koding": "ravm",
+      "location": "Cali, CO"
+    },
+    {
+      "name": "Jhon Cardona",
+      "twitter": "jhonjcm2",
+      "koding": "jjcarmu",
+      "location": "Cali, CO"
+    }
+  ]
+}

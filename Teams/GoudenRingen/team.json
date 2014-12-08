@@ -1,0 +1,30 @@
+{
+  "teamName": "GoudenRingen",
+  "members": [
+    {
+      "name": "Andy Primawan",
+      "twitter": "andypmw",
+      "koding": "andyprimawan",
+      "location": "Cimahi, ID",
+      "lead": true
+    },
+    {
+      "name": "Fatoni",
+      "twitter": "emfatoni",
+      "koding": "emfatoni",
+      "location": "Pemalang, ID"
+    },
+    {
+      "name": "Raosan",
+      "twitter": "raosanFL",
+      "koding": "hajiraosan",
+      "location": "Bandung, ID"
+    },
+    {
+      "name": "Kurniawan",
+      "twitter": "adhikurni",
+      "koding": "adhikurni",
+      "location": "Cimahi, ID"
+    }
+  ]
+}

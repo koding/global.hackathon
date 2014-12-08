@@ -1,0 +1,24 @@
+{
+"teamName": "0xDEADBEEF",
+"members": [
+{
+"name": "Mustafa Aldemir",
+"twitter": "mstfldmr",
+"koding": "mstfldmr",
+"location": "Istanbul, TR",
+"lead": true
+},
+{
+"name": "Behzat Erte",
+"twitter": "behzaterte",
+"koding": "berte",
+"location": "Istanbul, TR"
+},
+{
+"name": "Firat Sagun",
+"twitter": "fsagun",
+"koding": "fsagun",
+"location": "Istanbul, TR"
+}
+]
+}

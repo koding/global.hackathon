@@ -1,0 +1,24 @@
+{
+  "teamName": "Hatzors",
+  "members": [
+    {
+      "name": "Eden S.-G.",
+      "twitter": "Eden_SG",
+      "koding": "edensg",
+      "location": "Ontario, CA",
+      "lead": true
+    },
+    {
+      "name": "Michael Barker",
+      "twitter": "TheMacMini09",
+      "koding": "themacmini09",
+      "location": "Ontario, CA"
+    },
+    {
+      "name": "Taj Dyson",
+      "twitter": "",
+      "koding": "sadtrombone",
+      "location": "Quebec, CA"
+    }
+  ]
+}

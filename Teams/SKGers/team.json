@@ -1,0 +1,30 @@
+{
+  "teamName": "SKGers",
+  "members": [
+    {
+      "name": "Kostas Bariotis",
+      "twitter": "kbariotis",
+      "koding": "stakisko",
+      "location": "Thessaloniki, GR",
+      "lead": true
+    },
+    {
+      "name": "Thanasis Polichronakis",
+      "twitter": "thanpolas",
+      "koding": "thanpolas",
+      "location": "Thessaloniki, GR"
+    },
+    {
+      "name": "Theodore Keloglou",
+      "twitter": "sirodoht",
+      "koding": "sirodoht",
+      "location": "Thessaloniki, GR"
+    },
+    {
+      "name": "Aristotelis Dossas",
+      "twitter": "teldosas",
+      "koding": "telis93",
+      "location": "Thessaloniki, GR"
+    }
+  ]
+}

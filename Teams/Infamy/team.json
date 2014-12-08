@@ -1,0 +1,24 @@
+{
+  "teamName": "Infamy",
+  "members": [
+    {
+      "name": "Jason Hughes",
+      "twitter": "JasonHughesSr",
+      "koding": "VonMises",
+      "location": "Dallas, US",
+      "lead": true
+    },
+    {
+      "name": "Brandon McCartney",
+      "twitter": "",
+      "koding": "autt",
+      "location": "Dallas, US"
+    },
+    {
+      "name": "Jeffery Beard",
+      "twitter": "",
+      "koding": "jbeard88",
+      "location": "Dallas, US"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "teamName": "prince",
+  "members": [
+    {
+      "name": "Samantha Christoff",
+      "twitter": "FinalPhoenix",
+      "koding": "FinalPhoenix",
+      "location": "Phoenix, US",
+      "lead": true
+      },
+    {
+      "name": "Billy Janssen",
+      "twitter": "janspants11",
+      "koding": "dufootball11",
+      "location": "Phoenix, US"
+    },
+    {
+      "name": "Sloane Smith",
+      "twitter": "S10Dimensional",
+      "koding": "sloane@lucidagency.com",
+      "location": "Phoenix, US"
+    },
+    {
+      "name": "Lauren Jordan",
+      "koding": "laurjor",
+      "location": "Phoenix, US"
+    }
+  ]
+}

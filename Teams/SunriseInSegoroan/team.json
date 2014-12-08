@@ -1,0 +1,36 @@
+{
+  "teamName": "SunriseInSegoroan",
+  "members": [
+    {
+      "name": "Ivan Ignatiev",
+      "twitter": "ivan_ignatiev",
+      "koding": "ignatiev",
+      "location": "Paris, FR",
+      "lead": true
+    },
+    {
+      "name": "Ivan Lypko",
+      "twitter": "",
+      "koding": "scrimers",
+      "location": "Sevastopol, RU"
+    },
+    {
+      "name": "Roman Levkevich",
+      "twitter": "",
+      "koding": "meiho",
+      "location": "Sevastopol, RU"
+    },
+    {
+      "name": "Yegor Jumikov",
+      "twitter": "yegorf1",
+      "koding": "yegorf1",
+      "location": "Sevastopol, RU"
+    },
+    {
+      "name": "Serafim Urukov",
+      "twitter": "Serafimka74",
+      "koding": "serafim",
+      "location": "Sevastopol, RU"
+    }
+  ]
+}

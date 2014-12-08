@@ -1,0 +1,24 @@
+{
+  "teamName": "Heterotopias",
+  "members": [
+    {
+      "name": "Kyritsis Georgios",
+      "twitter": "inamoto21",
+      "koding": "georgioskyritsis",
+      "location": "Athens, GR"
+    },
+    {
+      "name": "Paraskevas Spyridon",
+      "twitter": "PepFriday",
+      "koding": "spirosparaskevas",
+      "location": "Athens, GR"
+    },
+    {
+      "name": "Peslis Pantelis",
+      "twitter": "pespantelis",
+      "koding": "pespantelis",
+      "location": "Volos, GR",
+      "lead": true
+    }
+  ]
+}

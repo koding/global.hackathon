@@ -1,0 +1,21 @@
+{
+  "teamName": "Echoes",
+  "members": [
+    {
+      "name": "Martin Samsa",
+      "koding": "msamsa",
+      "location": "Rotterdam, NL"
+    },
+    {
+      "name": "Marin Troselj",
+      "koding": "mtroselj",
+      "location": "Rijeka, HR"
+    },
+    {
+      "name": "Fran Hrzenjak",
+      "koding": "frnhr",
+      "location": "Zagreb, HR",
+      "lead": true
+    }
+  ]
+}

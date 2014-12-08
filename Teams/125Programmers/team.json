@@ -1,0 +1,17 @@
+{
+  "teamName": "125Programmers",
+  "members": [
+    {
+      "name": "Camilo Gonzalez",
+      "twitter": "camilo_g86",
+      "koding": "camilo86",
+      "location": "Boston, US"
+    },
+    {
+      "name": "Jorge Garcia",
+      "twitter": "jorge_AGZ",
+      "koding": "jorge0510",
+      "location": "Boston, US"
+    }
+  ]
+}

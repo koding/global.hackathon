@@ -1,0 +1,18 @@
+{
+  "teamName": "jakobhans + morgan",
+  "members": [
+    {
+      "name": "Jakob Renpening",
+      "twitter": "jakobhans",
+      "koding": "jakobhans",
+      "location": "Guadalajara, MX",
+      "lead": true
+    },
+    {
+      "name": "Andrea Sanchez",
+      "twitter": "faith_k_a",
+      "koding": "wmorgan",
+      "location": "Guadalajara, MX"
+    }
+  ]
+}

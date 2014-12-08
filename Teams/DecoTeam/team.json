@@ -1,0 +1,36 @@
+{
+  "teamName": "Deco Team",
+  "members": [
+    {
+      "name": "Alexey Fedorov",
+      "twitter": "olexiyfedorov",
+      "koding": "decollete",
+      "location": "Kiev, UA",
+      "lead": true
+    },
+    {
+      "name": "Serj Bielanovskyi",
+      "twitter": "sprightlydev",
+      "koding": "sprightly",
+      "location": "Kiev, UA"
+    },
+    {
+      "name": "Dima Romanenko",
+      "twitter": "dimaromanenko",
+      "koding": "atomdev",
+      "location": "Kiev, UA"
+    },
+    {
+      "name": "Vova Shevchenko",
+      "twitter": "jah_howtomake",
+      "koding": "kill",
+      "location": "Kiev, UA"
+    },
+    {
+      "name": "Dima Sinkevich",
+      "twitter": "sinkevich_d",
+      "koding": "compot",
+      "location": "Kiev, UA"
+    }
+  ]
+}

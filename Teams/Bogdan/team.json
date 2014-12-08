@@ -1,0 +1,12 @@
+{
+  "teamName": "Team Bogdan",
+  "members": [
+    {
+      "name": "Bogdan Gersak",
+      "twitter": "gersakbogdan",
+      "koding": "gersakbogdan",
+      "location": "Bucharest, RO",
+      "lead" : true
+    }
+  ]
+}

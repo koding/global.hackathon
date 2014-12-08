@@ -1,0 +1,12 @@
+{
+  "teamName": "Jani",
+  "members": [
+    {
+      "name":     "Irakli Janiashvili",
+      "twitter":  "iJaniashvili",
+      "koding":   "irakli",
+      "location": "Tbilisi, GE",
+      "lead":     true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+"teamName": "Thinker",
+"members": [
+{
+"name": "Indra Winata",
+"twitter": "indr4_winata",
+"koding": "indr4winata",
+"location": "Jakarta, ID",
+"lead": true
+},
+{
+"name": "Martono",
+"twitter": "voltz_pro",
+"koding": "voltz",
+"location": "Jakarta, ID"
+},
+{
+"name": "Jeffrey",
+"twitter": "pieceofsky",
+"koding": "jeffreywijaya",
+"location": "Jakarta, ID"
+},
+{
+"name": "Thomas Rico",
+"twitter": "_thom_ass_",
+"koding": "thomasrico",
+"location": "Bekasi, ID"
+}
+]
+}

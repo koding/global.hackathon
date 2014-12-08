@@ -1,0 +1,27 @@
+{
+    "teamName": "Toronto Elite Coders",
+    "members": [
+        {
+            "name": "Peter Stakoun",
+            "twitter": "pstakoun",
+            "koding": "pstakoun",
+            "location": "Toronto, CA",
+            "lead": true
+        },
+        {
+            "name": "Adam Strom",
+            "koding": "AStrom0724",
+            "location": "Toronto, CA"
+        },
+        {
+            "name": "Kevin Shen",
+            "koding": "kshen3778",
+            "location": "Toronto, CA"
+        },
+        {
+            "name": "Kayton Yan",
+            "koding": "Sceyef",
+            "location": "Toronto, CA"
+        }
+    ]
+}

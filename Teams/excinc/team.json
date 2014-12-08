@@ -1,0 +1,18 @@
+{
+    "teamName": "Exc Inc",
+    "members": [
+        {
+            "name": "Cade Gillum",
+            "twitter": "cpgsquared",
+            "koding": "cpgsquared",
+            "location": "Kalamazoo, US"
+        },
+        {
+            "name": "Torrin Cook",
+            "twitter": "TorrinCook",
+            "koding": "blindrunner",
+            "location": "Kalamazoo, US",
+            "lead": true
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+"teamName": "KarmaOverflow",
+"members": [
+{
+"name": "Jigar Joshi",
+"twitter": "JigarMJoshi",
+"koding": "jigarjm",
+"location": "San Francisco, US",
+"lead": true
+},
+{
+"name": "Nirmal Pathak",
+"twitter": "nirmalpathak",
+"koding": "cybertinku",
+"location": "Sunnyvale, US"
+},
+{
+"name": "Darshan Joshi",
+"twitter": "JoshiDarshan",
+"koding": "darshanjoshi",
+"location": "Rajkot, IN"
+},
+{
+"name": "Samyak Bhutta",
+"twitter": "samyak_bhuta",
+"koding": "samyakbhuta",
+"location": "Baroda, IN"
+}
+]
+}

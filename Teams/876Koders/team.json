@@ -1,0 +1,18 @@
+{
+  "teamName": "876Koders",
+  "members": [
+    {
+      "name": "Tremaine Buchanan",
+      "twitter": "tremainekb",
+      "koding": "tremainekbuchanan",
+      "location": "Kingston, JA",
+      "lead": "true"
+    },
+    {
+      "name": "Tywayne Buchanan",
+      "twitter": "@stinkmeaner2010",
+      "koding": "tremainekbuchanan",
+      "location": "Kingston, JA"
+    }
+  ]
+}

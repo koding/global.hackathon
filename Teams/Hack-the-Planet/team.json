@@ -1,0 +1,36 @@
+{
+  "teamName": "Hack the Planet",
+  "members": [
+    {
+      "name": "Charlie Sinclair",
+      "twitter": "",
+      "koding": "saintclair",
+      "location": "Charlotte, US",
+      "lead": true
+    },
+    {
+      "name": "Simon Girma",
+      "twitter": "",
+      "koding": "tempuser2724",
+      "location": "Charlotte, US"
+    },
+    {
+      "name": "Markcus Wallace",
+      "twitter": "",
+      "koding": "Stealth21",
+      "location": "Raleigh, US"
+    },
+    {
+      "name": "Daniel Godfrey",
+      "twitter": "",
+      "koding": "Dgfree",
+      "location": "Charlotte, US"
+    },
+    {
+      "name": "Chris Wesley",
+      "twitter": "",
+      "koding": "cwesley8",
+      "location": "Charlotte, US"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "teamName": "Shack",
+  "members": [
+    {
+      "name": "Archie Makuwa",
+      "twitter": "aatsol",
+      "koding": "Archie22is",
+      "location": "Cape Town, ZAR"
+    },
+    {
+      "name": "Nikhil Sapkota",
+      "twitter": "nikhilsapkota",
+      "koding": "nikhilsapkota",
+      "location": "Kathmandu, NPL",
+      "lead": true
+    },
+    {
+      "name": "Sim Ismail",
+      "twitter": "sim4life",
+      "koding": "sim4life",
+      "location": "Birmingham, UK"
+    },
+    {
+      "name": "Tyler",
+      "twitter": "squ34k3rz",
+      "koding": "squ34k3rz",
+      "location": "Green Bay, US"
+    }
+  ]
+}

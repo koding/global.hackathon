@@ -1,0 +1,24 @@
+{
+  "teamName": "Triple J",
+  "members": [
+  {
+      "name": "Jørgen Juel",
+      "github": "JorgenJuel",
+      "koding": "jcpluss",
+      "location": "Drammen, NO"
+    },
+    {
+      "name": "James Lacey",
+      "twitter": "sinanyasar",
+      "koding": "",
+      "location": "Colorado, US",
+      "lead": true
+    },
+    {
+      "name": "Jacob S.",
+      "twitter": "devrimyasar",
+      "koding": "jacob1237",
+      "location": "Voronezh, RU"
+    }
+  ]
+}

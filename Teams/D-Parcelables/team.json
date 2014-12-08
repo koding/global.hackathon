@@ -1,0 +1,24 @@
+{
+  "teamName": "D'Parcelables",
+  "members": [
+    {
+      "name": "Nemmar Ramos",
+      "twitter": "nmrrms",
+      "koding": "nemmarramos",
+      "location": "Quezon City, PH",
+      "lead": true
+    },
+    {
+      "name": "Ullen Faustino",
+      "twitter": "ufaustino10",
+      "koding": "ullenfaustino",
+      "location": "Quezon City, PH"
+    },
+    {
+      "name": "Mark Francis Esplana",
+      "twitter": "markesplana",
+      "koding": "mesplana",
+      "location": "Valenzuela City, PH"
+    }
+  ]
+}

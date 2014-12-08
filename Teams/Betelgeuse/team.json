@@ -1,0 +1,24 @@
+{
+  "teamName": "Betelgeuse",
+  "members": [
+    {
+      "name": "Vadim Oleynik",
+      "twitter": "VadimWelldone",
+      "koding": "vadimwelldone",
+      "location": "Dnipropetrovsk, UA",
+      "lead": true
+    },
+    {
+      "name": "Andriy Khristyan",
+      "twitter": "LIONJA_KOLBASA",
+      "koding": "root1991",
+      "location": "Dnipropetrovsk, UA"
+    },
+    {
+      "name": "Pavel Apisov",
+      "twitter": "apisov_music",
+      "koding": "apisov",
+      "location": "Dnipropetrovsk, UA"
+    }
+  ]
+}

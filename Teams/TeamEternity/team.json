@@ -1,0 +1,30 @@
+{
+ "teamName": "Team Eternity",
+ "members": [
+   {
+     "name": "Bijay Luitel",
+     "twitter": "luitelbj",
+     "koding": "luitelbj",
+     "location": "Kathmandu, NP",
+     "lead": true
+   },
+   {
+     "name": "Prajwal Shrestha",
+     "twitter": "pstha",
+     "koding": "prajwalstha",
+     "location": "Kathmandu, NP"
+   },
+   {
+     "name": "Yogesh Shrestha",
+     "twitter": "pstha",
+     "koding": "yogesh_shrestha",
+     "location": "Kathmandu, NP"
+   },
+   {
+     "name": "Nirmal Thapa",
+     "twitter": "nirmal_nt",
+     "koding": "nirmalz",
+     "location": "Kathmandu, NP"
+   }
+ ]
+}

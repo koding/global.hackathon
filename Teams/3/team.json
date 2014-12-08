@@ -1,0 +1,23 @@
+{
+  "teamName": "3",
+  "members": [
+    {
+      "name": "Alexandru Bondor",
+      "twitter": "AlexBondor",
+      "koding": "alexbondor",
+      "location": "Cluj-Napoca, RO",
+      "lead": true
+    },
+    {
+      "name": "Mihai Hanga",
+      "koding": "terente",
+      "location": "Ocna Mureș, RO"
+    },
+    {
+      "name": "Adrian Rus",
+      "twitter": "AdrrrianR",
+      "koding": "adrrrian",
+      "location": "Cluj-Napoca, RO"
+    }
+  ]
+}

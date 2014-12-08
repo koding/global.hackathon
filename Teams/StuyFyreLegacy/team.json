@@ -1,0 +1,36 @@
+{
+  "teamName": "StuyFyreLegacy",
+  "members": [
+    {
+      "name": "Ethan Cheng",
+      "twitter": "",
+      "koding": "elc1798",
+      "location": "New York, US",
+      "lead": true
+    },
+    {
+      "name": "Yicheng Wang",
+      "twitter": "",
+      "koding": "yeechwyc",
+      "location": "New York, US"
+    },
+    {
+      "name": "Ruojia Sun",
+      "twitter": "",
+      "koding": "sunruojia",
+      "location": "New York, US"
+    },
+    {
+      "name": "Jesse Elliot",
+      "twitter": "",
+      "koding": "Jelliott37",
+      "location": "New York, US"
+    },
+    {
+      "name": "Nobel Gautam",
+      "twitter": "",
+      "koding": "plisno",
+      "location": "New York, US"
+    }
+  ]
+}

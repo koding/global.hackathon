@@ -1,0 +1,18 @@
+{
+  "teamName": "Team Shaktiman",
+  "members": [
+    {
+      "name": "Nitesh Oswal",
+      "twitter": "mynameis_no",
+      "koding": "niteshoswal",
+      "location": "Uttarakhand, IN",
+      "lead": true
+    },
+    {
+      "name": "Rohit Choudhary",
+      "twitter": "rohitxym",
+      "koding": "rohitchoudhary",
+      "location": "Uttarakhand, IN"
+    }
+  ]
+}

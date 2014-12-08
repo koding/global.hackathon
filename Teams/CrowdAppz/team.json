@@ -1,0 +1,24 @@
+{
+  "teamName": "CrowdAppz",
+  "members": [
+    {
+      "name": "Benjamin Räthlein",
+      "twitter": "B3nRa",
+      "koding": "b3nra",
+      "location": "Karlsruhe, DE",
+      "lead": true
+    },
+    {
+      "name": "Henning Muszynski",
+      "twitter": "henningmus",
+      "koding": "henningmu",
+      "location": "Karlsruhe, DE"
+    },
+    {
+      "name": "Lukas Masuch",
+      "twitter": "lukasmasuch",
+      "koding": "lukasmasuch",
+      "location": "Karlsruhe, DE"
+    }
+  ]
+}

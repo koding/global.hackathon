@@ -1,0 +1,16 @@
+{
+  "teamName":"nodea",
+  "members":[
+    {
+      "name": "Tejas Manohar",
+      "koding": "tejas-manohar",
+      "location": "Nashville, US",
+      "lead":true
+    },
+    {
+      "name":"Ian Macalinao",
+      "koding":"simplyianm",
+      "location": "Dallas, US"
+    }
+  ]
+}

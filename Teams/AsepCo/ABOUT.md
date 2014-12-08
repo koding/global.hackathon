@@ -1,14 +1,17 @@
-AsepCo
-================
-We are located in South Jakarta, Indonesia.
+#AsepCo
 
-About your team
-===========================
-We are a couple of husband and wife, and have big passion in technology.
+<p align="center">
+  <img src="https://dl.dropboxusercontent.com/u/3196067/avatar-koding.jpg" alt="Asep and Retno" />
+</p>
 
-About your skills and what you are going to do?
-=======
-1. Asep Bagja Priandana is a full stack developer. I love writing code in Clojure, PHP, and Objective C.
-2. Retno Ika Safitri is a great UI and UX designer. She loves making gorgeous design.
+We are a husband and a wife who have big passion in technology. We live in South Jakarta, Indonesia. In Koding.com global hackathon event, we will doing "legal document" theme, because making people want to read legal document in a website is the most challenging problem for us.   
 
-We are interested to work on #1 or #3 theme.
+##[Asep Bagja Priandana](http://id.linkedin.com/in/asepbagja)
+
+He is a full stack developer who loves writing code in Clojure, PHP, Javascript, and Objective C.
+
+##[Retno Ika Safitri](http://id.linkedin.com/in/alcatrazia)
+
+She is a great UI and UX designer, also writing html and css code.
+
+__Let's code with love <3__

@@ -1,0 +1,30 @@
+{
+  "teamName": "Just Dev It",
+  "members": [
+    {
+      "name": "David Ragsdale",
+      "twitter": "@ragzdale",
+      "koding": "djragsdale",
+      "location": "Indianapolis, US",
+      "lead": true
+    },
+    {
+      "name": "Alex Hester",
+      "twitter": "",
+      "koding": "amhester",
+      "location": "Indianapolis, US"
+    },
+    {
+      "name": "Scott Colegrove",
+      "twitter": "@beefmaestro",
+      "koding": "beefmaestro",
+      "location": "Indianapolis, US"
+    },
+    {
+      "name": "Neal Hamilton",
+      "twitter": "",
+      "koding": "nealhamilton",
+      "location": "Indianapolis, US"
+    }
+  ]
+}

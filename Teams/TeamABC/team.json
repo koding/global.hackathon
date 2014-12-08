@@ -1,0 +1,24 @@
+{
+  "teamName": "TeamABC",
+  "members": [
+    {
+      "name": "Alvin Ong Xing Jui",
+      "twitter": "xing_jui",
+      "koding": "xingjui",
+      "location": "Kuala Lumpur, MY",
+      "lead": true
+    },
+    {
+      "name": "Lim Jit Yang",
+      "twitter": "zcythe_lim",
+      "koding": "zcythe",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Leong Yok Tien",
+      "twitter": "wasabitien",
+      "koding": "whyteaz",
+      "location": "Kuala Lumpur, MY"
+    }
+  ]
+}

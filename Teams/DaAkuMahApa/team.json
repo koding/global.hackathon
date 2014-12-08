@@ -1,0 +1,18 @@
+{
+  "teamName": "DaAkuMahApa",
+  "members": [
+    {
+      "name": "Dhi Aurrahman",
+      "twitter": "diorahman",
+      "koding": "diorahman",
+      "location": "Bandung, ID",
+      "lead": true
+    },
+    {
+      "name": "Irfan A Nurhakim",
+      "twitter": "irfannurhakim",
+      "koding": "irfannurhakim",
+      "location": "Bandung, ID"
+    }
+  ]
+}

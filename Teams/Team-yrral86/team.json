@@ -1,0 +1,24 @@
+{
+"teamName": "Team yrral86",
+"members": [
+{
+"name": "Larry Reaves",
+"twitter": "",
+"koding": "yrral86",
+"location": "Frostburg, MD",
+"lead": true
+},
+{
+"name": "Ben Plunkert",
+"twitter": "",
+"koding": "",
+"location": "San Francsico, US"
+},
+{
+"name": "Bill Ferguson",
+"twitter": "",
+"koding": "wpferguson",
+"location": "Glen Easton, WV"
+}
+]
+}

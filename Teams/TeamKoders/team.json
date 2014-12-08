@@ -4,7 +4,7 @@
     {
       "name": "Full Name",
       "twitter": "twitter acct no @",
-      "koding": "koding username",
+      "koding": "koding username (required)",
       "location": "city, 2 digit country code"
     },
     {

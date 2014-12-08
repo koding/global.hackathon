@@ -1,0 +1,17 @@
+{
+  "teamName": "AllAboutThatBass",
+  "members": [
+    {
+      "name": "Francis Rohner",
+      "twitter": "FrankDaTank815",
+      "koding": "francisrohner",
+      "location": "New York, US",
+      "lead": true
+    },
+    {
+      "name": "Michael Knoth",
+      "koding": "knoth77",
+      "location": "New York, US"
+    }
+  ]
+}

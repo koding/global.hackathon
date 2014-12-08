@@ -1,0 +1,26 @@
+{
+    "teamName": "AnadoluBK",
+    "members": [
+	{
+	    "name": "Yusuf Çakmak",
+	    "twitter": "yukocan",
+	    "koding": "yukocan",
+	    "location": "Eskisehir, TR",
+	    "lead": true
+	},
+	{
+	    "name": "Oğuzhan Uzman",
+	    "twitter": "oguzhanuzm",
+	    "koding": "ouzman",
+	    "location": "Eskisehir, TR"
+	   
+	},
+	{
+	    "name": "Ali Baran Bayar",
+	    "twitter": "abbayar",
+	    "koding": "abbayarr",
+	    "location": "Eskisehir, TR"
+	    
+	}
+    ]
+}

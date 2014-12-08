@@ -1,0 +1,18 @@
+{
+    "teamName": "Team Flex",
+    "members": [
+        {
+            "name": "Joshua Wood",
+            "twitter": "SK83RJOSH",
+            "koding": "SK83RJOSH",
+            "location": "Gettysburg, US",
+            "lead": true
+        },
+        {
+            "name": "Brandon Teller",
+            "twitter": "brandonteller",
+            "koding": "brteller",
+            "location": "York, US"
+        }
+    ]
+}

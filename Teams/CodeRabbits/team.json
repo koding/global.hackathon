@@ -1,0 +1,30 @@
+{
+  "teamName": "CodeRabbits",
+  "members": [
+    {
+    "name": "Deepak Singh",
+    "twitter": "spider_gears",
+    "koding": "spidergears",
+    "location": "Pune, IN",
+    "lead": true
+   },
+   {
+   "name": "Jiren Patel",
+   "twitter": "__jiren",
+   "koding": "jiren",
+   "location": "Pune, IN"
+   },
+   {
+   "name": "Sachin Kamble",
+   "twitter": "clistesoft",
+   "koding": "sinan",
+   "location": "Pune, IN"
+   },
+   {
+   "name": "Siva Gollapalli",
+   "twitter": "sivagollapalli",
+   "koding": "sivagollapalli",
+   "location": "Pune, IN"
+  }
+  ]
+}

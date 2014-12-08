@@ -1,0 +1,30 @@
+{
+	"teamName" : "open IT",
+	"members"  :[{
+		"name" : "Will You",
+		"twitter" : "mrjumpyyy",
+		"koding" : "willyou",
+		"location" : "Taipei, TW"
+	}, {
+		"name" : "Ivan Wu",
+		"twitter" : "invictusegg",
+		"koding" : "invictusivan",
+		"location" : "Taipei, TW"
+	}, {
+		"name" : "EdwardKung",
+		"twitter" : "edwardsstep9",
+		"koding" : "edwardsstep9",
+		"location" : "Taipei, TW",
+		"lead" : true
+	}, {
+		"name" : "Joe Chou",
+		"twitter" : "dontpkme",
+		"koding" : "dontpkme993",
+		"location" : "Taipei, TW"
+	}, {
+		"name" : "Chia-Hung, Chu",
+		"twitter" : "apig1026",
+		"koding" : "apig1026",
+		"location" : "Taipei, TW"
+	}]
+}

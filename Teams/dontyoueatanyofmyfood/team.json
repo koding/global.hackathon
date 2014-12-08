@@ -1,0 +1,24 @@
+{
+  "teamName": "dontyoueatanyofmyfood",
+  "members": [
+    {
+      "name": "Marc Seibert",
+      "twitter": "dyeaomf",
+      "koding": "oncommand",
+      "location": "Frankfurt am Main, DE",
+      "leader": true
+    },
+    {
+      "name": "Christian Lemcke",
+      "twitter": "chriseeey",
+      "koding": "chriseey",
+      "location": "Frankfurt am Main, DE"
+    },
+    {
+      "name": "Marvin Burk",
+      "twitter": "ClexLoL",
+      "koding": "clex",
+      "location": "Frankfurt am Main, DE"
+    }
+  ]
+}

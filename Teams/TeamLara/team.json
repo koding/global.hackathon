@@ -1,0 +1,24 @@
+{
+    "teamName": "teamLara",
+    "members": [
+        {
+            "name": "Robert Scholts",
+            "twitter": "mijnnaamrobert",
+            "koding": "0147500",
+            "location": "Nijmegen, NL",
+            "lead": true
+        },
+        {
+            "name": "Andrius Bartulis",
+            "koding": "andriusbartulis",
+            "twitter": "andriusbartulis",
+            "location": "Bristol, UK"
+        },
+        {
+            "name": "Adam Anh Doan Kim Caramés",
+            "twitter": "DkcAdam",
+            "koding": "kandus",
+            "location": "Spain, ES"
+        }
+    ]
+}

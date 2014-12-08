@@ -1,0 +1,24 @@
+{
+"teamName": "TOKI",
+"members": [
+{
+"name": "Ertan Kantarcioglu",
+"twitter": "ert_an",
+"koding": "ertank",
+"location": "Ankara, TR",
+"lead": true
+},
+{
+"name": "Damla Ozgen",
+"twitter": "ozgendml",
+"koding": "damlaozgen",
+"location": "Ankara, TR"
+},
+{
+"name": "Mustafa Ilker Sarac",
+"twitter": "milkers",
+"koding": "milkers",
+"location": "Ankara, TR"
+}
+]
+}

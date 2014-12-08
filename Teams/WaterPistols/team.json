@@ -1,0 +1,30 @@
+{
+  "teamName": "WaterPistols",
+  "members": [
+    {
+      "name": "Andrei Demian",
+      "twitter": "unDemian",
+      "koding": "undemian",
+      "location": "Timisoara, RO",
+      "lead": true
+    },
+    {
+      "name": "Andrei Laza",
+      "twitter": "AndreiLaza1",
+      "koding": "andreilaza",
+      "location": "Timisoara, RO"
+    },
+    {
+      "name": "Bogdan Negrescu",
+      "twitter": "BNegrescu",
+      "koding": "depeshutz",
+      "location": "Timisoara, RO"
+    },
+    {
+      "name": "Claudiu Filip",
+      "twitter": "claudiuthefilip",
+      "koding": "claudiuthefilip",
+      "location": "Timisoara, RO"
+    }
+  ]
+}

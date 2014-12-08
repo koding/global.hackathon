@@ -1,0 +1,28 @@
+{
+  "teamName": "Insomnia",
+    "members": [
+      {
+        "name": "Arvin Joseff Tan",
+        "koding": "pytan",
+        "location": "Naga City, PH"
+      },
+      {
+        "name": "Roman Redkovich",
+        "twitter": "rredkovich",
+        "koding": "rredkovich",
+        "location": "Moscow, RU",
+        "lead": true
+      },
+      {
+        "name": "Petra Stručić",
+        "koding": "petrar2d2",
+        "location": "Križevci, CRO"
+      },
+      {
+        "name": "Fakhrizal Leksa",
+        "twitter": "leksa",
+        "koding": "leksa",
+        "location": "Bandung, ID"
+      }
+    ]
+}

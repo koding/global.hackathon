@@ -1,0 +1,30 @@
+{
+  "teamName": "Team Banana Stand",
+  "members": [
+    {
+      "name": "Manu Zope",
+      "twitter": "manuzope",
+      "koding": "manuzope",
+      "location": "Toronto, CA"
+    },
+    {
+      "name": "Peony Gerochi",
+      "twitter": "pgerochi",
+      "koding": "pgerochi",
+      "location": "Toronto, CA"
+    },
+    {
+      "name": "Jason Van",
+      "twitter": "vanjason91",
+      "koding": "jasonvan",
+      "location": "Toronto, CA"
+    },
+    {
+      "name": "Travis Nischuk",
+      "twitter": "trakout",
+      "koding": "trakout",
+      "location": "Toronto, CA",
+      "lead": true
+    }
+  ]
+}

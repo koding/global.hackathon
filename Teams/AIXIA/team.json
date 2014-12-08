@@ -1,0 +1,24 @@
+{
+  "teamName": "AIXIA",
+  "members": [
+    {
+      "name": "Rongzhao Li",
+      "twitter": "Apt1tude",
+      "koding": "Apt1tude",
+      "location": "Waterloo, CA",
+      "lead": true
+    },
+    {
+      "name": "Andrew Ilyas",
+      "location": "Waterloo, CA"
+    },
+    {
+      "name": "Benjamin Caldwell",
+      "location": "Waterloo, CA"
+    },
+    {
+      "name": "Charles Zinn",
+      "location": "Waterloo, CA"
+    }
+  ]
+}

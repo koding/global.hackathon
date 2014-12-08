@@ -1,0 +1,35 @@
+{
+  "teamName": "8000plz",
+  "members": [
+    {
+      "name": "Bon Jovi Gemanil",
+      "twitter": "bgemanil",
+      "koding": "bgemanil",
+      "location": "Makati, PH"
+    },
+    {
+      "name": "Monica Cristine Soliman",
+      "twitter": "monicasoliman",
+      "koding": "monicasoliman",
+      "location": "Makati, PH"
+    },
+    {
+      "name": "Louizzel Nichole Ogalesco",
+      "twitter": "louizzel",
+      "koding": "louizzel",
+      "location": "Makati, PH"
+    },
+    {
+      "name": "Jeru Gasendo",
+      "twitter": "jerb0x",
+      "koding": "jerb0x",
+      "location": "Makati, PH"
+    },    {
+      "name": "Dexter Brylle Matos",
+      "twitter": "dexterbrylle",
+      "koding": "dexterbryllematos",
+      "location": "Makati, PH",
+      "lead": true
+    }
+  ]
+}

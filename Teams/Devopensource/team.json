@@ -1,0 +1,24 @@
+{
+  "teamName": "Devopensource",
+  "members": [
+    {
+      "name": "Oliver Montes",
+      "twitter": "devopensource",
+      "koding": "devopensource",
+      "location": "Alicante, ES"
+    },
+    {
+      "name": "Marc Bernabeu",
+      "twitter": "Marc_Bernabeu",
+      "koding": "marcbernabeu",
+      "location": "Alicante, ES",
+      "lead": true
+    },
+    {
+      "name": "Adrian Olcina",
+      "twitter": "adoles92",
+      "koding": "adoles",
+      "location": "Alicante, ES"
+    }
+  ]
+}

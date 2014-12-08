@@ -1,0 +1,35 @@
+{
+  "teamName": "BitsPlease",
+  "members": [
+    {
+      "name": "Puyuan Deng",
+      "twitter": "paulliwali",
+      "koding": "paulliwali",
+      "location": "Vancouver, BC"
+    },
+    {
+      "name": "Brian Phan",
+      "twitter": "b_phantastik",
+      "koding": "phantastik",
+      "location": "Toronto, ON"
+    },
+    {
+      "name": "Benjamin Wang",
+      "twitter": "",
+      "koding": "benwang",
+      "location": "Vancouver, BC"
+    },
+    {
+      "name": "Amelia Ly",
+      "twitter": "",
+      "koding": "lyamelia",
+      "location": "Regina, SK"
+    },
+    {
+      "name": "Matt Pua",
+      "twitter": "mattpua",
+      "koding": "mattpua",
+      "location": "Toronto, ON"
+    }
+  ]
+}

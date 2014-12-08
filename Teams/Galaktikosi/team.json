@@ -1,0 +1,36 @@
+{
+  "teamName": "Galaktikosi",
+  "members": [
+    {
+      "name": "Sumejja Porca",
+      "twitter": "Sumejja93",
+      "koding": "sumejja",
+      "location": "Sarajevo, BA", 
+      "lead": true
+    },
+    {
+      "name": "Elma Gazetic",
+      "twitter": "galaktikosi_14",
+      "koding": "memi",
+      "location": "Sarajevo, BA"
+    },
+    {
+      "name": "Vildan Tursic",
+      "twitter": "VildanTursic",
+      "koding": "vildantursic93",
+      "location": "Sarajevo, BA"
+    },
+    {
+      "name": "Ahmed Duheric",
+      "twitter": "ahmedduheric",
+      "koding": "ahmedduheric",
+      "location": "Sarajevo, BA"
+    },
+    {
+      "name": "Luka Pejovic",
+      "twitter": "DirektorMilan",
+      "koding": "Luka454",
+      "location": "Sarajevo, BA"
+    }
+  ]
+}

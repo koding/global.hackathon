@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- STYLESHEETS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" >
+    <link rel="stylesheet" href="css/chat.css">
+
+    <title>Firebase Cloud Chat</title>
+  </head>
+
+  <body>
+    <div class="example-chat l-demo-container">
+      <img class="example-chat-logo" src="images/cloud-chat-logo.png" />
+
+      <header>
+        <!-- APP TITLE -->
+        <div class="example-chat-toolbar">
+          <h2>Cloud Chat App</h2>
+        </div>
+
+        <!-- NAME FIELD -->
+        <div class='example-chat-username-field'>
+          <div class="example-chat-avatar"><i class="fa fa-bolt"></i></div>
+          <input type='text' id='username' placeholder='Enter your name...'>
+        </div>
+      </header>
+
+      <!-- EMPTY MESSAGE LIST -->
+      <ul id='messages' class="example-chat-messages"></ul>
+
+      <!-- MESSAGE INPUT FIELD -->
+      <footer>
+        <i class="fa fa-comment-o icon-chat"></i>
+        <input type='text' id='new-message'  placeholder='Type a message...'>
+      </footer>
+    </div>
+
+
+    <!-- FIREBASE, JQUERY -->
+    <script src="https://cdn.firebase.com/js/client/2.0.2/firebase.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+
+    <!-- CHAT.JS FILE -->
+    <script src="js/chat.js"></script>
+  </body>
+</html>

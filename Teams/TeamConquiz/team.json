@@ -1,0 +1,24 @@
+{
+  "teamName": "Team Conquiz",
+  "members": [
+    {
+      "name": "Stoica Vlad",
+      "twitter": "vladstoick",
+      "koding": "vladstoick",
+      "location": "Bucharest, RO"
+    },
+    {
+      "name": "Stoica Alexandru",
+      "twitter": "alexstoick",
+      "koding": "alexstoick",
+      "location": "Lodon, UK"
+    },
+    {
+      "name": "Clapa Alexandru",
+      "twitter": "alexclp",
+      "koding": "alexclp",
+      "location": "Bucharest, RO",
+      "lead": true
+    }
+  ]
+}

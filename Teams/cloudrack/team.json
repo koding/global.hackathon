@@ -1,0 +1,17 @@
+{
+    "teamName": "cloudrack",
+    "members": [
+        {
+            "name": "Piotr Zduniak",
+            "twitter": "pzduniak",
+            "koding": "pzduniak",
+            "location": "Lodz, PL"
+        },
+        {
+            "name": "Qais Patankar",
+            "twitter": "qaisjp",
+            "koding": "qaisjp",
+            "location": "Heckmondwike, GB"
+        }
+    ]
+}

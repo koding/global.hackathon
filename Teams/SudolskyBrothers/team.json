@@ -1,0 +1,18 @@
+{
+	"teamName": "Sudolsky Brothers",
+	"members": [
+		{
+			"name": "Martin Sudolsky",
+			"twitter": "MartinSudolsky",
+			"koding": "martinsuly",
+			"location": "Banska Bystrica, SK",
+			"lead": true
+		},
+		{
+			"name": "Michal Sudolsky",
+			"twitter": "sudolskym",
+			"koding": "sudolskym",
+			"location": "Banska Bystrica, SK"
+		}
+	]
+}
