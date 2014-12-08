@@ -11,7 +11,7 @@ Team
 |--- |--- |---
 |Full-stack Ruby on Rails developer |Backend Ruby on Rails developer |Team guard and inspirer
 |--- |--- |---
-|![Ivan](http://www.metalinjection.net/wp-content/uploads/2014/08/Giraffe-Tongue-Orchestra.jpg =250x)|![Denis](https://avatars0.githubusercontent.com/u/1174594?v=3&s=400 =250x)|![Hummel](https://pp.vk.me/c624026/v624026293/c51f/R7fH1hyndE0.jpg =250x)
+|![Ivan](http://www.metalinjection.net/wp-content/uploads/2014/08/Giraffe-Tongue-Orchestra.jpg =250x) |![Denis](https://avatars0.githubusercontent.com/u/1174594?v=3&s=400 =250x) |![Hummel](https://pp.vk.me/c624026/v624026293/c51f/R7fH1hyndE0.jpg =250x)
 About us
 ===========================
 
