@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+<html>
+	<meta charset="utf-8">
+	<title>Save the Forests</title>
+	<style>
+
+	header,
+	footer {
+	  color: #555;
+	}
+
+	html {
+	  font: normal 14px "Tahoma", Trebuchet MS, Arial, Helvetica, sans-serif;
+		padding: 10px;
+		align:center
+
+	}
+
+	iframe {
+	}
+
+	#button {
+		height: 50px;
+		width: 150px;
+		border-color: #6495ED;
+		background-color: #BCD2EE;
+		border width: 2px;
+		border-radius: 4px;
+		text-align: center;
+		font-size: 14px;
+		}	
+	
+	
+	p {
+		font-family: Tahoma, sans-serif;
+		text-align: center;
+		margin: auto;
+		text-decoration: none;
+		}
+		
+	a {
+	font-family: Tahoma, sans-serif;
+	text-align: center;
+	margin: auto;
+	text-decoration: none;
+	}
+	
+	ul {
+    list-style-type: none;
+    font-family: Tahoma, sans-serif;
+    font-size: 10px;
+    color: gray;
+    }
+	
+	progress  {
+	
+	  width: 40%;
+	  height: 1.8em;
+	  background: #fff;
+	  margin-left: 30%;
+	  margin-right: 30%;
+	
+	  	
+	}
+	
+/*Progress Bar colors per Broweser */	 
+
+		progress::-webkit-progress-bar { background: #E8E8E8; }
+		
+		#progresstimer::-webkit-progress-value { background: #a60010; }
+		#progresstree::-webkit-progress-value { background: #00a643; }
+		#progresstimer::-moz-progress-bar { background: #a60010; }
+		#progresstree::-moz-progress-bar { background: #00a643; }
+	
+	
+
+	
+	#inline1 {
+		display: inline-block;
+		vertical-align: top;
+		max-width: 30em;
+	}
+	
+	#inline2 {
+		display: inline-block;
+	}
+
+	
+	.google-maps {
+    position: relative;
+    padding-bottom: 70%; // (450 ÷ 500 = 0.9 = 90%)
+    height: 0;
+    overflow: hidden;
+    	
+	}
+
+	.google-maps iframe {
+    position: absolute;
+    top: 2%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+	
+	</style>
+	
+	<header>
+	<title>Save the Forests</title>
+	</header>
+
+	<body>
+		<h1><center>Save the Forests</center></h1>
+		<h2><center>A game to stop C02 emissions from spreading before time runs out.
+		</center></h2>
+		<br/>
+
+		<div>
+			<!--first div-->			
+			<div id="inline1">
+
+				<p1>Instructions: Once you press "Start," the timer begins.</p>
+				<br/>
+				<p1>The goal here is to stop the forests from disappearing by planting trees,
+				before the year 2114.</p>
+				<br/>
+				<p1>Over time, deforestation destroys the trees that store carbon, thereby increasing the amount of carbon
+				into the atmosphere. Excessive carbon in the atmosphere leads to global warming, drier climates, declines in habitat,
+				disruption to biodiversity, and is generally bad for everyone living on Earth. 
+				</p>
+				<br/>
+				<p1>At the rate we're going, we'll run out of forests in 100 years. This game is intended to bring
+				awareness to the importance of mitigating the effects of deforestation before it's too late.</p>  
+				<br/>	
+				<div id="button">
+
+					<a><br>Start</br></a>
+
+				</div>
+				
+				<br/>
+				
+				<div id="button">
+					<a><br>Plant Trees</br></a>
+				</div>
+				
+				<br/>
+				
+				<div id="button">
+					<br><a href="https://twitter.com/share?text=PlaytheGame&hashtags=SaveRainForest" 
+					target="_blank" onclick="window.open('https://twitter.com/share?text=PlaytheGame&hashtags=SaveRainForest','Save the Forest',
+					'resizable=1,status=1,menubar=1,toolbar=1,scrollbars=1,location=1,directories=1,width=350,height=350,top=60,left=60');
+					return false;">Share on Twitter</br></a>
+				<br/>
+				</div>
+				
+				<br/>
+				<div id="button">
+					<a href="https://plus.google.com/share?url=http://d3.josephine.koding.io/d3forestation_map.html"
+					 target="_blank" onclick="window.open('https://plus.google.com/share?url=http://d3.josephine.koding.io/d3forestation_map.html',
+					 'Save the Forest','resizable=1,status=1,menubar=1,toolbar=1,scrollbars=1,location=1,directories=1,width=350,height=350,
+					 top=60,left=60');return false;"><br>Share on Google+</br></a>
+				
+				<br/>
+				</div>
+				<br/>
+				<div id="button">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://d3.josephine.koding.io/d3forestation_map.html" 
+					target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://d3.josephine.koding.io/
+					d3forestation_map.html','Save the Forest','resizable=1,status=1,menubar=1,toolbar=1,scrollbars=1,location=1,directories=1,
+					width=350,height=350,top=60,left=60');return false;"><br>Share on Facebook</br></a>
+				<br/>
+				</div>
+				<br/>
+
+			</div>
+<!--second div-->	
+						
+				<div id="inline2">
+<!-- 					<div class="google-maps"> -->
+						<br/>
+						<iframe src="d3forestation_map.html" width="1000" height="700" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<!-- 					</div> -->
+				</div>	
+		</div>
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="/highlight.min.js?20120730"></script>
+		<script>
+
+		</script>
+
+		<br></br>
+
+<!-- Trees Left -->	
+				<progress max="100" value="80">
+	 >
+			<div class="progress-bar" >
+				<span style="width: 80%; background: red;">Progress: 80%</span>
+			</div>
+				</progress> 	  
+			<br/>
+			<p>Trees Left</p>
+			<br/>
+<!-- Time Left -->			
+				<progress max="100" value="80" id="progresstimer">
+			<div class="progress-bar">
+				<span style="width: 80%;">Progress: 80%</span>
+			</div>
+				</progress> 	  
+			<br/>
+			<p>1990-2114</p>
+			<br/>
+			
+		<footer>
+			<ul>
+			<li>Read more: <a href="http://www.conserve-energy-future.com/various-deforestation-facts.php">http://www.conserve-energy-future.com/various-deforestation-facts.php</a></li>
+			<li>Sources: <a href="http://www.worldbank.org">World Bank Data </a></li>
+			<li>Made with ❤ in California. 2014.</li>
+			</ul>		
+		</footer>
+	
+	</body>
+
+</html>
+
