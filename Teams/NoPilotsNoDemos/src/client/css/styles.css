@@ -1,0 +1,65 @@
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+#wrap { height: 100%; }
+	#wrap.loading { background: url('../img/loading.gif') no-repeat center 132px; }
+#notFooter { min-height: calc(100% - 300px); }
+
+body { font-size: 18px; line-height: 150%; font-family: 'Open Sans', sans-serif; }
+p { margin-bottom: 15px; }
+
+#link2results { 
+	position: absolute; top: 36px; right: 30px;
+	display: none;
+}
+#link2results a {
+	display: inline-block; padding: 10px;
+	color: #fff; border-radius: 30px; background: #eee;
+	font-size: 36px;
+}
+#link2results a:hover { background-color: #333; }
+#link2results > input { 
+	position: relative; top: -5px; 
+	display: inline-block; width: 0; height: 0; padding: 0; 
+	border: none; 
+}
+
+.search input {
+	display: block;	width: 100%; height: 132px; padding: 30px 120px 30px 60px; 
+	border: 0;
+	font-size: 24px; vertical-align: middle;
+}
+.search input:focus { outline: none; }
+
+.result { 
+	position: relative; padding: 30px 60px; 
+	border-top: 1px solid #eee; }
+
+.result h2 { position: relative; font-size: 24px; padding-left: 60px; text-transform: capitalize; }
+.result h2 > span { position: absolute; left: 0; top: 0; text-transform: capitalize; }
+.result p { padding-left: 60px; }
+
+.result .feedback-overlay { display: none; }
+.result:hover .feedback-overlay { 
+	position: absolute; top: 0; left: 0; 
+	display: block; width: 100%; height: 100%; 
+	background: rgba(0,0,0,.5);
+	font-size: 36px; color: #fff;
+}
+.result .feedback-overlay a { 
+	position: absolute; top: 0; right: 0; 
+	padding: 15px;
+	color: #fff;
+}
+.result .feedback-overlay a:hover { color: #31b0d5; }
+.result .feedback-overlay a.down { top: auto; bottom: 0; }
+
+#footer { background: #eee; }
+#footer .padder { height: 300px; padding: 30px; }
+#footer .get-involved .padder { color: #fff; background: #31b0d5; }
+#footer .get-involved .text-primary { color: #333; }
+#footer .get-involved p { margin: 30px 0; }
+
+#feedbackModal .modal-dialog { width: 700px; }
+.modal-header, .modal-body { padding: 30px; }
+.modal-body img { max-width: 100%; height: auto; }
+.modal-body .glyphicon { font-size: 36px; margin-right: 10px; }

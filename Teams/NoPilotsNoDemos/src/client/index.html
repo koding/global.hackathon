@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="NPND">
+
+    <title>tosbot, at your service</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet'  type='text/css'>
+    <link href="css/styles.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div id="wrap">
+
+        <div id="notFooter">
+
+            <div id="link2results">
+                <a href="#" title="Shorten results link and copy to clipboard"><span class="glyphicon glyphicon-link"></span></a>
+                <input type="text" value="" data-toggle="tooltip" data-placement="bottom" title="ctrl-C to copy" />
+            </div>
+
+            <div class="search">
+                <input type="text" id="search" placeholder="Enter the URL for a Terms of Service or Privacy Policy here, and we'll summarize and evaluate it" autofocus>
+            </div>
+
+            <section id="results">
+
+
+            </section>
+
+        </div><!-- #notFooter -->
+
+        <section id="footer">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="padder">
+                        <h3>About TOSbot</h3>
+                        <p>This project was originally submitted to <a href="https://koding.com/Hackathon">Koding's Global Hackathon</a> by <a href="https://github.com/npnd">Team NPND</a> on December 7th, 2014.</p>
+                        <p><a href="mailto:mark@npnd.com"><span class="glyphicon glyphicon-envelope"></span> Contact Us</a></p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="padder">
+                        <h3>APIs</h3>
+                        <ul>
+                            <li><a href="https://tosdr.org/">TOS;DR</a></li>
+                            <li><a href="https://www.apitools.com/">APItools</a></li>
+                            <li>
+                                <a href="https://www.mashape.com/">Mashape</a>
+                                <ul>
+                                    <li><a href="http://runu.ga/">RuGu Shrink</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="http://sprint.ly">Sprint.ly</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="padder">
+                        <h3>Resources</h3>
+                        <ul>
+                            <li><a href="https://tosback.org/">EFF's TOSback</a></li>
+                            <li><a href="http://harthur.github.io/brain/">brain.js</a></li>
+                            <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
+                            <li><a href="http://jquery.com/">jQuery</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="get-involved col-md-3">
+                    <div class="padder">
+                        <h3>Help Us Improve</h3>
+                        <div class="enable-feedback-mode">
+                            <p><a class="btn btn-lg btn-default turn-on-feedback-mode">Turn on Feedback Mode</a></p>
+                            <p><a style="color:#fff;" data-toggle="modal" href="#feedbackModal">Learn more about Feedback Mode</a></p>
+                        </div>
+                        <div class="feedback-mode-actions hidden">
+                            <p>Once you're done, click "submit" below to send your feedback to us.</p>
+                            <p class="text-center">
+                                <a class="btn btn-lg btn-default" href="#">Submit</a> <a class="text-primary" href="#">cancel</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <div id="feedbackModal" class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <h3 class="modal-title">Help Improve Our Model</h3>
+          </div>
+          <div class="modal-body">
+            <p>If you notice something off in our results, you can help improve our model by letting us know.</p>
+            <p>Once you turn on Feedback Mode, hovering your mouse over a concept will reveal some tools:</p>
+            <p class="text-center"><img src="img/screenshot-down.png" /></p>
+            <p><span class="glyphicon glyphicon-arrow-up pull-left"></span> Clicking the up arrow tells us that this TOS is better on this concept than we report.</p>
+            <p><span class="glyphicon glyphicon-arrow-down pull-left"></span> Clicking the down arrow tells us that this TOS is worse on this concept than we report.</p>
+            <p>Once you're done evaluating concepts, click "Submit" in the footer where you originally launched this modal:</p>
+            <p class="text-center"><img src="img/screenshot-feedback-submit.jpg" /></p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Got it</button>
+            <button type="button" class="btn btn-info turn-on-feedback-mode">Turn on Feedback Mode</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
