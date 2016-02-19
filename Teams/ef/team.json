@@ -1,0 +1,24 @@
+{
+  "teamName": "ef",
+  "members": [
+    {
+      "name": "Ovidiu-Alexandru Alexa",
+      "koding": "iamawebsite",
+      "location": "Bucharest, RO",
+      "lead": true
+    },
+    {
+      "name": "Andrei Epure",
+      "koding": "iepster",
+      "location": "Bucharest, RO",
+      "lead": false
+    },
+    {
+      "name": "David Emanuel Oprea",
+      "koding": "unneuron",
+      "twitter": "unneuron",
+      "location": "Bucharest, RO",
+      "lead": false
+    }
+  ]
+}
